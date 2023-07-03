@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nature Now</title>
+    <link>https://kptz.org/2015/03/23/your-kptz-nature-now-team/</link>
+    <language>en-us</language>
+    <itunes:author>KPTZ's Nature Now Team</itunes:author>
+    <description>Nature Now presents eclectic Pacific Northwest-focused news, insights and observations about the natural world around us. Anything that grabs the attention of the Nature Now team can be heard on these episodes: birds and bees, flowers and trees, the weather and the stars – everything from microscopic Salish Sea plankton to ecosystem dynamics in a changing world. Every member of the Nature Now team is fascinated by the wonders of the natural world around us, is endlessly curious, hungry for new knowledge, and loves to share these passions with our listeners. 
+    </description>
+    <itunes:owner>
+      <itunes:name>KPTZ Nature Now</itunes:name>
+      <itunes:email>naturenow@kptz.org</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://cdn.kptz.org/wp-content/uploads/2018/12/21113738/NatureNowLogo.jpg"
+    />
+    <itunes:category text="Science">
+      <itunes:category text="Nature"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>What is a Naturalist?</title>
+      <itunes:title>What is a Naturalist?</itunes:title>
+      <description>Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists. We can be fascinated and often excited by observing behaviors, attributes and traits in the natural world – using our sensory experiences in the noticing of patterns and variety in the world around us.<p />If you enjoyed this episode and want to support the work that goes into making Nature Now, go to kptz.org/donate to make a contribution.
+      </description>
+      <enclosure 
+        url="https://cdn.kptz.org/2020/06/Nature-Now465-Ken-Wilson.mp3"
+        length="30135658" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now465</guid>
+      <pubDate>Mon, 19 Jun 2023</pubDate>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
+
+
+
+
+
