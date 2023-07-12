@@ -1,8 +1,7 @@
-<rss version="2.0">
-<!-- take out next two lines
+<!-- take out line
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 -->
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nature Now</title>
     <link>https://kptz.org/podcasts/nature-now/</link>
@@ -25,10 +24,10 @@
       <title>What is a Naturalist?</title>
       <itunes:title>What is a Naturalist?</itunes:title>
 	  <description>
-	  <p>Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists. We can be fascinated and often excited by observing behaviors, attributes and traits in the natural world – using our sensory experiences in the noticing of patterns and variety in the world around us. (Airdate: June 4, 2020) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>
+	  <p>1Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists. We can be fascinated and often excited by observing behaviors, attributes and traits in the natural world – using our sensory experiences in the noticing of patterns and variety in the world around us. (Airdate: June 4, 2020) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>
       </description>
 	  <content:encoded>
-	  <p>Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists. We can be fascinated and often excited by observing behaviors, attributes and traits in the natural world – using our sensory experiences in the noticing of patterns and variety in the world around us. (Airdate: June 4, 2020) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>
+	  <p>1Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists. We can be fascinated and often excited by observing behaviors, attributes and traits in the natural world – using our sensory experiences in the noticing of patterns and variety in the world around us. (Airdate: June 4, 2020) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>
       </content:encoded>
       <enclosure 
         url="https://cdn.kptz.org/2020/06/Nature-Now465-Ken-Wilson.mp3"
