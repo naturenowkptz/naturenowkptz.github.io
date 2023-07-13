@@ -18,6 +18,68 @@
       <itunes:category text="Nature"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 498 -->
+	<item>
+      <title>The Great Pacific Octopus in Hood Canal</title>
+      <itunes:title>The Great Pacific Octopus in Hood Canal</itunes:title>
+	  <itunes:summary>
+	  Guest host Kate Dwyer talks with Tim Carpenter of the Seattle Aquarium about the great Pacific Octopus.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Guest host Kate Dwyer talks with Tim Carpenter of the Seattle Aquarium about the great Pacific Octopus. (Airdate: January 20, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now498-Kate-Dwyer-and-Tim-Carpenter.mp3"
+        length="42599339" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now498</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1689</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 497 -->
+	<item>
+      <title>Fidalgo Island Reports: Winter</title>
+      <itunes:title>Fidalgo Island Reports: Winter</itunes:title>
+	  <itunes:summary>
+	  Beavers and amphibians respond to winter life, as observed on Fidalgo Island with Bob Jepperson, hosted by Mary Robson.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Beavers and amphibians respond to winter life, as observed on Fidalgo Island with Bob Jepperson, hosted by Mary Robson. (Airdate: January 13, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now497-Bob-Jesperson.mp3"
+        length="39106968" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now497</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 496 -->
+	<item>
+      <title>Coastal Habitat Restoration</title>
+      <itunes:title>Coastal Habitat Restoration</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Dr. Ron Thom, Staff Scientist Emeritus with the Pacific Northwest National Lab in Sequim, about coastal and estuarine ecosystem restoration and the concept and science of net habitat improvement.
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Dr. Ron Thom, Staff Scientist Emeritus with the Pacific Northwest National Lab in Sequim, about coastal and estuarine ecosystem restoration and the concept and science of net habitat improvement. (Airdate: January 6, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now496-Ron-Thom-Coastal-Habitat.mp3"
+        length="36658307" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now496</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1710</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 465 -->
     <item>
       <title>What is a Naturalist?</title>
       <itunes:title>What is a Naturalist?</itunes:title>
@@ -33,7 +95,7 @@
         type="audio/mpeg" 
       />
       <guid>Nature-Now465</guid>
-      <pubDate>Wed, 04 Jun 2020</pubDate>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
       <itunes:duration>1585</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
