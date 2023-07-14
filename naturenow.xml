@@ -19,7 +19,127 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
-	<!-- EPISODE 511 out of order to keep parts together -->
+	<!-- EPISODE 512 -->
+	<item>
+      <title>Bird Migration (Part 2)</title>
+      <itunes:title>Bird Migration (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Host Debaran Kelso speaks with Dr. Geoff Hammerson on the wonders of bird migration.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with Dr. Geoff Hammerson on the wonders of bird migration. (Reprise airdate: April 28, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now512-Encore-of-415-Bird-Migration-pt2.mp3"
+        length="41766942" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now512</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1511</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 508 -->
+	<item>
+      <title>Bird Migration (Part 1)</title>
+      <itunes:title>Bird Migration (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Host Debaran Kelso speaks with Dr. Geoff Hammerson on different aspects of bird migration.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with Dr. Geoff Hammerson on different aspects of bird migration. (Reprise airdate: March 21, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now508-Encore-NN4112019-05-08-Geoff-Hammerson.mp3"
+        length="39782724" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now508</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1432</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 503 -->
+	<item>
+      <title>Understanding The Tides (Part 2)</title>
+      <itunes:title>Understanding The Tides (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Host Nan Evans talks with Jonathan White about his quest to better understand tides.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Nan Evans talks with Jonathan White, active marine conservationist, sailor and surfer, and author of the new book Tides: The Science and Spirit of the Ocean, about his quest to better understand tides. (Reprise airdate: February 24, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/02/Nature-Now503-Reprise-of-303-Understanding-The-Tides-Part-2-.mp3"
+        length="37992472" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now503</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1495</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 499 -->
+	<item>
+      <title>Understanding The Tides (Part 1)</title>
+      <itunes:title>Understanding The Tides (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Host Nan Evans talks with Jonathan White about his quest to better understand tides.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Nan Evans talks with Jonathan White, active marine conservationist, sailor and surfer, and author of the new book Tides: The Science and Spirit of the Ocean, about his quest to better understand tides. (Reprise airdate: January 27, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now499-Reprise-of-299-Understanding-The-Tides-Part-1.mp3"
+        length="36210978" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now499</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1400</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 510 -->
+	<item>
+      <title>Spring Walk Above the Elwa River</title>
+      <itunes:title>Spring Walk Above the Elwa River</itunes:title>
+	  <itunes:summary>
+	  Mary Robson hosts Laurel Anne Moulton, Regional Horticultural Specialist for Callam County, in a spring walk identifying flowers and shrubs in forest and ‘bald’ locations.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson hosts Laurel Anne Moulton, Regional Horticultural Specialist for Callam County, in a spring walk identifying flowers and shrubs in forest and ‘bald’ locations. (Airdate: April 14, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now510-Laurel-Moulton.mp3.mp3"
+        length="36664421" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now510</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1594</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 509 -->
+	<item>
+      <title>Springtime in the Quimper Corridor</title>
+      <itunes:title>Springtime in the Quimper Corridor</itunes:title>
+	  <itunes:summary>
+	  Celebrate the Quimper Wildlife Corridor with Nan Evans and her guests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Celebrate Port Townsend’s natural treasure, the Quimper Wildlife Corridor, with Nan Evans. Nan and her guests take listeners on a virtual field trip looking for the first signs of spring. Special guests are Sarah Spaeth, Director of Conservation and Strategic Partnerships with the Jefferson Land Trust; and local naturalists Wendy Feltham, Geoff Hammerson, and Chloe Lampert. (Airdate: April 7, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now509-Quimper-Corridor.mp3"
+        length="41297597" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now509</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 511 -->
 	<item>
       <title>Coastal Geology of the Quimper Peninsula (Part 2)</title>
       <itunes:title>Coastal Geology of the Quimper Peninsula (Part 2)</itunes:title>
@@ -36,7 +156,7 @@
       />
       <guid>Nature-Now511</guid>
       <pubDate>Thu, 13 Jul 2023</pubDate>
-      <itunes:duration>1703</itunes:duration>
+      <itunes:duration>1711</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 	<!-- EPISODE 507 -->
@@ -56,7 +176,7 @@
       />
       <guid>Nature-Now507</guid>
       <pubDate>Thu, 13 Jul 2023</pubDate>
-      <itunes:duration>1703</itunes:duration>
+      <itunes:duration>1725</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 	<!-- EPISODE 506 -->
@@ -76,7 +196,7 @@
       />
       <guid>Nature-Now506</guid>
       <pubDate>Thu, 13 Jul 2023</pubDate>
-      <itunes:duration>1703</itunes:duration>
+      <itunes:duration>1632</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 	<!-- EPISODE 505 -->
@@ -116,7 +236,7 @@
       />
       <guid>Nature-Now504</guid>
       <pubDate>Thu, 13 Jul 2023</pubDate>
-      <itunes:duration>1707</itunes:duration>
+      <itunes:duration>1671</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 	<!-- EPISODE 502 -->
