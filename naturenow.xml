@@ -19,6 +19,126 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 511 out of order to keep parts together -->
+	<item>
+      <title>Coastal Geology of the Quimper Peninsula (Part 2)</title>
+      <itunes:title>Coastal Geology of the Quimper Peninsula (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Host Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes (part 2 of a two part program). (Airdate: April 21, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now511Varn-Brooks-pt2.mp3"
+        length="45428420" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now511</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 507 -->
+	<item>
+      <title>Coastal Geology of the Quimper Peninsula (Part 1)</title>
+      <itunes:title>Coastal Geology of the Quimper Peninsula (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Host Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes (part 1 of a two part program). (Airdate: March 24, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now507-Varn-Brooks-pt1.mp3"
+        length="46417967" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now507</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 506 -->
+	<item>
+      <title>Water Predictions 2021</title>
+      <itunes:title>Water Predictions 2021</itunes:title>
+	  <itunes:summary>
+	  Hydrologist Ann Soule discusses with Mary Robson this year’s snow accumulation and the resulting potential water resources for this summer.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Hydrologist Ann Soule discusses with Mary Robson this year’s snow accumulation and the resulting potential water resources for this summer. (Airdate: March 17, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now506-Ann-Soule-Water-Shed.mp3"
+        length="35333623" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now506</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 505 -->
+	<item>
+      <title>Puffins and Climate Change</title>
+      <itunes:title>Puffins and Climate Change</itunes:title>
+	  <itunes:summary>
+	  What can puffins tell us about the impact of climate change on marine ecosystems?	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Climate change in the marine environment, food webs and forage fish, puffins and other seabirds – fitting it all together. Nan Evans, in conversation with Dr. John Piatt of the USGS Alaska Science Center, explores the interconnections and the changing marine ecosystems. (Airdate: March 10, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now505-John-Piatt-Puffins.mp3"
+        length="36519542" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now505</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 504 -->
+	<item>
+      <title>Being a Naturalist in the Year of the Pandemic</title>
+      <itunes:title>Being a Naturalist in the Year of the Pandemic</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Wendy Feltham talk about their experiences as naturalists during this strange last year of the pandemic.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Wendy Feltham talk about their experiences as naturalists during this strange last year of the pandemic – adjusting to stay-at-home orders, practicing social distancing, losing opportunities, discovering new ways of learning and sharing, finding new favorite places to explore in our own neighborhoods, and adapting to change. (Airdate: March 3, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now504-Wendy-Fellman.mp3"
+        length="37175183" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now504</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 502 -->
+	<item>
+      <title>Birds and Winter Weather Challenges</title>
+      <itunes:title>Birds and Winter Weather Challenges</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Gary Bullock discuss problems birds have with extreme weather conditions, freezing and snow, and other seasonal observations.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson and Gary Bullock discuss problems birds have with extreme weather conditions, freezing and snow, and other seasonal observations. (Airdate: February 17, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/02/Nature-Now502-Gary-Bullock.mp3"
+        length="36303508" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now502</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 498 -->
 	<item>
       <title>The Great Pacific Octopus in Hood Canal</title>
