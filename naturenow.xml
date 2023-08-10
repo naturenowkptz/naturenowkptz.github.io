@@ -19,7 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
-	<!-- retry -->
+	<!-- EPISODE 631 -->
+	<item>
+      <title>A Family’s Experience on Chimacum Ridge</title>
+      <itunes:title>A Family’s Experience on Chimacum Ridge</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Erik and Jen Kingfisher about their family’s experiences living at the foot of the Ridge and how strong relationships with place were built.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Come with Nan Evans to the forests of Chimacum Ridge as she talks with Erik and Jen Kingfisher about their family’s experiences living at the foot of the Ridge and how strong relationships with place were built. Jen calls the Ridge “not spectacular, but perfect”. Hear about the ecological features of the Ridge and the vision of it becoming a treasured community forest in perpetuity for the enjoyment of all members of our community. (Airdate: August 9, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/08104622/Nature-Now631-Chimacum-Ridge.mp3"
+        length="51628957" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now631</guid>
+      <pubDate>Thu, 10 Aug 2023</pubDate>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 627 -->
 	<item>
       <title>Bald Eagles</title>
@@ -669,7 +688,7 @@
 	  Christie Lassen, with Mary Robson, discusses bird rehabilitation: where and how are injured birds helped locally?	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Christie Lassen, with Mary Robson, discusses bird rehabilitation: where and how are injured birds helped locally? (Airdate: July 27, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Christie Lassen, with Mary Robson, discusses bird rehabilitation: where and how are injured birds helped locally? (Airdate: July 27, 2022) </p><p>Read about the <a href='https://www.bbc.com/news/world-us-canada-54996314'>saw-whet owl discovered in the Rockefeller Center Christmas tree</a>. Learn more about <a href='https://www.discoverybaywildbirdrescue.com/'>Discovery Bay Wild Bird Rescue</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2022/07/18130501/Nature-Now577-Reprise-of-493-Christy-Lassen-Bird-Rehab.mp3"
@@ -1129,7 +1148,7 @@
 	  Nan Evans and retired biologist and fiber artist Carla Stehr explore the topic of art and science inspiring each other.  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Nan Evans and retired fisheries biologist and fiber artist Carla Stehr explore the topic of art and science inspiring each other. (Reprise airdate: December 29, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Nan Evans and retired fisheries biologist and fiber artist Carla Stehr explore the topic of art and science inspiring each other. (Reprise airdate: December 29, 2021) </p><p>Learn more about <a href='https://carlastehr.com/'>Carla Stehr's fiber art</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2021/12/28160122/Nature-Now547-Reprise439-Carla-Stehr-.mp3"
@@ -1149,7 +1168,7 @@
 	  Hydrologist Ann Soule reviews with Mary Robson the water year up to October and considers the effects of storms in November and December.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Hydrologist Ann Soule reviews with host Mary Robson the water year up to October 2021 and considers the effects of storms in November and December 2021. (Airdate: December 15, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Hydrologist Ann Soule reviews with host Mary Robson the water year up to October 2021 and considers the effects of storms in November and December 2021. (Airdate: December 15, 2021) </p><p>Learn more about <a href='https://centervalleyanimalrescue.org/'>Center Valley Animal Rescue</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2021/12/15055541/Nature-Now545-Anne-Soule.mp3"
@@ -1189,7 +1208,7 @@
 	  Laurel Moulton and Mary Robson discuss insect over-wintering tactics and current news on the Asian Giant Hornet. 	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Laurel Moulton and Mary Robson discuss insect over-wintering tactics and current news on the Asian Giant Hornet. How do they stay alive? (Airdate: November 24, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Laurel Moulton and Mary Robson discuss insect over-wintering tactics and current news on the Asian Giant Hornet. How do they stay alive? (Airdate: November 24, 2021) </p><p>WA State Dept of Agriculture's information about <a href='https://agr.wa.gov/departments/insects-pests-and-weeds/insects/hornets'>invasive hornets</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2021/11/25114609/Nature-Now542Laurel-Moulton.mp3"
