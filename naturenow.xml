@@ -19,6 +19,46 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 632 -->
+	<item>
+      <title>Pigeon Guillemot Survey (Part 2)</title>
+      <itunes:title>Pigeon Guillemot Survey (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson and volunteer Karin Ertl.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. The network is a community science project that monitors breeding colonies across our region to understand their role in healthy coastal ecosystems. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson and volunteer Karin Ertl, who both make this project happen in the field. Both guests provide a portrait of the Pigeon Guillemot, a fascinating seabird that shares both our land and water ecosystems (part 2 of a two-part program). (Airdate: August 16, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/14123503/Nature-Now632-Pigeon-Guillemot-pt2.mp3"
+        length="51355317" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now632</guid>
+      <pubDate>Tue, 15 Aug 2023</pubDate>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 630 -->
+	<item>
+      <title>Pigeon Guillemot Survey (Part 1)</title>
+      <itunes:title>Pigeon Guillemot Survey (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dr. Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. This network is a community science project that monitors breeding colonies of pigeon guillemots, an endemic seabird. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson who will share reflections about this seabird and what we can learn about the birds’ role in a healthy coastal ecosystem (part 1 of a two-part program). (Airdate: August 2, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/07140451/Nature-Now-630-Pigeon-Guillemot.mp3"
+        length="33391152" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now630</guid>
+      <pubDate>Tue, 15 Aug 2023</pubDate>
+      <itunes:duration>1528</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 631 -->
 	<item>
       <title>A Family’s Experience on Chimacum Ridge</title>
@@ -928,7 +968,7 @@
 	  Nan Evans talks with Maggie Baker and Suzy Elbow, this year’s AmeriCorps Service Members who are sponsored by the Friends of Fort Worden.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Nan Evans talks with Maggie Baker and Suzy Elbow, this year’s AmeriCorps Service Members who are sponsored by the Friends of Fort Worden. Learn about their care of the parks natural resources, their public education activities, and about the Port Orford Cedars found up near the bunkers this past year. (Airdate: March 23, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Nan Evans talks with Maggie Baker and Suzy Elbow, this year’s AmeriCorps Service Members who are sponsored by the Friends of Fort Worden. Learn about their care of the parks natural resources, their public education activities, and about the Port Orford Cedars found up near the bunkers this past year. (Airdate: March 23, 2022) </p><p>Learn more about the <a href='https://www.fwfriends.org/'>Friends of Fort Worden</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2022/03/21170719/NATURE-NOW-559-Americorp-Service.mp3"
