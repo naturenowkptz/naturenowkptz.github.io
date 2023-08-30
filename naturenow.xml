@@ -19,6 +19,46 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 628 -->
+	<item>
+      <title>What Your Food Ate (Part 2)</title>
+      <itunes:title>What Your Food Ate (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans continues her conversation with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate. This book deepens and broadens that old adage that “we are what we eat” by exploring how the health of soil ecosystems form the roots of a complex dynamic that determines the health of crops, livestock, and ultimately human communities. This discussion delves deeper into the benefits of restorative agriculture (part 2 of a two-part program). (Airdate: July 19, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/29172951/Nature-Now-628-What-Yout-Food-Ate-2.mp3"
+        length="25377607" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now628</guid>
+      <pubDate>Wed, 30 Aug 2023</pubDate>
+      <itunes:duration>1727</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 625 -->
+	<item>
+      <title>What Your Food Ate (Part 1)</title>
+      <itunes:title>What Your Food Ate (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Nan Evans as she talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate. This book deepens and broadens that old adage that "we are what we eat" by exploring how the health of soil ecosystems form the roots of a complex dynamic that determines the health of crops, livestock, and ultimately human communities (part 1 of a two-part program). (Airdate: June 28, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/06/26232736/Nature-Now625-What-Your-Food-Ate-pt1.mp3"
+        length="52454779" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now625</guid>
+      <pubDate>Wed, 30 Aug 2023</pubDate>
+      <itunes:duration>1705</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 632 -->
 	<item>
       <title>Pigeon Guillemot Survey (Part 2)</title>
@@ -27,7 +67,7 @@
 	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson and volunteer Karin Ertl.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. The network is a community science project that monitors breeding colonies across our region to understand their role in healthy coastal ecosystems. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson and volunteer Karin Ertl, who both make this project happen in the field. Both guests provide a portrait of the Pigeon Guillemot, a fascinating seabird that shares both our land and water ecosystems (part 2 of a two-part program). (Airdate: August 16, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. The network is a community science project that monitors breeding colonies across our region to understand their role in healthy coastal ecosystems. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson and volunteer Karin Ertl, who both make this project happen in the field. Both guests provide a portrait of the pigeon guillemot, a fascinating seabird that shares both our land and water ecosystems (part 2 of a two-part program). (Airdate: August 16, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2023/08/14123503/Nature-Now632-Pigeon-Guillemot-pt2.mp3"
@@ -99,27 +139,6 @@
       <itunes:duration>1589</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 625 
-	<item>
-      <title>What Your Food Ate (Part 1)</title>
-      <itunes:title>What Your Food Ate (Part 1)</itunes:title>
-	  <itunes:summary>
-	  Nan Evans talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate.	  
-	  </itunes:summary>
-	  <description>
-	  <![CDATA[<p>Join Nan Evans as she talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate. This book deepens and broadens that old adage that "we are what we eat" by exploring how the health of soil ecosystems form the roots of a complex dynamic that determines the health of crops, livestock, and ultimately human communities (part 1 of a two-part program). (Airdate: June 28, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
-      </description>
-	  <enclosure 
-        url="https://cdn.kptz.org/2023/06/26232736/Nature-Now625-What-Your-Food-Ate-pt1.mp3"
-        length="52454779" 
-        type="audio/mpeg" 
-      />
-      <guid>Nature-Now625</guid>
-      <pubDate>Wed, 02 Aug 2023</pubDate>
-      <itunes:duration>1705</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-	-->
 	<!-- EPISODE 623 -->
 	<item>
       <title>Puget Sound Winter Seabird Survey</title>
