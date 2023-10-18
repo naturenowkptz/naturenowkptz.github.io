@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 641 -->
+	<item>
+      <title>Beyond Words: What Animals Think and Feel</title>
+      <itunes:title>Beyond Words: What Animals Think and Feel</itunes:title>
+	  <itunes:summary>
+	  Ecologist, writer, and philosopher Dr. Carl Safina is interviewed by Nan Evans and they discuss various aspects of animal behavior.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Ecologist, writer, and philosopher Dr. Carl Safina, author of Beyond Words: What Animals Think and Feel, is interviewed by Nan Evans and they discuss various aspects of animal behavior. (Reprise airdate: October 18, 2023) </p><p>Learn more about <a href='https://www.carlsafina.org/'>Carl Safina</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/10/16155447/Nature-Now641-Reprise-of-234-Beyond-Words.mp3"
+        length="33724878" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now641</guid>
+      <pubDate>Wed, 18 Oct 2023</pubDate>
+      <itunes:duration>1586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 639 -->
 	<item>
       <title>Sunflower Sea Stars</title>
