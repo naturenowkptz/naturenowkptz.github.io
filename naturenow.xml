@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 636 -->
+	<item>
+      <title>Avian Flu on Rat Island (Part 1)</title>
+      <itunes:title>Avian Flu on Rat Island (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Dr. Katie Hanan and Dr. Scott Pearson who answer questions about the recent avian flu outbreak on Rat Island and discuss the outlook for the future.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Dr. Katie Hanan, Wildlife Veterinarian, and Dr. Scott Pearson, Senior Research Scientist – both with the Washington Department of Fish and Wildlife – who answer questions about the recent avian flu outbreak on Rat Island off Marrowstone Island and discuss the outlook for the future. The outbreak is the first H5N1 avian flu event in the marine environment in Washington state.  We are estimating an 80% colony loss on Rat island which hosts breeding Caspian Terns, Olympic Gulls, and Harbor Seals (part 1 of two programs on this topic). (Airdate: September 13, 2023) </p><p>For additional information on avian influenza visit: <a href='https://wdfw.wa.gov/species-habitats/diseases/bird-flu'>WA Department of Fish & Wildlife</a> and <a href='https://doh.wa.gov/avian-influenza'>WA Department of Health</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/09/12131946/Nature-Now636-Caspian-Tern-Rat-Island.mp3"
+        length="52330752" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now636</guid>
+      <pubDate>Mon, 23 Oct 2023</pubDate>
+      <itunes:duration>1598</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 641 -->
 	<item>
       <title>Beyond Words: What Animals Think and Feel</title>
