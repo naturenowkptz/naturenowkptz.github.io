@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 642 -->
+	<item>
+      <title>Avian Flu on Rat Island (Part 2)</title>
+      <itunes:title>Avian Flu on Rat Island (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Dr. Steve Hampton about the plight of the Caspian Tern colony on Rat Island.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Dr. Steve Hampton about the plight of the Caspian Tern colony on Rat Island near Flagler campground on Marrowstone Island. Hampton discusses the events of 2022 and 2023 that led to an 80% loss of the breeding colony due to human disturbance and an avian flu outbreak. If we understand the historical perspective of the Caspian Tern dilemma, perhaps humans and the agencies responsible for the management of Rat Island can make 2024 less painful (part 2 of two programs on this topic). (Airdate: October 25, 2023) </p>Learn more about <a href='https://stephen-carr-hampton.com/'>Steve Hampton</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/10/23164324/Nature-Now642-Plight-of-the-Caspian-Tern-pt2.mp3"
+        length="35789774" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now642</guid>
+      <pubDate>Thu, 26 Oct 2023</pubDate>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 636 -->
 	<item>
       <title>Avian Flu on Rat Island (Part 1)</title>
