@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 644 -->
+	<item>
+      <title>Spirit Whales and Sloth Tales</title>
+      <itunes:title>Spirit Whales and Sloth Tales</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with paleontologist Liz Nesbitt and writer David Williams about fossils of Washington State, especially the Olympic Peninsula and the Puget Sound area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with paleontologist Liz Nesbitt and natural history writer David Williams about fossils of Washington State, especially the Olympic Peninsula and the Puget Sound area. Liz and David will share stories and explore many of the tales of ancient critters, big and small, that are discussed in their new book, Spirit Whales and Sloth Tales. (Airdate: November 8, 2023) </p><p>Learn more about:<br /><a href='https://www.burkemuseum.org/'>Burke Museum</a><br />David Williams <a href='https://geologywriter.com/'>website</a> and <a href='https://streetsmartnaturalist.substack.com/'>newsletter</a><br /><a href='https://ptmsc.org/'>Port Townsend Marine Science Center</a><br />Ray Troll <a href='https://www.trollart.com/'>art</a> and <a href='https://www.paleonerds.com/'>podcast</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/11/07155701/Nature-Now644-Spirit-Whales-Sloth.mp3"
+        length="38166030" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now644</guid>
+      <pubDate>Wed, 08 Nov 2023</pubDate>
+      <itunes:duration>1766</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>	
 	<!-- EPISODE 643 -->
 	<item>
       <title>Mushroom Foray (Part 1)</title>
