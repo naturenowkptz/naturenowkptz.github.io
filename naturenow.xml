@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 648 -->
+	<item>
+      <title>Sea Otter Conservation</title>
+      <itunes:title>Sea Otter Conservation</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Jim Bodkin about what scientists have learned about sea otter ecology and conservation since otters were nearly forced into extinction by fur hunters.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Jim Bodkin about what scientists have learned about sea otter ecology and conservation since otters were nearly forced into extinction by fur hunters – specifically how important sea otters are to healthy, diverse and resilient ocean ecosystems. How do we know if and when the sea otters have been restored to pre-hunting conditions? Is there a relationship between climate change and healthy sea otter populations? (Airdate: December 6, 2023) </p><p>Learn more:<br /><a href='https://www.elakhaalliance.org/'>Elakha Alliance – Bringing Back Oregon’s Sea Otters</a><br /><a href='https://www.montereybayaquarium.org/visit/exhibits/sea-otters'>Monterey Bay Aquarium</a><br /><a href='https://www.seattleaquarium.org/animal/sea-otter/'>Seattle Aquarium</a><br /><a href='https://seaotterfoundationtrust.org/'>Sea Otter Foundation & Trust</a><br /><a href='https://www.theguardian.com/environment/2023/nov/30/shoot-or-shelter-why-the-return-of-sea-otters-to-haida-gwaii-isnt-welcomed-by-everyone'>Why the return of sea otters to Canada’s west coast is making waves</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/12/04175550/Nature-Now648-Jim-Bodkin-Sea-Otters.mp3"
+        length="32131392" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now648</guid>
+      <pubDate>Wed, 06 Dec 2023</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 646 -->
 	<item>
       <title>Mushroom Foray (Part 2)</title>
@@ -347,7 +367,7 @@
 	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson and volunteer Karin Ertl.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. The network is a community science project that monitors breeding colonies across our region to understand their role in healthy coastal ecosystems. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson and volunteer Karin Ertl, who both make this project happen in the field. Both guests provide a portrait of the pigeon guillemot, a fascinating seabird that shares both our land and water ecosystems (part 2 of a two-part program). (Airdate: August 16, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. The network is a community science project that monitors breeding colonies across our region to understand their role in healthy coastal ecosystems. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson and volunteer Karin Ertl, who both make this project happen in the field. Both guests provide a portrait of the pigeon guillemot, a fascinating seabird that shares both our land and water ecosystems (part 2 of a two-part program). (Airdate: August 16, 2023) </p><p>Learn more about the <a href='http://www.pigeonguillemot.org/'>Salish Sea Guillemot Network</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2023/08/14123503/Nature-Now632-Pigeon-Guillemot-pt2.mp3"
@@ -367,7 +387,7 @@
 	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Dr. Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. This network is a community science project that monitors breeding colonies of pigeon guillemots, an endemic seabird. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson who will share reflections about this seabird and what we can learn about the birds’ role in a healthy coastal ecosystem (part 1 of a two-part program). (Airdate: August 2, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Dr. Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. This network is a community science project that monitors breeding colonies of pigeon guillemots, an endemic seabird. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson who will share reflections about this seabird and what we can learn about the birds’ role in a healthy coastal ecosystem (part 1 of a two-part program). (Airdate: August 2, 2023) </p><p>Learn more about the <a href='http://www.pigeonguillemot.org/'>Salish Sea Guillemot Network</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2023/08/07140451/Nature-Now-630-Pigeon-Guillemot.mp3"
