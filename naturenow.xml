@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 649 -->
+	<item>
+      <title>What Owls Know, What Humans Believe</title>
+      <itunes:title>What Owls Know, What Humans Believe</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso explores the fascinating world of screech owls with Dr. Carl Safina, author of Alfie and Me: What Owls Know, What Humans Believe. 
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso as we explore the fascinating world of screech owls! Renowned ecologist Dr. Carl Safina is our guest, speaking about his most recent book Alfie and Me: What Owls Know, What Humans Believe, which describes his family’s raising of an orphaned Eastern Screech Owl and how this changed their lives. (Airdate: December 13, 2023) </p><p>Learn more:<br /><a href='https://wwnorton.com/books/alfie-and-me'>Alfie and Me: What Owls Know, What Humans Believe</a> by Carl Safina<br />Carl Safina's <a href='https://www.carlsafina.org/'>website</a><br /><a href='https://www.allaboutbirds.org/'>The Cornell Lab of Ornithology</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/12/11111806/Nature-Now649-Carl-Safina-Alfie.mp3"
+        length="40879319" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now649</guid>
+      <pubDate>Wed, 13 Dec 2023</pubDate>
+      <itunes:duration>1558</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 648 -->
 	<item>
       <title>Sea Otter Conservation</title>
