@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 652 -->
+	<item>
+      <title>A New Year’s Reading List</title>
+      <itunes:title>A New Year’s Reading List</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso, Nan Evans, and Jackie Canterbury share their favorite recent natural history books.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Hosts Debaran Kelso, Nan Evans, and Jackie Canterbury have a good time sharing their favorite recent natural history books. Join the fun and start your 2024 "to read" list. (Airdate: January 3, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/01/03100320/Nature-Now652-2024-NewYear-Reading-List.mp3"
+        length="40469944" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now652</guid>
+      <pubDate>Fri, 05 Jan 2024</pubDate>
+      <itunes:duration>1607</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 651 -->
 	<item>
       <title>Christmas Bird Count History and Trends</title>
