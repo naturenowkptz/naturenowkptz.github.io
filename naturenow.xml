@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 653 -->
+	<item>
+      <title>Meeting of Marine Science and Art</title>
+      <itunes:title>Meeting of Marine Science and Art</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits. Nam is a wizard of the traditional Japanese art of making fish impressions and at creating beautiful pressings of marine algae. His science inspires his art and, in turn, his art provides meaning for his science. (Airdate: January 10, 2024) </p><p>Listen to previous Nature Now programs with Nam Siu: <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950245'>Seaweeds (Part 1)</a> and <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950008'>Seaweeds (Part 2)</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/01/08153731/Nature-Now653-Nam-Sui-Meeting-of-Science-and-Art.mp3"
+        length="25738565" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now653</guid>
+      <pubDate>Wed, 10 Jan 2024</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 652 -->
 	<item>
       <title>A New Year’s Reading List</title>
