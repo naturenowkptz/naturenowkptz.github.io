@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 654 -->
+	<item>
+      <title>Humpback Whales, Fermi's Paradox and Curious Aliens (Part 1)</title>
+      <itunes:title>Humpback Whales, Fermi's Paradox and Curious Aliens (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso explores the mysteries of the universe and humpback whale social behavior with Dr. Fred Sharpe.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso as we explore the mysteries of the universe with Dr. Fred Sharpe. Fred has been studying humpback whale social behavior for many years, and for the past decade has joined with SETI to think about intelligent life in the cosmos, and how understanding animal behavior in general, and whale vocalizations in particular, might serve as a model to understand messages from extrasolar planets far, far away (part 1 of a two-part program). (Airdate: January 17, 2024) </p><p>Whale sounds recorded under NOAA Research Permit #19703</p><p>Learn more about:<br /><a href='https://peerj.com/articles/16349/'>Interactive Playback with a Humpback Whale</a><br /><a href='https://www.seti.org/'>SETI Institute</a><br /><a href='https://repository.library.noaa.gov/view/noaa/54369'>Humpback whale interventions</a><br /><a href='https://www.orcanetwork.org/'>Orca Network</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/01/17103551/Nature-Now654-Humpback-Whales-Fermis-Paradox-and-Curious-Aliens.mp3"
+        length="45481785" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now654</guid>
+      <pubDate>Wed, 17 Jan 2024</pubDate>
+      <itunes:duration>1773</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 653 -->
 	<item>
       <title>Meeting of Marine Science and Art</title>
@@ -27,7 +47,7 @@
 	  Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits. Nam is a wizard of the traditional Japanese art of making fish impressions and at creating beautiful pressings of marine algae. His science inspires his art and, in turn, his art provides meaning for his science. (Airdate: January 10, 2024) </p><p>Listen to previous Nature Now programs with Nam Siu: <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950245'>Seaweeds (Part 1)</a> and <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950008'>Seaweeds (Part 2)</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits. Nam is a wizard of the traditional Japanese art of making fish impressions and at creating beautiful pressings of marine algae. His science inspires his art and, in turn, his art provides meaning for his science. (Airdate: January 10, 2024) </p><p>Listen to previous Nature Now programs with Nam Siu: <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950245'>Seaweeds (Part 1)</a> and <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950008'>Seaweeds (Part 2)</a>. </p><p>Learn more about the WA Invasive Species Council's <a href='https://invasivespecies.wa.gov/campaigns/safeguard-our-shellfish/'>Safeguard Our Shellfish campaign</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2024/01/08153731/Nature-Now653-Nam-Sui-Meeting-of-Science-and-Art.mp3"
