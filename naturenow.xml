@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 657 -->
+	<item>
+      <title>Sense of Wonder</title>
+      <itunes:title>Sense of Wonder</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Gary Bullock share experiences while observing nature, basing their thoughts on Rachel Carson's essay A Sense of Wonder.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson and Gary Bullock share experiences while observing nature, basing their thoughts on Rachel Carson's essay A Sense of Wonder. (Airdate: February 7, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/02/05155150/Nature-Now657-The-Sense-of-Wonder.mp3"
+        length="44840830" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now657</guid>
+      <pubDate>Wed, 07 Feb 2024</pubDate>
+      <itunes:duration>1602</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 654 -->
 	<item>
       <title>Humpback Whales, Fermi's Paradox and Curious Aliens (Part 1)</title>
@@ -47,7 +67,7 @@
 	  Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits. Nam is a wizard of the traditional Japanese art of making fish impressions and at creating beautiful pressings of marine algae. His science inspires his art and, in turn, his art provides meaning for his science. (Airdate: January 10, 2024) </p><p>Listen to previous Nature Now programs with Nam Siu: <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950245'>Seaweeds (Part 1)</a> and <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950008'>Seaweeds (Part 2)</a>. </p><p>Learn more about the WA Invasive Species Council's <a href='https://invasivespecies.wa.gov/campaigns/safeguard-our-shellfish/'>Safeguard Our Shellfish campaign</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits. Nam is a wizard of the traditional Japanese art of making fish impressions and at creating beautiful pressings of marine algae. His science inspires his art and, in turn, his art provides meaning for his science. (Airdate: January 10, 2024) </p><p>Watch Nam's lecture: <a href='https://www.youtube.com/watch?v=A0vYSAcCGTM'>Thalassophilic Impressions: Nautical Pursuits, Ocean Conservation, and the Confluence of Art and Science</a>. </p><p>Listen to previous Nature Now programs with Nam Siu: <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950245'>Seaweeds (Part 1)</a> and <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950008'>Seaweeds (Part 2)</a>. </p><p>Learn more about the WA Invasive Species Council's <a href='https://invasivespecies.wa.gov/campaigns/safeguard-our-shellfish/'>Safeguard Our Shellfish campaign</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2024/01/08153731/Nature-Now653-Nam-Sui-Meeting-of-Science-and-Art.mp3"
