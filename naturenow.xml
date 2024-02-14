@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 658 -->
+	<item>
+      <title>Humpback Whales and Bubble Rings (Part 2)</title>
+      <itunes:title>Humpback Whales and Bubble Rings (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso explores the phenomenon of bubble rings formed by humpback whales, and what they might mean, with Dr. Fred Sharpe.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso dives once again into the fascinating world of humpback whales with Dr. Fred Sharpe. This week we focus on the phenomenon of “bubble ring" formation, and what they might mean as a form of communication (part 2 of a two-part program). (Airdate: February 14, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/02/12160755/Nature-Now658-Humpback-Whales-and-Bubble-Rings.mp3"
+        length="23676864" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now658</guid>
+      <pubDate>Wed, 14 Feb 2024</pubDate>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 657 -->
 	<item>
       <title>Sense of Wonder</title>
