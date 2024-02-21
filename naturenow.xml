@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 659 -->
+	<item>
+      <title>Water, Wonder and Wellness</title>
+      <itunes:title>Water, Wonder and Wellness</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Paola Espitia about the health benefits of living near water.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Many of us who live near an ocean know in our hearts, bones and minds about the wonders of living near the water. Join Nan Evans as she talks with Paola Espitia of Ola-Pi Creative about marine biology and the science behind these benefits. (Airdate: February 21, 2024) </p><p>Learn more about the <a href='https://www.youtube.com/watch?v=2ANB5nDW9q8&t=4s'>Blue Mind effect</a>. </p><p>Watch Paola's <a href='https://olapicreative.com/conversations'>Conversations with Wavemakers</a> in blue spaces around the world. </<p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/02/19144639/Nature-Now659-Water-Wonder-and-Wellness-Paola-Ispitia.mp3"
+        length="25718472" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now659</guid>
+      <pubDate>Wed, 21 Feb 2024</pubDate>
+      <itunes:duration>1734</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 658 -->
 	<item>
       <title>Humpback Whales and Bubble Rings (Part 2)</title>
