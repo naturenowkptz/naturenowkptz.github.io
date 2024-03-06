@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 661 -->
+	<item>
+      <title>The Cougar Conundrum (Part 1)</title>
+      <itunes:title>The Cougar Conundrum (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and puma specialist Dr. Mark Elbroch explore both mountain lion ecology and how we might learn to share our world with this large successful predator.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso and puma specialist Dr. Mark Elbroch as they explore both mountain lion ecology and how we might learn to share our world with this large successful predator (part 1 of a two-part program). (Airdate: March 6, 2024) </p><p>Learn more about the Jefferson Land Trust's <a href='https://act.saveland.org/event/conservation-breakfast-2024/e523257'>2024 Conservation Breakfast</a>. </p><p>Learn more about Panthera's <a href='https://panthera.org/blog-post/introducing-olympic-cougar-project'>Olympic Cougar Project</a>. </p>Learn more about the work of <a href='https://markelbroch.com'>Mark Elbroch</a> and his field guides and books, including The Cougar Conundrum. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/03/04165117/Nature-Now661-Cougars-pt1.mp3"
+        length="49194264" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now661`</guid>
+      <pubDate>Wed, 06 Mar 2024</pubDate>
+      <itunes:duration>1654</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 659 -->
 	<item>
       <title>Water, Wonder and Wellness</title>
