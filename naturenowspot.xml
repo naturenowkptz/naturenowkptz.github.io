@@ -40,7 +40,7 @@
       <itunes:duration>1654</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<! --
+	<?ignore
 	<!-- EPISODE 659 -->
 	<item>
       <title>Water, Wonder and Wellness</title>
@@ -2481,7 +2481,7 @@
       <itunes:duration>1585</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	-->
+	?>
   </channel>
 </rss>
 
