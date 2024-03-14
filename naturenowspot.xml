@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nature Now</title>
+    <link>https://kptz.org/podcasts/nature-now/</link>
+    <language>en-us</language>
+    <itunes:author>KPTZ's Nature Now Team</itunes:author>
+    <description>Nature Now presents eclectic Pacific Northwest-focused news, insights and observations about the natural world around us. Anything that grabs the attention of the Nature Now team can be heard on these episodes: birds and bees, flowers and trees, the weather and the stars – everything from microscopic Salish Sea plankton to ecosystem dynamics in a changing world. Every member of the Nature Now team is fascinated by the wonders of the natural world around us, is endlessly curious, hungry for new knowledge, and loves to share these passions with our listeners. 
+    </description>
+    <itunes:owner>
+      <itunes:name>KPTZ Nature Now</itunes:name>
+      <itunes:email>naturenowkptz@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://naturenowkptz.github.io/NNcover.jpg"
+    />
+    <itunes:category text="Science">
+      <itunes:category text="Nature"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+	<!-- FOR S P O T I F Y -->
+	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 661 -->
+	<item>
+      <title>The Cougar Conundrum (Part 1)</title>
+      <itunes:title>The Cougar Conundrum (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and puma specialist Dr. Mark Elbroch explore both mountain lion ecology and how we might learn to share our world with this large successful predator.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso and puma specialist Dr. Mark Elbroch as they explore both mountain lion ecology and how we might learn to share our world with this large successful predator (part 1 of a two-part program). (Airdate: March 6, 2024) </p><p>Learn more about the Jefferson Land Trust's <a href='https://act.saveland.org/event/conservation-breakfast-2024/e523257'>2024 Conservation Breakfast</a>. </p><p>Learn more about Panthera's <a href='https://panthera.org/blog-post/introducing-olympic-cougar-project'>Olympic Cougar Project</a>. </p>Learn more about the work of <a href='https://markelbroch.com'>Mark Elbroch</a> and his field guides and books, including The Cougar Conundrum. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/03/04165117/Nature-Now661-Cougars-pt1.mp3"
+        length="49194264" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now661</guid>
+      <pubDate>Wed, 06 Mar 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1654</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<! --
+	<!-- EPISODE 659 -->
+	<item>
+      <title>Water, Wonder and Wellness</title>
+      <itunes:title>Water, Wonder and Wellness</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Paola Espitia about the health benefits of living near water.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Many of us who live near an ocean know in our hearts, bones and minds about the wonders of living near the water. Join Nan Evans as she talks with Paola Espitia of Ola-Pi Creative about marine biology and the science behind these benefits. (Airdate: February 21, 2024) </p><p>Learn more about the <a href='https://www.youtube.com/watch?v=2ANB5nDW9q8&t=4s'>Blue Mind effect</a>. </p><p>Watch <a href='https://olapicreative.com/conversations'>Paola's Conversations</a> with Wavemakers in blue spaces around the world. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/02/19144639/Nature-Now659-Water-Wonder-and-Wellness-Paola-Ispitia.mp3"
+        length="25718472" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now659</guid>
+      <pubDate>Wed, 21 Feb 2024</pubDate>
+      <itunes:duration>1734</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 658 -->
+	<item>
+      <title>Humpback Whales and Bubble Rings (Part 2)</title>
+      <itunes:title>Humpback Whales and Bubble Rings (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso explores the phenomenon of bubble rings formed by humpback whales, and what they might mean, with Dr. Fred Sharpe.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso dives once again into the fascinating world of humpback whales with Dr. Fred Sharpe. This week we focus on the phenomenon of “bubble ring" formation, and what they might mean as a form of communication (part 2 of a two-part program). (Airdate: February 14, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/02/12160755/Nature-Now658-Humpback-Whales-and-Bubble-Rings.mp3"
+        length="23676864" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now658</guid>
+      <pubDate>Wed, 14 Feb 2024</pubDate>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 657 -->
+	<item>
+      <title>Sense of Wonder</title>
+      <itunes:title>Sense of Wonder</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Gary Bullock share experiences while observing nature, basing their thoughts on Rachel Carson's essay A Sense of Wonder.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson and Gary Bullock share experiences while observing nature, basing their thoughts on Rachel Carson's essay A Sense of Wonder. (Airdate: February 7, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/02/05155150/Nature-Now657-The-Sense-of-Wonder.mp3"
+        length="44840830" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now657</guid>
+      <pubDate>Wed, 07 Feb 2024</pubDate>
+      <itunes:duration>1602</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 654 -->
+	<item>
+      <title>Humpback Whales, Fermi's Paradox and Curious Aliens (Part 1)</title>
+      <itunes:title>Humpback Whales, Fermi's Paradox and Curious Aliens (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso explores the mysteries of the universe and humpback whale social behavior with Dr. Fred Sharpe.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso as we explore the mysteries of the universe with Dr. Fred Sharpe. Fred has been studying humpback whale social behavior for many years, and for the past decade has joined with SETI to think about intelligent life in the cosmos, and how understanding animal behavior in general, and whale vocalizations in particular, might serve as a model to understand messages from extrasolar planets far, far away (part 1 of a two-part program). (Airdate: January 17, 2024) </p><p>Whale sounds recorded under NOAA Research Permit #19703</p><p>Learn more about:<br /><a href='https://peerj.com/articles/16349/'>Interactive Playback with a Humpback Whale</a><br /><a href='https://www.seti.org/'>SETI Institute</a><br /><a href='https://repository.library.noaa.gov/view/noaa/54369'>Humpback whale interventions</a><br /><a href='https://www.orcanetwork.org/'>Orca Network</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/01/17103551/Nature-Now654-Humpback-Whales-Fermis-Paradox-and-Curious-Aliens.mp3"
+        length="45481785" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now654</guid>
+      <pubDate>Wed, 17 Jan 2024</pubDate>
+      <itunes:duration>1773</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 653 -->
+	<item>
+      <title>Meeting of Marine Science and Art</title>
+      <itunes:title>Meeting of Marine Science and Art</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talk with local "thalassophile" Nam Siu about his love for the ocean, his work and adventures protecting marine life and ecosystems, and his artistic pursuits. Nam is a wizard of the traditional Japanese art of making fish impressions and at creating beautiful pressings of marine algae. His science inspires his art and, in turn, his art provides meaning for his science. (Airdate: January 10, 2024) </p><p>Watch Nam's lecture: <a href='https://www.youtube.com/watch?v=A0vYSAcCGTM'>Thalassophilic Impressions: Nautical Pursuits, Ocean Conservation, and the Confluence of Art and Science</a>. </p><p>Listen to previous Nature Now programs with Nam Siu: <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950245'>Seaweeds (Part 1)</a> and <a href='https://podcasts.apple.com/us/podcast/nature-now/id1696468189?i=1000622950008'>Seaweeds (Part 2)</a>. </p><p>Learn more about the WA Invasive Species Council's <a href='https://invasivespecies.wa.gov/campaigns/safeguard-our-shellfish/'>Safeguard Our Shellfish campaign</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/01/08153731/Nature-Now653-Nam-Sui-Meeting-of-Science-and-Art.mp3"
+        length="25738565" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now653</guid>
+      <pubDate>Wed, 10 Jan 2024</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 652 -->
+	<item>
+      <title>A New Year’s Reading List</title>
+      <itunes:title>A New Year’s Reading List</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso, Nan Evans, and Jackie Canterbury share their favorite recent natural history books.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Hosts Debaran Kelso, Nan Evans, and Jackie Canterbury have a good time sharing their favorite recent natural history books. Join the fun and start your 2024 "to read" list. (Airdate: January 3, 2024) </p><p>Books discussed:<br />An Immense World by Ed Yong<br />The Mind of a Bee by Lars Chittka<br />Passings by Holly Hughes<br />Alfie & Me by Carl Safina<br />Owls of the Eastern Ice by Jonathan Slaght<br />Take Heart by Kathleen Dean Moore<br />Horizon by Barry Lopez<br />Embrace Fearlessly the Burning World by Barry Lopez<br />A Naturalist's Year in the Pacific Northwest by Geoffrey Hammerson<br />Salmon Cedar Rock & Rain by Tim McNulty<br />Sibley Birds West by David Allen Sibley<br />A Field Guide to Western Birds by Roger Tory Peterson<br />Peterson Field Guide to North American Bird Nests by Casey McFarland, Matthew Monjello and David Moskowitz<br />Coastal Fishes of the Pacific Northwest by Andy Lamb and Phil Edgell<br />Plants of the Pacific Northwest Coast by Jim Pojar and Andy MacKinnon<br />Pacific Northwest Insects by Merrill Peterson<br />Cascadia Field Guide: Art, Ecology, Poetry by Elizabeth Bradfield, CMarie Fuhrman and Derek Sheffield<br /> </p><p>Find more to read in the <a href='https://olympicnature.org/book-club/'>Jefferson Land Trust Natural History Society Book Club reading list</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/01/03100320/Nature-Now652-2024-NewYear-Reading-List.mp3"
+        length="40469944" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now652</guid>
+      <pubDate>Fri, 05 Jan 2024</pubDate>
+      <itunes:duration>1607</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 651 -->
+	<item>
+      <title>Christmas Bird Count History and Trends</title>
+      <itunes:title>Christmas Bird Count History and Trends</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Dr. Steve Hampton about the Audubon Christmas Bird Count which began on Christmas Day 1900 as a way to count birds as people became concerned about declining bird populations. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Dr. Steve Hampton about the oldest citizen science program of its kind, the Audubon Christmas Bird Count or CBC. The CBC began on Christmas Day 1900 as a way to count birds rather than shoot them as people began to become visibly concerned about declining bird populations. Today the CBC occurs each year from December 14 through January 5 relying on volunteer birders. Audubon and other organizations use the 122 years of data to guide conservation efforts, including the greatest challenge of all, climate change. "There is nothing else like the CBC in terms of geographic coverage and time," says Geoff LeBaron, Christmas Bird Count Director for the National Audubon Society. And none of it would happen without dedicated volunteers. (Airdate: December 27, 2023) </p><p>Learn more:<br /><a href='https://www.audubon.org/conservation/science/christmas-bird-count/history-christmas-bird-count'>History of the Christmas Bird Count</a><br /><a href='https://www.audubon.org/news/the-122nd-christmas-bird-count-summary'>The 122nd Christmas Bird Count Summary</a><br />From Steve Hampton's blog: <a href='https://thecottonwoodpost.net/2022/10/07/heading-south-for-winter-more-birds-are-choosing-the-pacific-northwest/'>Heading south for winter, more birds are choosing the PNW</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/12/31113451/Nature-Now651-CBC-and-Interview-with-S.-Hampton-1.mp3"
+        length="28522126" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now651</guid>
+      <pubDate>Tue, 02 Jan 2024</pubDate>
+      <itunes:duration>1678</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 650 -->
+	<item>
+      <title>Derelict Crab Pots and Robotics Used to Retrieve Them (Part 2)</title>
+      <itunes:title>Derelict Crab Pots and Robotics Used to Retrieve Them (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Thousands of crab pots go untended yearly in the Salish Sea. Nan Evans talks with Nathaniel Ashford about the efforts of Port Townsend’s STEM Club to salvage lost pots using robotics.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Thousands of crab pots go untended yearly in the Salish Sea; their release causes crab loss and ship damage. Nan Evans talks with Nathaniel Ashford about the efforts of Port Townsend’s STEM Club (science, technology, engineering and mathematics) to salvage those lost pots using robotics. Olivia Reinhart joins the conversation to share her experience working with the Sea Dragons team (part 2 of a two-part program). (Airdate: December 20, 2023) </p><p>Learn more:<br />The <a href='https://storymaps.arcgis.com/stories/1befb7cae32f49e89d8595d8ae884d38'>project to remove lost crab pots</a><br />The <a href='https://ptstemclub.org/'>Port Townsend STEM Club</a><br />The Sea Dragon derelict crab pot recovery project has won the <a href='https://www.esri.com/arcgis-blog/products/arcgis-storymaps/announcements/meet-the-2023-storytellers-of-the-year/'>ESRI 2023 student Storytellers of the Year award</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/12/18091210/Nature-Now650-STEM-pt2.mp3"
+        length="25915104" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now650</guid>
+      <pubDate>Wed, 20 Dec 2023</pubDate>
+      <itunes:duration>1688</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 649 -->
+	<item>
+      <title>What Owls Know, What Humans Believe</title>
+      <itunes:title>What Owls Know, What Humans Believe</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso explores the fascinating world of screech owls with Dr. Carl Safina, author of Alfie and Me: What Owls Know, What Humans Believe. 
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso as we explore the fascinating world of screech owls! Renowned ecologist Dr. Carl Safina is our guest, speaking about his most recent book Alfie and Me: What Owls Know, What Humans Believe, which describes his family’s raising of an orphaned Eastern Screech Owl and how this changed their lives. (Airdate: December 13, 2023) </p><p>Learn more:<br /><a href='https://wwnorton.com/books/alfie-and-me'>Alfie and Me: What Owls Know, What Humans Believe</a> by Carl Safina<br />Carl Safina's <a href='https://www.carlsafina.org/'>website</a><br /><a href='https://www.allaboutbirds.org/'>The Cornell Lab of Ornithology</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/12/11111806/Nature-Now649-Carl-Safina-Alfie.mp3"
+        length="40879319" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now649</guid>
+      <pubDate>Wed, 13 Dec 2023</pubDate>
+      <itunes:duration>1558</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 648 -->
+	<item>
+      <title>Sea Otter Conservation</title>
+      <itunes:title>Sea Otter Conservation</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Jim Bodkin about what scientists have learned about sea otter ecology and conservation since otters were nearly forced into extinction by fur hunters.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Jim Bodkin about what scientists have learned about sea otter ecology and conservation since otters were nearly forced into extinction by fur hunters – specifically how important sea otters are to healthy, diverse and resilient ocean ecosystems. How do we know if and when the sea otters have been restored to pre-hunting conditions? Is there a relationship between climate change and healthy sea otter populations? (Airdate: December 6, 2023) </p><p>Watch Jim Bodkin's lecture: <a href='https://www.youtube.com/watch?v=pLNQJA9sojc'>Sea Otter Stories – History, Ecology & Conservation</a>. </p><p>Learn more:<br /><a href='https://www.elakhaalliance.org/'>Elakha Alliance – Bringing Back Oregon’s Sea Otters</a><br /><a href='https://www.montereybayaquarium.org/visit/exhibits/sea-otters'>Monterey Bay Aquarium</a><br /><a href='https://www.seattleaquarium.org/animal/sea-otter/'>Seattle Aquarium</a><br /><a href='https://seaotterfoundationtrust.org/'>Sea Otter Foundation & Trust</a><br /><a href='https://www.theguardian.com/environment/2023/nov/30/shoot-or-shelter-why-the-return-of-sea-otters-to-haida-gwaii-isnt-welcomed-by-everyone'>Why the return of sea otters to Canada’s west coast is making waves</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/12/04175550/Nature-Now648-Jim-Bodkin-Sea-Otters.mp3"
+        length="32131392" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now648</guid>
+      <pubDate>Wed, 06 Dec 2023</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 646 -->
+	<item>
+      <title>Mushroom Foray (Part 2)</title>
+      <itunes:title>Mushroom Foray (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Join Debaran Kelso on a fall mushroom hunt with fellow fungiphiles Maxwell Fisher, Baylin Speidel, and Shawn Gisriel.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Debaran Kelso on a fall mushroom hunt with fellow fungiphiles Maxwell Fisher, Baylin Speidel, and Shawn Gisriel (part 2 of a two-part program). (Airdate: November 22, 2023) </p>Learn more about mushrooms with:<br /><a href='https://www.penguinrandomhouse.com/books/197528/all-that-the-rain-promises-and-more-by-david-arora/'>All That the Rain Promises and More</a> by David Arora<br /><a href='https://www.penguinrandomhouse.com/books/197443/mushrooms-demystified-by-david-arora/'>Mushrooms Demystified</a> by David Arora<br /><a href='https://www.hachettebookgroup.com/titles/steve-trudell/mushrooms-of-the-pacific-northwest-revised-edition/9781643260860/'>Mushrooms of the Pacific Northwest</a> by Steve Trudell<br /><a href='https://www.gldesignpub.com/product/profiles-of-northwest-fungi/'>Profiles of Northwest Fungi</a> by Buck McAdoo<br /><a href='https://fantasticfungi.com/'>Fantastic Fungi</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/11/20165445/Nature-Now646-Mushroom-Foraging-2.mp3"
+        length="27533105" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now646</guid>
+      <pubDate>Thu, 23 Nov 2023</pubDate>
+      <itunes:duration>1689</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 294 -->
+	<item>
+      <title>Sea Otters of the Washington Coast (Part 2)</title>
+      <itunes:title>Sea Otters of the Washington Coast (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Jim Bodkin, Scientist Emeritus of the U.S. Geological Survey, finish their discussion of sea otters off the outer Washington coast.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Jim Bodkin, Scientist Emeritus of the U.S. Geological Survey, finish their discussion of sea otters off the outer Washington coast (part 2 of a two-part program). (Airdate: January 2017) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/wp-content/uploads/2017/01/Nature-Now294-11717-Sea-Otters-Part-2.mp3"
+        length="18001606" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now294</guid>
+      <pubDate>Wed, 22 Nov 2023</pubDate>
+      <itunes:duration>1500</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 290 -->
+	<item>
+      <title>Sea Otters of the Washington Coast (Part 1)</title>
+      <itunes:title>Sea Otters of the Washington Coast (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks about sea otters with Jim Bodkin, Scientist Emeritus with the U.S. Geological Survey, in a wide-ranging discussion of the animals off the Washington coast.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks about sea otters with Jim Bodkin, Scientist Emeritus with the U.S. Geological Survey, in a wide-ranging discussion of the animals off the Washington coast (part 1 of a two-part program). (Airdate: December 2016) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/wp-content/uploads/2016/12/Nature-Now290-Sea-Otters-of-the-Washington-Coast.mp3"
+        length="17418240" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now290</guid>
+      <pubDate>Wed, 22 Nov 2023</pubDate>
+      <itunes:duration>1451</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 262 -->
+	<item>
+      <title>The Biology of Sea Otters (Part 2)</title>
+      <itunes:title>The Biology of Sea Otters (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans delves further into the background and lives of sea otters in a discussion with wildlife biologist Jim Bodkin.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans delves further into the background and lives of sea otters in a discussion with wildlife biologist Jim Bodkin (part 2 of a two-part program). (Airdate: May 2016) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/wp-content/uploads/2016/06/262-The-Biology-of-Sea-Otters-Part-2.mp3"
+        length="17985933" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now262</guid>
+      <pubDate>Wed, 22 Nov 2023</pubDate>
+      <itunes:duration>1498</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 258 -->
+	<item>
+      <title>The Biology of Sea Otters (Part 1)</title>
+      <itunes:title>The Biology of Sea Otters (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans interviews wildlife biologist Jim Bodkin in a discussion about sea otters.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans interviews wildlife biologist Jim Bodkin in a discussion about sea otters (part 1 of a two-part program). (Airdate: May 2016) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/wp-content/uploads/2016/05/Sea-Otters-Part-1.mp3"
+        length="17565357" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now258</guid>
+      <pubDate>Wed, 22 Nov 2023</pubDate>
+      <itunes:duration>1463</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 644 -->
+	<item>
+      <title>Spirit Whales and Sloth Tales</title>
+      <itunes:title>Spirit Whales and Sloth Tales</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with paleontologist Liz Nesbitt and writer David Williams about fossils of Washington State, especially the Olympic Peninsula and the Puget Sound area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with paleontologist Liz Nesbitt and natural history writer David Williams about fossils of Washington State, especially the Olympic Peninsula and the Puget Sound area. Liz and David share stories and explore many of the tales of ancient critters, big and small, that are discussed in their new book, Spirit Whales and Sloth Tales. (Airdate: November 8, 2023) </p><p>Watch Liz Nesbitt's and David Williams' lecture: <a href='https://www.youtube.com/watch?v=cL6MqYzUVBs'>Fossils of Western Washington: A Marine Perspective</a>. </p><p>Learn more about:<br /><a href='https://www.burkemuseum.org/'>Burke Museum</a><br />David Williams <a href='https://geologywriter.com/'>website</a> and <a href='https://streetsmartnaturalist.substack.com/'>newsletter</a><br /><a href='https://ptmsc.org/'>Port Townsend Marine Science Center</a><br />Ray Troll <a href='https://www.trollart.com/'>art</a> and <a href='https://www.paleonerds.com/'>podcast</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/11/07155701/Nature-Now644-Spirit-Whales-Sloth.mp3"
+        length="38166030" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now644</guid>
+      <pubDate>Wed, 08 Nov 2023</pubDate>
+      <itunes:duration>1766</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>	
+	<!-- EPISODE 643 -->
+	<item>
+      <title>Mushroom Foray (Part 1)</title>
+      <itunes:title>Mushroom Foray (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Join Debaran Kelso on a fall mushroom hunt with fellow fungiphiles Maxwell Fisher, Baylin Speidel, and Shawn Gisriel.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso on a fall mushroom hunt with fellow fungiphiles Maxwell Fisher, Baylin Speidel, and Shawn Gisriel (part 1 of a two-part program). (Airdate: November 1, 2023) </p><p>Learn more about mushrooms with <a href='https://www.penguinrandomhouse.com/books/197528/all-that-the-rain-promises-and-more-by-david-arora/'>All That the Rain Promises and More</a> and <a href='https://www.penguinrandomhouse.com/books/197443/mushrooms-demystified-by-david-arora/'>Mushrooms Demystified</a> by David Arora. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/10/30124613/NatureNow-643-Mushroom-Foray.mp3"
+        length="35369806" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now643</guid>
+      <pubDate>Thu, 02 Nov 2023</pubDate>
+      <itunes:duration>1565</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 642 -->
+	<item>
+      <title>Avian Flu on Rat Island (Part 2)</title>
+      <itunes:title>Avian Flu on Rat Island (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Dr. Steve Hampton about the plight of the Caspian Tern colony on Rat Island.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Dr. Steve Hampton about the plight of the Caspian Tern colony on Rat Island near Flagler campground on Marrowstone Island. Hampton discusses the events of 2022 and 2023 that led to an 80% loss of the breeding colony due to human disturbance and an avian flu outbreak. If we understand the historical perspective of the Caspian Tern dilemma, perhaps humans and the agencies responsible for the management of Rat Island can make 2024 less painful (part 2 of two programs on this topic). (Airdate: October 25, 2023) </p>Learn more about <a href='https://stephen-carr-hampton.com/'>Steve Hampton</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/10/23164324/Nature-Now642-Plight-of-the-Caspian-Tern-pt2.mp3"
+        length="35789774" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now642</guid>
+      <pubDate>Thu, 26 Oct 2023</pubDate>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 636 -->
+	<item>
+      <title>Avian Flu on Rat Island (Part 1)</title>
+      <itunes:title>Avian Flu on Rat Island (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Dr. Katie Hanan and Dr. Scott Pearson who answer questions about the recent avian flu outbreak on Rat Island and discuss the outlook for the future.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Dr. Katie Haman, Wildlife Veterinarian, and Dr. Scott Pearson, Senior Research Scientist – both with the Washington Department of Fish and Wildlife – who answer questions about the recent avian flu outbreak on Rat Island off Marrowstone Island and discuss the outlook for the future. The outbreak is the first H5N1 avian flu event in the marine environment in Washington state.  We are estimating an 80% colony loss on Rat island which hosts breeding Caspian Terns, Olympic Gulls, and Harbor Seals (part 1 of two programs on this topic). (Airdate: September 13, 2023) </p><p>For additional information on avian influenza visit: <a href='https://wdfw.wa.gov/species-habitats/diseases/bird-flu'>WA Department of Fish & Wildlife</a> and <a href='https://doh.wa.gov/avian-influenza'>WA Department of Health</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/09/12131946/Nature-Now636-Caspian-Tern-Rat-Island.mp3"
+        length="52330752" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now636</guid>
+      <pubDate>Mon, 23 Oct 2023</pubDate>
+      <itunes:duration>1598</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 641 -->
+	<item>
+      <title>Beyond Words: What Animals Think and Feel</title>
+      <itunes:title>Beyond Words: What Animals Think and Feel</itunes:title>
+	  <itunes:summary>
+	  Ecologist, writer, and philosopher Dr. Carl Safina is interviewed by Nan Evans and they discuss various aspects of animal behavior.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Ecologist, writer, and philosopher Dr. Carl Safina, author of Beyond Words: What Animals Think and Feel, is interviewed by Nan Evans and they discuss various aspects of animal behavior. (Reprise airdate: October 18, 2023) </p><p>Learn more about <a href='https://www.carlsafina.org/'>Carl Safina</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/10/16155447/Nature-Now641-Reprise-of-234-Beyond-Words.mp3"
+        length="33724878" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now641</guid>
+      <pubDate>Wed, 18 Oct 2023</pubDate>
+      <itunes:duration>1586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 639 -->
+	<item>
+      <title>Sunflower Sea Stars</title>
+      <itunes:title>Sunflower Sea Stars</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with marine biologist and researcher Dr. Jason Hodin about the mysteries of the endangered sunflower sea star.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with University of Washington marine biologist and researcher Dr. Jason Hodin about the mysteries of the endangered sunflower sea star. If we can understand these intricacies, perhaps humans can help restore the endangered sunflower sea star population in the Salish Sea by learning how to raise and take care of baby sea stars. (Airdate: October 4, 2023) </p><p>Learn more about <a href='https://staff.washington.edu/hodin/'>Dr. Jason Hodin</a>. Review the entire project through a <a href='https://www.nature.org/content/dam/tnc/nature/en/documents/tnc_Roadmap_to_Recovery_for_the_Sunflower_Sea_Star_Nov2022.pdf'>recent report by The Nature Conservancy</a>. Learn more about the <a href='https://depts.washington.edu/i2sea/'>Inquiry to Student Environmental Action (I2SEA) project</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/10/02133649/Nature-Now639-Sunflower-Starfish.mp3"
+        length="55254980" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now639</guid>
+      <pubDate>Thu, 05 Oct 2023</pubDate>
+      <itunes:duration>1716</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 638 -->
+	<item>
+      <title>Derelict Crab Pots and Robotics Used to Retrieve Them (Part 1)</title>
+      <itunes:title>Derelict Crab Pots and Robotics Used to Retrieve Them (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Thousands of crab pots go untended yearly in the Salish Sea. Jeff Taylor and Nathaniel Ashford describe their work to salvage those lost pots.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Thousands of crab pots go untended yearly in the Salish Sea; their release causes crab loss and ship damage. Jeff Taylor from the Jefferson County Marine Resources Committee and Nathaniel Ashford from the Sea Dragons robotics team describe their work to salvage those lost pots (part 1 of a two-part program). (Airdate: September 27, 2023) </p><p>Learn more about the <a href='https://storymaps.arcgis.com/stories/1befb7cae32f49e89d8595d8ae884d38'>project to remove lost crab pots</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/09/26123333/Nature-Now638-Sea-Dragons-Derilect-crab-Pots-and-Retrieval.mp3"
+        length="59463361" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now638</guid>
+      <pubDate>Wed, 27 Sep 2023</pubDate>
+      <itunes:duration>1746</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 635 -->
+	<item>
+      <title>Dungeness River Nature Center (Part 2)</title>
+      <itunes:title>Dungeness River Nature Center (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso continues to explore the wonderful Dungeness River Nature Center with its director Powell Jones.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso as we continue to explore the wonderful Dungeness River Nature Center outside of Sequim with its director Powell Jones (part 2 of a two-part program). (Airdate: September 6, 2023) </p><p>Learn more about the <a href='https://dungenessrivercenter.org/'>Dungeness River Nature Center</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/09/11134333/Nature-Now635-DR-Center-pt2.mp3"
+        length="41283686" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now635</guid>
+      <pubDate>Mon, 11 Sep 2023</pubDate>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 634 -->
+	<item>
+      <title>Dungeness River Nature Center (Part 1)</title>
+      <itunes:title>Dungeness River Nature Center (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Join Debaran Kelso at the Dungeness River Nature Center with founding members Annette Hanson and Clare Manis Hatler telling the story of how the dream of a world class nature center came to life.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso as we meet at the remarkable Dungeness River Nature Center with our special guests and founding members Annette Hanson and Clare Manis Hatler, telling the story of how the dream of a world class nature center came to life (part 1 of a two-part program). (Airdate: August 30, 2023) </p><p>Learn more about the <a href='https://dungenessrivercenter.org/'>Dungeness River Nature Center</a> and <a href='https://birdweb.org/'>Seattle Audubon's Guide to the Birds of Washington State</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/28143505/Nature-Now634-Dungenness-River-Center-pt1.mp3"
+        length="37176332" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now634</guid>
+      <pubDate>Mon, 11 Sep 2023</pubDate>
+      <itunes:duration>1729</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 628 -->
+	<item>
+      <title>What Your Food Ate (Part 2)</title>
+      <itunes:title>What Your Food Ate (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans continues her conversation with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate. This book deepens and broadens that old adage that “we are what we eat” by exploring how the health of soil ecosystems form the roots of a complex dynamic that determines the health of crops, livestock, and ultimately human communities. This discussion delves deeper into the benefits of restorative agriculture (part 2 of a two-part program). (Airdate: July 19, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/29172951/Nature-Now-628-What-Yout-Food-Ate-2.mp3"
+        length="25377607" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now628</guid>
+      <pubDate>Wed, 30 Aug 2023</pubDate>
+      <itunes:duration>1727</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 625 -->
+	<item>
+      <title>What Your Food Ate (Part 1)</title>
+      <itunes:title>What Your Food Ate (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Nan Evans as she talks with scientists and authors, David Montgomery and Anne Bikle, about their recent book What Your Food Ate. This book deepens and broadens that old adage that "we are what we eat" by exploring how the health of soil ecosystems form the roots of a complex dynamic that determines the health of crops, livestock, and ultimately human communities (part 1 of a two-part program). (Airdate: June 28, 2023) </p><p>Learn more about <a href='https://www.dig2grow.com/'>the authors' work</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/06/26232736/Nature-Now625-What-Your-Food-Ate-pt1.mp3"
+        length="52454779" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now625</guid>
+      <pubDate>Wed, 30 Aug 2023</pubDate>
+      <itunes:duration>1705</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 632 -->
+	<item>
+      <title>Pigeon Guillemot Survey (Part 2)</title>
+      <itunes:title>Pigeon Guillemot Survey (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson and volunteer Karin Ertl.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. The network is a community science project that monitors breeding colonies across our region to understand their role in healthy coastal ecosystems. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson and volunteer Karin Ertl, who both make this project happen in the field. Both guests provide a portrait of the pigeon guillemot, a fascinating seabird that shares both our land and water ecosystems (part 2 of a two-part program). (Airdate: August 16, 2023) </p><p>Learn more about the <a href='http://www.pigeonguillemot.org/'>Salish Sea Guillemot Network</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/14123503/Nature-Now632-Pigeon-Guillemot-pt2.mp3"
+        length="51355317" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now632</guid>
+      <pubDate>Tue, 15 Aug 2023</pubDate>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 630 -->
+	<item>
+      <title>Pigeon Guillemot Survey (Part 1)</title>
+      <itunes:title>Pigeon Guillemot Survey (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury discusses the East Jefferson Pigeon Guillemot Breeding Survey with Dr. Brenda Johnson.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dr. Brenda Johnson is the leader of the East Jefferson Pigeon Guillemot Breeding Survey which is part of the Salish Sea Guillemot Network. This network is a community science project that monitors breeding colonies of pigeon guillemots, an endemic seabird. Join Jackie Canterbury as she discusses the project with Dr. Brenda Johnson who will share reflections about this seabird and what we can learn about the birds’ role in a healthy coastal ecosystem (part 1 of a two-part program). (Airdate: August 2, 2023) </p><p>Learn more about the <a href='http://www.pigeonguillemot.org/'>Salish Sea Guillemot Network</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/07140451/Nature-Now-630-Pigeon-Guillemot.mp3"
+        length="33391152" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now630</guid>
+      <pubDate>Tue, 15 Aug 2023</pubDate>
+      <itunes:duration>1528</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 631 -->
+	<item>
+      <title>A Family’s Experience on Chimacum Ridge</title>
+      <itunes:title>A Family’s Experience on Chimacum Ridge</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Erik and Jen Kingfisher about their family’s experiences living at the foot of the Ridge and how strong relationships with place were built.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Come with Nan Evans to the forests of Chimacum Ridge as she talks with Erik and Jen Kingfisher about their family’s experiences living at the foot of the Ridge and how strong relationships with place were built. Jen calls the Ridge “not spectacular, but perfect”. Hear about the ecological features of the Ridge and the vision of it becoming a treasured community forest in perpetuity for the enjoyment of all members of our community. (Airdate: August 9, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/08/08104622/Nature-Now631-Chimacum-Ridge.mp3"
+        length="51628957" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now631</guid>
+      <pubDate>Thu, 10 Aug 2023</pubDate>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 627 -->
+	<item>
+      <title>Bald Eagles</title>
+      <itunes:title>Bald Eagles</itunes:title>
+	  <itunes:summary>
+	  Julia and George Maynard invite Debaran Kelso and Meg Amos to view and learn about the active bald eagle nest near their property.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Julia and George Maynard invite host Debaran Kelso and field recorder Meg Amos to view and learn about the active bald eagle nest near their property. (Airdate: July 12, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/07/10130535/Nature-Now627-Bald-Eagles.mp3"
+        length="17525839" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now627</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1589</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 623 -->
+	<item>
+      <title>Puget Sound Winter Seabird Survey</title>
+      <itunes:title>Puget Sound Winter Seabird Survey</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury interviews the local Puget Sound Seabird Survey group represented by Wendy Feltham.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury interviews the local Puget Sound Seabird Survey group represented by Wendy Feltham. They discuss their citizen science project that gathers data on wintering seabird populations at two sites on Marrowstone Island, as well as the challenges they face doing a sea survey in the rain, in winter, with wet clothes and foggy binoculars. (Airdate: June 14, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/06/13090052/Nature-Now623-Citizen-Science-Bird-Count-of-the-Salish.mp3"
+        length="29596704" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now623</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 621 -->
+	<item>
+      <title>Chimacum Ridge Through the Eyes of a Geologist</title>
+      <itunes:title>Chimacum Ridge Through the Eyes of a Geologist</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Tim Lawson wander around the top of Chimacum Ridge and wonder what various clues reveal about the geological history of the area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Tim Lawson wander around the top of Chimacum Ridge and wonder what various clues reveal about the geological history of the area. For instance, what different stories do Center Valley and Beaver Valley tell about their formation? And what makes the agricultural soil so productive? Listen as questions lead to even more questions. (Airdate: May 31, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/05/29145241/Nature-Now621-Chimacum-Ridge-Geology.mp3"
+        length="57908718" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now621</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1715</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 624 -->
+	<item>
+      <title>Bird Nests (Part 2)</title>
+      <itunes:title>Bird Nests (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and Dr. Geoff Hammerson go on a field trip looking for bird nests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso and guest Dr. Geoff Hammerson go on a field trip looking for bird nests (part 2 of a two-part program). (Airdate: June 21, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/06/19225709/Nature-Now624-Bird-Nesting-pt2.mp3"
+        length="38634779" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now624</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1721</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 620 -->
+	<item>
+      <title>Bird Nests (Part 1)</title>
+      <itunes:title>Bird Nests (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and Dr. Geoff Hammerson go on a field trip looking for bird nests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso and guest Dr. Geoff Hammerson go on a field trip looking for bird nests (part 1 of a two-part program). (Airdate: May 24, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/05/30125705/Nature-Now620-Bird-Nesting-with-Geoff-H-pt1.mp3"
+        length="45004564" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now620</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1688</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 616 -->
+	<item>
+      <title>Introduction to Jackie Canterbury</title>
+      <itunes:title>Introduction to Jackie Canterbury</itunes:title>
+	  <itunes:summary>
+	  Nan Evans introduces Nature Now’s newest host, Jackie Canterbury, and Jackie's conversation with Tom Mangelsen, wildlife photographer.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans introduces Nature Now’s newest host, Jackie Canterbury. Jackie shares not only information about her background, but also what inspires her about birds and the natural world. After introducing Jackie to listeners, Jackie presents her first Nature Now program - a brief conversation with Tom Mangelsen, renowned wildlife photographer. Their interview takes place on the Platte River during the annual spring migration of nearly 1 million sandhill cranes. (Airdate: April 26, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/04/24133543/Nature-Now-616-Convesrsations-with-Jackie-Canterbury.mp3"
+        length="34927536" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now616</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 613 -->
+	<item>
+      <title>Birds of the Olympic Peninsula</title>
+      <itunes:title>Birds of the Olympic Peninsula</itunes:title>
+	  <itunes:summary>
+	  Nan Evans asks Dennis Paulson to share his observations and reflections on birds and birding around the Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dennis Paulson has been a stalwart in the Puget Sound and Olympic Peninsula naturalist and birding world for many years. Dennis is a keen observer, prolific author, dedicated museum scientist, and esteemed teacher. Join Nan Evans as she asks Dennis to share his observations and reflections on birds and birding in our region. (Airdate: April 5, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/04/04091339/Nature-Now613-Dennis-Paulson-Birds.mp3"
+        length="37886307" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now613</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1733</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 615 -->
+	<item>
+      <title>The Manis Mastodon (Part 2)</title>
+      <itunes:title>The Manis Mastodon (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Clare Manis Hatler about finding what came to be known as "The Manis Mastodon" on their farm in Sequim in 1977. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with special guest Clare Manis Hatler about finding what came to be known as "The Manis Mastodon" on their farm in Sequim in 1977. It is still one of the most significant archaeological finds in North America (part 2 of a two part program). (Airdate: April 19, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/05/15132651/Nature-Now615-Mastodon-pt2.mp3"
+        length="54244695" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now615</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1678</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 611 -->
+	<item>
+      <title>The Manis Mastodon (Part 1)</title>
+      <itunes:title>The Manis Mastodon (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Clare Manis Hatler about finding what came to be known as "The Manis Mastodon" on their farm in Sequim in 1977. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with special guest Clare Manis Hatler about finding what came to be known as "The Manis Mastodon" on their farm in Sequim in 1977. It is still one of the most significant archaeological finds in North America (part 1 of a two part program). (Airdate: March 21, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/03/20140122/NatureNow611-Manis-Mastodon-pt1.mp3"
+        length="57081618" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now611</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1628</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 610 -->
+	<item>
+      <title>Sense of Place – What Does That Mean?</title>
+      <itunes:title>Sense of Place – What Does That Mean?</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with David Williams, a Seattle-based naturalist, about the concept of a "sense of place". What does that mean? 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Nan Evans talks with David Williams, a Seattle-based naturalist, about the concept of a "sense of place". What does that mean? How can awareness of our own "sense of place" deepen our connections with the natural world? How can we use "sense of place" to work together to make the world a better place? (Airdate: March 15, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/03/13200719/Nature-Now610-Sense-of-Place.mp3"
+        length="53666079" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now610</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1728</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 609 -->
+	<item>
+      <title>Gray Whales</title>
+      <itunes:title>Gray Whales</itunes:title>
+	  <itunes:summary>
+	  Join Nan Evans and John Calambokidis, whale scientist, as they discuss gray whale migrations from Baja California to the Arctic.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Nan Evans and John Calambokidis, whale scientist, as they discuss gray whale migrations from Baja California to the Arctic – how does that epic voyage benefit the whales? Recording the program from Mexico where she was visiting a gray whale breeding and nursery grounds, John helps Nan understand what she experienced. Plus, John and Nan ponder whether gray whales are actually friendly toward humans. (Airdate: March 8, 2023) </p><p>Watch John's lecture: <a href='https://www.youtube.com/watch?v=-5r7CkNiKYk'>Gray Whales in Washington State: Three Groups, Three Stories, From Death to Promise</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/03/08182049/Nature-Now609-Whales-John-Calambokids.mp3"
+        length="55756834" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now609</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 614 -->
+	<item>
+      <title>Take Heart</title>
+      <itunes:title>Take Heart</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Kathleen Dean Moore, philosopher, writer and environment activist, explore moral and ethical perspectives on the earth’s climate crisis and what we all must do in the face of these catastrophic forces.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>In part two of their conversation, Nan Evans and Kathleen Dean Moore, philosopher, writer and environment activist, explore moral and ethical perspectives on the earth’s climate crisis and what we all must do in the face of these catastrophic forces. They discuss Kathleen's most recent book: Take Heart, Encouragement for Earth’s Weary Lovers. Kathleen describes this book as "written for broken-hearted activists, veterans of environmental struggles, as a thank you gift to people who are tired, perplexed, and battered from all directions". (Airdate: April 12, 2023) </p><p>Watch Dr. Moore's presentation: <a href='https://www.youtube.com/watch?v=P5KcImjNAe0'>First, Fall In Love: What It Means to Love a Place</a> at the Jefferson Land Trust's 2023 Conservation Breakfast. </p><p>Learn more about the <a href='https://prax.oregonstate.edu/initiatives/spring-creek-project'>Spring Creek Project</a> at Oregon State University. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/05/15125750/Nature-Now614-Kathleen-Dean-Moore-Take-Heart.mp3"
+        length="52817820" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now614</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1716</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 607 -->
+	<item>
+      <title>Earth’s Wild Music</title>
+      <itunes:title>Earth’s Wild Music</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Kathleen Dean Moore, a philosopher, writer and environment activist, explore moral and ethical perspectives on the earth’s climate crisis and the ongoing sixth great extinction of living species.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Kathleen Dean Moore, a philosopher, writer and environment activist, explore moral and ethical perspectives on the earth’s climate crisis and the ongoing sixth great extinction of living species. And, what we are called to do in the face of these catastrophic forces. (Airdate: February 22, 2023) </p><p>Watch Dr. Moore's presentation: <a href='https://www.youtube.com/watch?v=P5KcImjNAe0'>First, Fall In Love: What It Means to Love a Place</a> at the Jefferson Land Trust's 2023 Conservation Breakfast. </p><p>Learn more about the <a href='https://prax.oregonstate.edu/initiatives/spring-creek-project'>Spring Creek Project</a> at Oregon State University. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/02/23150142/Nature-Now607-Earths-Wild-Music.mp3"
+        length="51799681" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now607</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1736</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 604 -->
+	<item>
+      <title>Invasive Dune Grasses</title>
+      <itunes:title>Invasive Dune Grasses</itunes:title>
+	  <itunes:summary>
+	  Nan Evans explores dune ecosystems and the role of dune grasses with Dr. Rebecca Mostow.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Beach grasses, once widely planted to keep sand dunes from human plans for such things as roads and residences, have become invaders, pushing out native species. Listen as Nan Evans explores dune ecosystems and the role of dune grasses with Dr. Rebecca Mostow. What's more, learn about Dr. Mostow's work characterizing a strange new hybrid species of dune grass that raises unanswered questions about ecological beach and dune systems. (Airdate: February 1, 2023) </p><p>Watch Dr. Mostow's lecture: <a href='https://www.youtube.com/watch?v=KG0GmaR4y_0'>Hybrid in a Haystack: Hybrid Beachgrass Discovery, Description, and Ecological Consequences in the Pacific Northwest</a>. </p><p>Learn more about the <a href='https://www.inaturalist.org/projects/hybrid-beachgrass-mapping-in-the-pacific-northwest'>hybrid beachgrass mapping project</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/01/30151946/Nature-Now604-Dunes-and-Grasses.mp3"
+        length="67917321" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now604</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1698</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 603 -->
+	<item>
+      <title>Woodpeckers of Winter</title>
+      <itunes:title>Woodpeckers of Winter</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Gary Bullock discuss the most common woodpeckers seen locally, using results from the Christmas bird count of 2022.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson and Gary Bullock discuss the most common woodpeckers seen locally, using results from the Christmas bird count of 2022. (Airdate: January 25, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/01/23144526/Nature-Now603-Woodpeckers-of-Winter.mp3"
+        length="62653125" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now603</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1566</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 602 -->
+	<item>
+      <title>Latest News on the Pinto Abalone</title>
+      <itunes:title>Latest News on the Pinto Abalone</itunes:title>
+	  <itunes:summary>
+	  Get the latest on efforts to restore the endangered Pinto Abalone populations in the Salish Sea with Nan Evans and Josh Bouma of the Puget Sound Restoration Fund.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Get the latest on efforts to restore the endangered Pinto Abalone populations in the Salish Sea with Nan Evans and Josh Bouma of the Puget Sound Restoration Fund. Plus, think about how conservation scientists design species recovery plans. (Airdate: January 19, 2023) </p><p>Learn more about the Puget Sound Restoration Fund's <a href='https://restorationfund.org/programs/pintoabalone/'>Pinto Abalone Recovery Program</a>. </p><p>Watch Josh's lecture: <a href='https://www.youtube.com/watch?v=cfDhfCSBkcc'>Recovering Pinto Abalone: Use of Conservation Aquaculture to Give the Salish Sea's Largest Rocky-reef Cleaning Marine Snail a Population Boost</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/01/22112548/Nature-Now602-Pinto-Abalone-Restoration-1.mp3"
+        length="68508733" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now602</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1713</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 605 -->
+	<item>
+      <title>Prairie/Oak Habitats (Part 2)</title>
+      <itunes:title>Prairie/Oak Habitats (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Dr. Fred Sharpe about the recent Cascade Prairie-Oak Partnership conference, and reviews various efforts at prairie and oak savanna habitat conservation in the PNW.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with guest Dr. Fred Sharpe about the recent Cascade Prairie-Oak Partnership (CPOP) conference, and reviews various efforts at prairie and oak savanna habitat conservation in the PNW (part 2 of a two part program). (Airdate: February 8, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/02/01151537/Nature-Now605-Native-Prairie-pt2.mp3"
+        length="65085648" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now605</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1627</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 601 -->
+	<item>
+      <title>Prairie/Oak Habitats (Part 1)</title>
+      <itunes:title>Prairie/Oak Habitats (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Dr. Fred Sharpe about the recent Cascade Prairie-Oak Partnership conference, and reviews various efforts at prairie and oak savanna habitat conservation in the PNW.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with guest Dr. Fred Sharpe about the recent Cascade Prairie-Oak Partnership (CPOP) conference, and reviews various efforts at prairie and oak savanna habitat conservation in the PNW (part 1 of a two part program). (Airdate: January 11, 2023) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2023/01/11114250/Nature-Now-601-Prairie-Oak-Habitat-pt1.mp3"
+        length="54204114" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now601</guid>
+      <pubDate>Wed, 02 Aug 2023</pubDate>
+      <itunes:duration>1642</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 598 last episode of 2022 -->
+	<item>
+      <title>Walking Anacortes Community Forest Lands</title>
+      <itunes:title>Walking Anacortes Community Forest Lands</itunes:title>
+	  <itunes:summary>
+	  Bob Jepperson and Mary Robson introduce the Anacortes Community Forest Lands, 3000 acres of undeveloped land where he has walked and photographed for over 11 years.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Bob Jepperson and Mary Robson introduce the Anacortes Community Forest Lands, 3000 acres of undeveloped land where he has walked and photographed for over 11 years. (Airdate: December 21, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/12/20133027/Nature-Now598-Bob-Jepperson.mp3"
+        length="29631504" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now598</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1675</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 596 -->
+	<item>
+      <title>Think Like a Geologist</title>
+      <itunes:title>Think Like a Geologist</itunes:title>
+	  <itunes:summary>
+	  What is our relationship with time? Explore geological evidence and understanding of the passage of time with Nan Evans and Marcia Bjournerud.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>What is our relationship with time? If we were to "think like a geologist", would that relationship change and how might that change how humans impact the earth on which we all live? Explore geological evidence and understanding of the passage of time with Nan Evans and Marcia Bjournerud, Professor of Geology and Environmental Studies at Lawrence University in Wisconsin. (Airdate: December 7, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/12/05135706/Nature-Now596-Thinking-Like-a-Geologist.mp3"
+        length="53304385" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now596</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1598</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 594 -->
+	<item>
+      <title>2022 Christmas Bird Count</title>
+      <itunes:title>2022 Christmas Bird Count</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and super-birder Monica Fletcher explore sightings and stories from the annual Audubon Christmas Bird Count.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Nan Evans and super-birder guest Monica Fletcher explore sightings and stories from the annual Audubon Christmas Bird Count. Get inspired by this opportunity to be part of a hemisphere-wide citizen science effort. (Airdate: November 23, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/11/22135228/Nature-Now594-Christmas-Bird-Count.mp3"
+        length="33642202" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now594</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1581</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 593 -->
+	<item>
+      <title>Dungeness Levee Setback</title>
+      <itunes:title>Dungeness Levee Setback</itunes:title>
+	  <itunes:summary>
+	  The Dungeness River has a northwest 2-mile levee, altering the water flow and flood management. Hansi Hals from the Jamestown S’Klallam tribe describes it with Mary Robson.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>The Dungeness River has a northwest 2-mile levee, altering the water flow and flood management. Hansi Hals from the Jamestown S’Klallam tribe describes it with Mary Robson. (Airdate: November 16, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/11/14161800/Nature-Now593-Dungeness-River-Levee-Rebuild.mp3"
+        length="58918865" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now593</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1706</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 592 -->
+	<item>
+      <title>Insects and Galls of Fall (Part 2)</title>
+      <itunes:title>Insects and Galls of Fall (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Entomologist Richard Lewis joins Debaran Kelso on a field trip to search for galls and learn about the insects that cause them to develop.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by entomologist Richard Lewis as they continue exploring the world of insects and plant galls at HJ Carroll Park (part 2 of a two part program). (Airdate: November 9, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/11/07135400/Nature-Now592-Insects-and-Galls-of-Fall.mp3"
+        length="61104999" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now592</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 588 -->
+	<item>
+      <title>Insects and Galls of Fall (Part 1)</title>
+      <itunes:title>Insects and Galls of Fall (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Entomologist Richard Lewis joins Debaran Kelso on a field trip to search for galls and learn about the insects that cause them to develop.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Fall is a great time to look for insect galls! Join entomologist Richard Lewis and host Debaran Kelso on a field trip to search for galls and learn about the insects that cause them to develop (part 1 of a two part program). (Airdate: October 12, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/10/10210108/Nature-Now588-Insects-and-Galls-in-the-Fall-pt1.mp3"
+        length="59956213" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now588</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 589 -->
+	<item>
+      <title>Feathers</title>
+      <itunes:title>Feathers</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Christie Lassen review the biological structure of feathers and their effect on individual bird survival and behavior.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>SMary Robson and Christie Lassen, owner of Wild Birds Unlimited in Gardiner, review the biological structure of feathers and their effect on individual bird survival and behavior. (Airdate: October 19, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/10/17154459/Nature-Now589-Christie-Lawson-Feathers.mp3"
+        length="55198261" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now589</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1754</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 591 -->
+	<item>
+      <title>Peregrine Rock</title>
+      <itunes:title>Peregrine Rock</itunes:title>
+	  <itunes:summary>
+	  Nan Evans explores significant rocky out-croppings with geologists Michael Machette and Jeff Tepper.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans’ conversation with geologists Michael Machette and Jeff Tepper explores significant rocky outcropings and geology in eastern Jefferson County. This episode will consider the impacts of glaciation and Peregrine Rock, a glacial erratic, a short hike from Tamanowas Rock. And, yes, east Jefferson County was covered by glaciers thousands of feet deep. (Airdate: November 2, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/11/03110811/Nature-Now591-Peregrine-Rock-Geology.mp3"
+        length="54934371" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now591</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1662</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 587 -->
+	<item>
+      <title>Tamanowas Rock</title>
+      <itunes:title>Tamanowas Rock</itunes:title>
+	  <itunes:summary>
+	  Nan Evans explores significant rocky out-croppings with geologists Michael Machette and Jeff Tepper.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Tamanowas Rock - what is it? Nan Evans explores significant rocky out-croppings in eastern Jefferson County – Tamanowas Rock and Peregrine Rock – with geologists Michael Machette and Jeff Tepper. In this episode, we learn how Tamanowas Rock was formed, what it can tell about the ancient landscape of our region, why it is important to indigenous peoples, and what is being done to protect it. (Airdate: October 4, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/10/03141451/Nature-Now587-Hard-Rock-Geology-pt1.mp3"
+        length="49917484" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now587</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1499</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 583 -->
+	<item>
+      <title>State of the Stars</title>
+      <itunes:title>State of the Stars</itunes:title>
+	  <itunes:summary>
+	  Joe Gaydos of the SeaDoc Society gives Nan Evans an update on the sea star wasting disease that decimated the sea star population of the Salish Sea and much of the Pacific Coast in 2013.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Joe Gaydos of the SeaDoc Society returns to Nature Now to give Nan Evans an update on the sea star wasting disease that decimated the sea star population of the Salish Sea and much of the Pacific Coast in 2013. (Airdate: September 7, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/09/03163954/Nature-Now583-Wasting-Sea-Stars-Joe-Gaydos.mp3"
+        length="61537165" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now583</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1749</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 584 -->
+	<item>
+      <title>Anderson Lake State Park (Part 2)</title>
+      <itunes:title>Anderson Lake State Park (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by one of our favorite local naturalists, Dr. Geoff Hammerson, for a field trip to Anderson Lake State Park.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>We take a field trip to Anderson Lake State Park! Host Debaran Kelso is joined by one of our favorite local naturalists, Dr. Geoff Hammerson, on a late summer wander looking for amphibians and other natural wonders (part 2 of a two part program). (Airdate: September 14, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/09/07155646/Nature-Now584-Anderson-Lake-pt2.mp3"
+        length="56537792" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now584</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 582 -->
+	<item>
+      <title>Anderson Lake State Park (Part 1)</title>
+      <itunes:title>Anderson Lake State Park (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by one of our favorite local naturalists, Dr. Geoff Hammerson, for a field trip to Anderson Lake State Park.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>We take a field trip to Anderson Lake State Park! Host Debaran Kelso is joined by one of our favorite local naturalists, Dr. Geoff Hammerson, on a late summer wander looking for amphibians and other natural wonders (part 1 of a two part program). (Airdate: August 31, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/09/07155535/Nature-Now582-Anderson-Lake-pt1.mp3"
+        length="58920658" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now582</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1692</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 581 -->
+	<item>
+      <title>Why Birds Molt</title>
+      <itunes:title>Why Birds Molt</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Christie Lassen explore the feathery mysteries of molting.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Birds molt – when and why? Join Mary Robson and guest Christie Lassen to explore the feathery mysteries of molting. (Airdate: August 24, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/08/22160147/Nature-Now581-Chrissie-Lawson.mp3"
+        length="57826892" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now581</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1746</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 577 -->
+	<item>
+      <title>Bird Rehabilitation</title>
+      <itunes:title>Bird Rehabilitation</itunes:title>
+	  <itunes:summary>
+	  Christie Lassen, with Mary Robson, discusses bird rehabilitation: where and how are injured birds helped locally?	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Christie Lassen, with Mary Robson, discusses bird rehabilitation: where and how are injured birds helped locally? (Airdate: July 27, 2022) </p><p>Read about the <a href='https://www.bbc.com/news/world-us-canada-54996314'>saw-whet owl discovered in the Rockefeller Center Christmas tree</a>. Learn more about <a href='https://www.discoverybaywildbirdrescue.com/'>Discovery Bay Wild Bird Rescue</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/07/18130501/Nature-Now577-Reprise-of-493-Christy-Lassen-Bird-Rehab.mp3"
+        length="52461488" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now577</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1540</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 578 -->
+	<item>
+      <title>Salish Sea Wild! (Part 2)</title>
+      <itunes:title>Salish Sea Wild! (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Bob Friel explore the wild and wonderful world of the Salish Sea.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Bob Friel, film maker, writer, naturalist, and adventurer, explore the wild and wonderful world of the Salish Sea (part 2 of a two part program). In this second part, Nan asks Bob to tell her stories of adventures he has had filming the wildlife of the Salish Sea. (Airdate: August 3, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/08/01131839/Nature-Now-578-Bob-Friel-Salish-Sea-Wild-pt2.mp3"
+        length="58226560" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now578</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1749</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 574 -->
+	<item>
+      <title>Salish Sea Wild! (Part 1)</title>
+      <itunes:title>Salish Sea Wild! (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Bob Friel explore the wild and wonderful world of the Salish Sea.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Bob Friel, film maker, writer, naturalist, and adventurer, explore the wild and wonderful world of the Salish Sea (part 1 of a two part program). (Airdate: July 6, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/07/05153841/Nature-Now574-Sea-Doc-Society.mp3"
+        length="47912585" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now574</guid>
+      <pubDate>Tue, 01 Aug 2023</pubDate>
+      <itunes:duration>1462</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 575 -->
+	<item>
+      <title>Dune Restoration (Part 2)</title>
+      <itunes:title>Dune Restoration (Part 2)</itunes:title>
+	  <itunes:summary>
+	   Debaran Kelso continues her conversation with Dr. Fred Sharpe about dune restoration and ecology on a field trip to Fort Worden State Park.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso continues her conversation with Dr. Fred Sharpe about dune restoration and ecology on a field trip to Fort Worden State Park (part 2 of a two part program). (Airdate: July 13, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/07/13152601/Nature-Now575-Dune-Restoration-pt2-1.mp3"
+        length="58117856" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now575</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1719</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 571 -->
+	<item>
+      <title>Dune Restoration (Part 1)</title>
+      <itunes:title>Dune Restoration (Part 1)</itunes:title>
+	  <itunes:summary>
+	   Join Debaran Kelso on a field trip to the sandy shores of Fort Worden with Dr. Fred Sharpe to speak about dune restoration.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso on a field trip to the sandy shores of Fort Worden. Dr. Fred Sharpe is our guest to speak about dune restoration in this area and in other locations on the Olympic Peninsula (part 1 of a two part program). (Airdate: June 13, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/06/13171418/NatureNow-571-Sand-Dunes-Fred-1.mp3"
+        length="58910446" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now571</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1718</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 570 -->
+	<item>
+      <title>Tree Thieves</title>
+      <itunes:title>Tree Thieves</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Lyndsie Bourgon, author of a new book on the subject of timber poaching.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>If you go into the woods at night, you better go in disguise… What? Tree thieves? It’s a bigger problem than you thought – threats to forest health and ecology, crime and survival, social and community failures, challenges for us all to do things differently. Nan Evans talks with Lyndsie Bourgon, author of a new book on the subject of timber poaching. (Airdate: June 8, 2022) </p><p>Learn more about <a href='https://www.lyndsiebourgon.com'>Lyndsie Bourgon</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/06/06150313/Nature-Now570-Tree-Thieves.mp3"
+        length="56732782" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now570</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 567 -->
+	<item>
+      <title>Winter Weather, Summer Water</title>
+      <itunes:title>Winter Weather, Summer Water</itunes:title>
+	  <itunes:summary>
+	  Ann Soule, Water Resource Manager, joins Mary Robson to evaluate what’s known about these strange cold weeks, current snowpack, and suggestions for managing during limited rain months.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Rains will cease and summer’s coming, with predictable challenges to local water supplies. Ann Soule, Water Resource Manager for the city of Sequim, joins Mary Robson to evaluate what’s known about these strange cold weeks, current snowpack, and suggestions for managing during limited rain months. She’s watched that snowpack for over twenty years. (Airdate: May 18, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/05/16141313/Nature-Now567SummerWater-WinterWeatherAnne-Soule.mp3"
+        length="50480754" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now567</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1620</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 566 -->
+	<item>
+      <title>Seaweeds (Part 2)</title>
+      <itunes:title>Seaweeds (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso heads out along the shore with Nam Siu of the WA Dept of Fish and Wildlife to talk about our native seaweeds.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso heads out along the shore with guide Nam Siu of the WA Dept of Fish and Wildlife to talk about our native seaweeds (part 2 of a two part program). (Airdate: May 11, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/05/09130951/Nature-Now566-Seaweed-NamSui-pt2.mp3"
+        length="58229149" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now566</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 564 -->
+	<item>
+      <title>Seaweeds (Part 1)</title>
+      <itunes:title>Seaweeds (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso heads out along the shore with Nam Siu of the WA Dept of Fish and Wildlife to talk about our native seaweeds.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso heads out along the shore with guide Nam Siu of the WA Dept of Fish and Wildlife to talk about our native seaweeds (part 1 of a two part program). (Airdate: April 27, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/04/25140525/NatureNow564-Seaweed1-Nam-Sui.mp3"
+        length="59739321" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now564</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1672</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 568 -->
+	<item>
+      <title>Climate Resiliency on the Olympic Peninsula (Part 2)</title>
+      <itunes:title>Climate Resiliency on the Olympic Peninsula (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Erik Kingfisher of the Jefferson Land Trust talk about climate resiliency on the north Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Erik Kingfisher of the Jefferson Land Trust talk about climate resiliency on the north Olympic Peninsula. Longer, drier summers and warmer, wetter winters pose broad threats to the forests, farms, and wildlife habitats. Together Nan and Erik will explore whether current conservation efforts enough? Are these efforts strategically targeted to help benefit biological and human communities? How does science guide us in taking wise conservation actions for the future? Part 2 of a two part program. (Airdate: May 25, 2022) </p><p>Learn more about the <a href='https://saveland.org/'>Jefferson Land Trust</a> and their <a href='https://saveland.org/our-story/conservation-vision/'>100-year vision for conservation</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/05/23185714/Nature-Now568-Climate-Resiliency-ErikK-pt2.mp3"
+        length="53466868" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now568</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1690</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 563 -->
+	<item>
+      <title>Climate Resiliency on the Olympic Peninsula (Part 1)</title>
+      <itunes:title>Climate Resiliency on the Olympic Peninsula (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Erik Kingfisher of the Jefferson Land Trust talk about climate resiliency on the north Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Erik Kingfisher of the Jefferson Land Trust talk about climate resiliency on the north Olympic Peninsula. Longer, drier summers and warmer, wetter winters pose broad threats to the forests, farms, and wildlife habitats. Together Nan and Erik will explore whether current conservation efforts enough? Are these efforts strategically targeted to help benefit biological and human communities? How does science guide us in taking wise conservation actions for the future? Part 1 of a two part program. (Airdate: April 20, 2022) </p><p>Learn more about the <a href='https://saveland.org/'>Jefferson Land Trust</a> and the <a href='https://saveland.org/building-climate-resilience-on-the-olympic-peninsula-land-resilience-study/'>Land Resilience Study</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/04/19170913/Nature-Now563-Resiliency-with-Eric-Kingfisher.mp3"
+        length="59192125" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now563</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1698</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 562 -->
+	<item>
+      <title>Great Horned Owls Fledge</title>
+      <itunes:title>Great Horned Owls Fledge</itunes:title>
+	  <itunes:summary>
+	  Bob Jepperson from Fidalgo Island relates to Mary Robson the spring progress of fledgling Great Horned Owls as they leave the nest and fly. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Guest Bob Jepperson from Fidalgo Island relates to Mary Robson the spring progress of fledgling Great Horned Owls as they leave the nest and fly.  (Reprise airdate: April 13, 2022) </p><p>Visit <a href='https://www.bobjepperson.com/'>bobjepperson.com</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/04/25140701/Nature-Now562-Reprise-of-NN460-Bob-Jepperson-Great-Horned-Owls-fledge.mp3"
+        length="52286825" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now562</guid>
+      <pubDate>Sun, 30 Jul 2023</pubDate>
+      <itunes:duration>1563</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 559 -->
+	<item>
+      <title>Finding Port Orford Cedars at Fort Worden</title>
+      <itunes:title>Finding Port Orford Cedars at Fort Worden</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Maggie Baker and Suzy Elbow, this year’s AmeriCorps Service Members who are sponsored by the Friends of Fort Worden.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Maggie Baker and Suzy Elbow, this year’s AmeriCorps Service Members who are sponsored by the Friends of Fort Worden. Learn about their care of the parks natural resources, their public education activities, and about the Port Orford Cedars found up near the bunkers this past year. (Airdate: March 23, 2022) </p><p>Learn more about the <a href='https://www.fwfriends.org/'>Friends of Fort Worden</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/03/21170719/NATURE-NOW-559-Americorp-Service.mp3"
+        length="50028639" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now559</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1772</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 558 -->
+	<item>
+      <title>Landscaping for Wildlife (Part 2)</title>
+      <itunes:title>Landscaping for Wildlife (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Ron and Rosemary Sikes invite Nature Now to their backyard wildlife sanctuary to discuss how to create and improve wildlife habitat in our own backyards.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Ron and Rosemary Sikes invite Nature Now host Debaran Kelso and recorder Meg Amos to their backyard wildlife sanctuary in Port Townsend to discuss how to create and improve wildlife habitat in our own backyards (part 2 of a two part program). (Airdate: March 16, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/03/14161624/Nature-Now558-Backyard-Habitat-pt2.mp3"
+        length="43519081" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now558</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1721</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 556 -->
+	<item>
+      <title>Landscaping for Wildlife (Part 1)</title>
+      <itunes:title>Landscaping for Wildlife (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Ron and Rosemary Sikes invite Nature Now to their backyard wildlife sanctuary to discuss how to create and improve wildlife habitat in our own backyards.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Ron and Rosemary Sikes invite Nature Now host Debaran Kelso and recorder Meg Amos to their backyard wildlife sanctuary in Port Townsend to discuss how to create and improve wildlife habitat in our own backyards (part 1 of a two part program). (Airdate: March 2, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/02/28143608/Nature-Now556-Backyard-Wildlife-Habitat-pt1.mp3"
+        length="46422875" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now556</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1784</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 557 -->
+	<item>
+      <title>Raptors</title>
+      <itunes:title>Raptors</itunes:title>
+	  <itunes:summary>
+	  Mary Robson interviews Gary Bullock and Bob Boekelheide about a winter survey they conducted.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson interviews Gary Bullock and Bob Boekelheide about a winter survey they conducted. They explain what they found and how raptors fit the balance of nature. (Airdate: March 9, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/03/07124935/Nature-Now557-Raptors-with-Gary-Bullock.mp3"
+        length="56006255" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now557</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1769</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 554 -->
+	<item>
+      <title>Jamestown S’Klallam History (Part 2)</title>
+      <itunes:title>Jamestown S’Klallam History (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Jamestown S’Klallam leader Loni Greninger meets Mary Robson, discussing language and family history back to ancestor Chief Cicmahan.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jamestown S’Klallam leader Loni Greninger meets Mary Robson, discussing language and family history back to ancestor Chief Cicmahan (part 2 of a two part program). (Airdate: February 16, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/04/01165139/Nature-Now554-SKlallam-Loni-Greninger-pt2.mp3"
+        length="54830387" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now554</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 552 -->
+	<item>
+      <title>Jamestown S’Klallam History (Part 1)</title>
+      <itunes:title>Jamestown S’Klallam History (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Follow the historical and current use of western red cedar with tribal vice-chair Loni Greninger of Jamestown S’Klallam tribe and host Mary Robson.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Follow the historical and current use of western red cedar with tribal vice-chair Loni Greninger of Jamestown S’Klallam tribe and host Mary Robson (part 1 of a two part program). (Airdate: February 2, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/02/01100331/Nature-Now552-Jamestown-SKlallam-Loni-G-pt1.mp3"
+        length="54904164" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now552</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1723</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 553 -->
+	<item>
+      <title>We are Puget Sound (Part 2)</title>
+      <itunes:title>We are Puget Sound (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Mindy Roberts of the WA Environmental Council about the “We are Puget Sound” project – book, exhibits, and lectures.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans continues talking with Mindy Roberts of the Washington Environmental Council about the “We are Puget Sound” project – book, exhibits, and lectures. The “We are Puget Sound” campaign engages the people living in the Salish Sea watershed in loving, stewarding and enjoying the natural and human world around us (part 2 of a two part program). (Airdate: February 9, 2022) </p><p>Watch Mindy Roberts' lecture: <a href='https://www.youtube.com/watch?v=bxvRT6gaOxs'>We Are Puget Sound: Discovering and Recovering the Salish Sea</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/02/10101431/Nature-Now553WeArePS-MindyRobertspt2.mp3"
+        length="54658968" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now553</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1713</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 550 -->
+	<item>
+      <title>We are Puget Sound (Part 1)</title>
+      <itunes:title>We are Puget Sound (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Mindy Roberts of the WA Environmental Council about the “We are Puget Sound” project – book, exhibits, and lectures.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Mindy Roberts of the Washington Environmental Council about the “We are Puget Sound” project – book, exhibits, and lectures. It is a campaign to engage the people living in the Salish Sea watershed in loving, stewarding and enjoying the natural and human world around us (part 1 of a two part program). (Airdate: January 19, 2022) </p><p>Watch Mindy Roberts' lecture: <a href='https://www.youtube.com/watch?v=bxvRT6gaOxs'>We Are Puget Sound: Discovering and Recovering the Salish Sea</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/01/18175536/Nature-Now550-Mindy-Roberts-pt1.mp3"
+        length="54419237" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now550</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1691</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 551 -->
+	<item>
+      <title>Weather of the Olympic Peninsula (Part 2)</title>
+      <itunes:title>Weather of the Olympic Peninsula (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Al Latham for a discussion on the weather of the Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guest Al Latham for a discussion on the weather of the Olympic Peninsula (part 2 of a two part program). (Airdate: January 26, 2022) </p><p>Learn more about the <a href='https://www.jeffersoncd.org/'>Jefferson County Conservation District</a>. </p><p>Weather information resources:<br /><a href='https://weather.wsu.edu/'>WSU weather data</a><br /><a href='https://uwapress.uw.edu/book/9780295748443/the-weather-of-the-pacific-northwest/'>The Weather of the Pacific Northwest</a> by Cliff Mass<br /><a href='https://cliffmass.blogspot.com'>Cliff Mass weather blog</a><br /><a href='https://cocorahs.org/'>Community Collaborative Rain, Hail and Snow Network (CoCoRaHS)</a><br /><a href='https://www.windfinder.com/'>Windfinder</a> and <a href='https://www.windy.com/'>Windy</a>  </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/01/25054734/Nature-Now551-AlLatham-pt2.mp3"
+        length="52635941" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now551</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1678</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 549 -->
+	<item>
+      <title>Weather of the Olympic Peninsula (Part 1)</title>
+      <itunes:title>Weather of the Olympic Peninsula (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Al Latham for a discussion on the weather of the Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guest Al Latham for a discussion on the weather of the Olympic Peninsula (part 1 of a two part program). (Airdate: January 12, 2022) </p><p>Learn more about the <a href='https://www.jeffersoncd.org/'>Jefferson County Conservation District</a>. See worldwide wind patterns at <a href='https://www.windfinder.com/'>Windfinder</a> and <a href='https://www.windy.com/'>Windy</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/01/12055130/Nature-Now549-Al-Latham-pt1.mp3"
+        length="53657578" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now549</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1724</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 548 -->
+	<item>
+      <title>Winter Walk with Lichens</title>
+      <itunes:title>Winter Walk with Lichens</itunes:title>
+	  <itunes:summary>
+	  Join Mary Robson and Dr. Katherine Glew, University of Washington, for a winter walk with lichens.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Mary Robson and Dr. Katherine Glew, University of Washington, for a winter walk with lichens. Now that the snows of late 2021 have gone in many places on the Quimper Peninsula, explore the winter woods with an eye to the small living world on the barks of trees and covering the ground and rocks. (Reprise airdate: January 6, 2022) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2022/01/04051352/Nature-Now548-Reprise-of-242-1-6-16-A-Winter-Walk-with-Lichen.mp3"
+        length="37695628" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now548</guid>
+      <pubDate>Fri, 28 Jul 2023</pubDate>
+      <itunes:duration>1661</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 547 last episode of 2021 -->
+	<item>
+      <title>Can Art and Science Inspire Each Other?</title>
+      <itunes:title>Can Art and Science Inspire Each Other?</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and retired biologist and fiber artist Carla Stehr explore the topic of art and science inspiring each other.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and retired fisheries biologist and fiber artist Carla Stehr explore the topic of art and science inspiring each other. (Reprise airdate: December 29, 2021) </p><p>Learn more about <a href='https://carlastehr.com/'>Carla Stehr's fiber art</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/12/28160122/Nature-Now547-Reprise439-Carla-Stehr-.mp3"
+        length="36048458" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now547</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1596</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 545 -->
+	<item>
+      <title>Water Supply Effect of Atmospheric River</title>
+      <itunes:title>Water Supply Effect of Atmospheric River</itunes:title>
+	  <itunes:summary>
+	  Hydrologist Ann Soule reviews with Mary Robson the water year up to October and considers the effects of storms in November and December.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Hydrologist Ann Soule reviews with host Mary Robson the water year up to October 2021 and considers the effects of storms in November and December 2021. (Airdate: December 15, 2021) </p><p>Learn more about <a href='https://centervalleyanimalrescue.org/'>Center Valley Animal Rescue</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/12/15055541/Nature-Now545-Anne-Soule.mp3"
+        length="31812442" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now545</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1745</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 543 -->
+	<item>
+      <title>Economic Benefits of Conservation</title>
+      <itunes:title>Economic Benefits of Conservation</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Richard Tucker explore the documentable economic benefits of conserved and working lands on the North Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>In addition to the value of being good stewards of the earth for the health and well-being of all life and ecosystems, Nan Evans and Richard Tucker, Director of the Jefferson Land Trust, explore the documentable economic benefits of conserved and working lands on the North Olympic Peninsula. (Airdate: November 30, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/11/30051615/Nature-Now543-Richard-Tucker.mp3"
+        length="32210458" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now543</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1650</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 542 -->
+	<item>
+      <title>Over-Wintering Insects and Invasive Giant Asian Hornets</title>
+      <itunes:title>Over-Wintering Insects and Invasive Giant Asian Hornets</itunes:title>
+	  <itunes:summary>
+	  Laurel Moulton and Mary Robson discuss insect over-wintering tactics and current news on the Asian Giant Hornet. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Laurel Moulton and Mary Robson discuss insect over-wintering tactics and current news on the Asian Giant Hornet. How do they stay alive? (Airdate: November 24, 2021) </p><p>WA State Dept of Agriculture's information about <a href='https://agr.wa.gov/departments/insects-pests-and-weeds/insects/hornets'>invasive hornets</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/11/25114609/Nature-Now542Laurel-Moulton.mp3"
+        length="34388806" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now542</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1727</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 544 -->
+	<item>
+      <title>North Olympic Salmon Coalition (Part 2)</title>
+      <itunes:title>North Olympic Salmon Coalition (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Rebecca Benjamin and Hans Daubenberger to speak about the past 30 years of NOSC work in our area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guests Rebecca Benjamin, Executive Director for the North Olympic Salmon Coalition (NOSC) and Hans Daubenberger, habitat biologist with the Port Gamble S’Klallam Tribe, to speak about the past 30 years of NOSC work in our area (part 2 of a two part program). (Airdate: December 8, 2021) </p><p>Learn more about the <a href='https://nosc.org/'>North Olympic Salmon Coalition</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/12/07135240/Nature-Now544-NOSC-pt2.mp3"
+        length="27238462" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now544</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 541 -->
+	<item>
+      <title>North Olympic Salmon Coalition (Part 1)</title>
+      <itunes:title>North Olympic Salmon Coalition (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Rebecca Benjamin and Hans Daubenberger to speak about the past 30 years of NOSC work in our area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guests Rebecca Benjamin, Executive Director for the North Olympic Salmon Coalition (NOSC) and Hans Daubenberger, habitat biologist with the Port Gamble S’Klallam Tribe, to speak about the past 30 years of NOSC work in our area (part 1 of a two part program). (Airdate: November 10, 2021) </p><p>Learn more about the <a href='https://nosc.org/'>North Olympic Salmon Coalition</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/11/13080358/PNature-Now541NOSC.mp3"
+        length="28640129" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now541</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1734</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 538 -->
+	<item>
+      <title>Winter Birds</title>
+      <itunes:title>Winter Birds</itunes:title>
+	  <itunes:summary>
+	  Winter birds of the sea and shore include lots of migrants. Gary Bullock and Mary Robson introduce winter birding.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Winter birds of the sea and shore include lots of migrants. Gary Bullock and Mary Robson introduce winter birding. (Airdate: October 20, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/10/Nature-Now538-Gary-Bullock.mp3"
+        length="32357867" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now538</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1716</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 537 -->
+	<item>
+      <title>Orcas: Shared Waters, Shared Home</title>
+      <itunes:title>Orcas: Shared Waters, Shared Home</itunes:title>
+	  <itunes:summary>
+	  Seattle Times writer Lynda Mapes joins Nan Evans to talk about Lynda’s new book, Orca: Shared Waters, Shared Home.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Seattle Times writer Lynda Mapes joins Nan Evans to talk about Lynda’s new book, Orca: Shared Waters, Shared Home. Listen in to explore these unique individuals who astound us with their intelligence, strong culture and family structures, elaborate communications skills, and playfulness. (Airdate: October 13, 2021) </p><p>Watch Lynda Mapes' lecture: <a href='https://www.youtube.com/watch?v=IstirDXRQN4'>Southern Resident Killer Whales: Status, Trends, Solutions</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/10/Nature-Now537-Linda-Maples.mp3"
+        length="30630589" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now537</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1686</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 534 -->
+	<item>
+      <title>Outings with Friends and Strangers in the Time of Covid</title>
+      <itunes:title>Outings with Friends and Strangers in the Time of Covid</itunes:title>
+	  <itunes:summary>
+	  Being in nature is keeping many of us sane during these Covid times - how shall we navigate the dilemma of enjoying and exploring nature with others during a pandemic?	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Being in nature is keeping many of us sane during these Covid times – being out-of-doors by ourselves, with friends or family, and with other naturalists. But, it is harder to feel comfortable on natural history outings. What are some of our local organizations doing to help us all stay safe? And, how shall we navigate the dilemma of enjoying and exploring nature with others during a pandemic? (Airdate: September 22, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/09/Nature-Now534-Marcia-Schendiman.mp3"
+        length="39159890" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now534</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1614</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 536 -->
+	<item>
+      <title>Reading Wildlife Sign (Part 2)</title>
+      <itunes:title>Reading Wildlife Sign (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by wildlife tracking expert Jill Cooper to learn how to better read wildlife sign.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guest wildlife tracking expert Jill Cooper and guest recorder Meg Amos for a field trip to the newly restored south end of Kilisut Harbor, learning how to better read wildlife sign (part 2 of a two part program). (Airdate:  October 6, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/10/Nature-Now536Tracking-pt2.mp3"
+        length="23109283" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now536</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1607</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 532 -->
+	<item>
+      <title>Reading Wildlife Sign (Part 1)</title>
+      <itunes:title>Reading Wildlife Sign (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by wildlife tracking expert Jill Cooper to learn how to better read wildlife sign.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guest wildlife tracking expert Jill Cooper and guest recorder Meg Amos for a field trip to the newly restored south end of Kilisut Harbor, learning how to better read wildlife sign (part 1 of a two part program). (Airdate: September 8, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/09/Nature-Now532-Jill-Cooperpt1.mp3"
+        length="30425823" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now532</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1704</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 530 -->
+	<item>
+      <title>Discovering Local Bogs</title>
+      <itunes:title>Discovering Local Bogs</itunes:title>
+	  <itunes:summary>
+	  Laurel Anne Moulton joins Mary Robson to discuss Crowberry Bog, describing characteristics of rather rare local bogs.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Laurel Anne Moulton joins Mary Robson to discuss Crowberry Bog, describing characteristics of rather rare local bogs. (Airdate: August 25, 2021) </p><p>Learn more about <a href='https://www.dnr.wa.gov/natural-heritage-program'>Washington's Natural Heritage Program</a> and <a href='https://westernwildlife.org/'>Western Wildlife Outreach</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/08/Nature-Now530-Laurel-Moulton-Bogs.mp3"
+        length="38950227" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now530</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1716</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 528 -->
+	<item>
+      <title>Exploring the Low Tide at Salt Creek</title>
+      <itunes:title>Exploring the Low Tide at Salt Creek</itunes:title>
+	  <itunes:summary>
+	  Join Nan Evans, Wendy Feltham and Lee Merrill as they explore rocky intertidal plant and animal communities at Salt Creek County Park.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Pull on your rubber boots and join Nan Evans, Wendy Feltham and Lee Merrill as they explore rocky intertidal plant and animal communities at Salt Creek County Park. (Reprise airdate: August 11, 2021) </p><p>Nan's low tide resources:<br /><a href='https://harbourpublishing.com/products/9781550179835'>Whelks to Whales: Coastal Marine Life of the Pacific Northwest</a><br /><a href='https://harbourpublishing.com/products/9781550178371'>The New Beachcomber's Guide to the Pacific Northwest</a><br /><a href='https://www.penguinrandomhouse.com/books/120011/national-audubon-society-field-guide-to-the-pacific-northwest-by-national-audubon-society/'>National Audubon Society Field Guide to the Pacific Northwest</a><br /><a href='https://www.orcanetwork.org/webshop/p/ez-guide-to-common-intertidal-invertebrates-of-the-salish-sea'>EZ Guide to Common Intertidal Invertebrates of the Salish Sea</a><br /><a href='https://www.orcanetwork.org/webshop/p/ez-guide-to-seaweeds-of-the-salish-sea'>EZ Guide to Common Intertidal Seaweeds and Seagrasses of the Salish Sea</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/08/Nature-Now528-reprise-of-NN274-Exploring-the-Low-Tide-at-Salt-Creek.mp3"
+        length="47293103" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now528</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1708</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 527 -->
+	<item>
+      <title>Woodpeckers of the Olympic Penisula (Part 2)</title>
+      <itunes:title>Woodpeckers of the Olympic Penisula (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Geoff Hammerson for a discussion about the woodpeckers of the Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guest Geoff Hammerson for a discussion about the woodpeckers of the Olympic Peninsula (part 2 of a two part program). (Airdate: August 4, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/08/Nature-Now527-Geoff-H-Woodpeckers-pt2.mp3"
+        length="44801497" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now527</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1722</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 526 -->
+	<item>
+      <title>Woodpeckers of the Olympic Penisula (Part 1)</title>
+      <itunes:title>Woodpeckers of the Olympic Penisula (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Geoff Hammerson for a discussion about the woodpeckers of the Olympic Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guest Geoff Hammerson for a discussion about the woodpeckers of the Olympic Peninsula (part 1 of a two part program). (Airdate: July 28, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/07/Nature-Now526-GeoffHammerson-1.mp3"
+        length="46010949" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now526</guid>
+      <pubDate>Thu, 20 Jul 2023</pubDate>
+      <itunes:duration>1731</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 524 -->
+	<item>
+      <title>Spiders</title>
+      <itunes:title>Spiders</itunes:title>
+	  <itunes:summary>
+	  Naturalist Laurel Anne Moulton shares her experiences with Mary Robson in identifying and appreciating spiders.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Naturalist Laurel Anne Moulton shares her experiences with Mary Robson in identifying and appreciating spiders. (Reprise airdate: July 14, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2020/11/Nature-Now490-Laurel-Anne-Moulton.mp3"
+        length="35025623" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now524</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1539</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 521 -->
+	<item>
+      <title>Marine Mammal Stranding (Part 2)</title>
+      <itunes:title>Marine Mammal Stranding (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Betsy Carlson and Dr. Fred Sharpe for a discussion about marine mammal stranding in our area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guests Betsy Carlson of the Port Townsend Marine Science Center and Dr. Fred Sharpe of the Alaska Whale Foundation for a discussion about marine mammal stranding in our area (part 2 of a two part program). (Airdate: June 23, 2021) </p><p>Learn more about reporting a stranding to East Jefferson County's <a href='https://ptmsc.org/programs/investigate/citizen-science/marine-mammal-stranding-network-and-necropsy-program'>Marine Mammal Stranding Network</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/06/Nature-Now521-Betsy-Carlson-pt2.mp3"
+        length="33735774" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now521</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1730</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 516 -->
+	<item>
+      <title>Marine Mammal Stranding (Part 1)</title>
+      <itunes:title>Marine Mammal Stranding (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso is joined by Betsy Carlson and Dr. Fred Sharpe for a discussion about marine mammal stranding in our area.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso is joined by guests Betsy Carlson of the Port Townsend Marine Science Center and Dr. Fred Sharpe of the Alaska Whale Foundation for a discussion about marine mammal stranding in our area (part 1 of a two part program). (Airdate: May 19, 2021) </p><p>Learn more about reporting a stranding to East Jefferson County's <a href='https://ptmsc.org/programs/investigate/citizen-science/marine-mammal-stranding-network-and-necropsy-program'>Marine Mammal Stranding Network</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/05/Nature-Now516-BetsyFred-pt1.mp3"
+        length="31720859" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now516</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1686</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 520 -->
+	<item>
+      <title>Summer Bird Activities</title>
+      <itunes:title>Summer Bird Activities</itunes:title>
+	  <itunes:summary>
+	  Wander the woods with Mary Robson and Gary Bullock for summer bird activities, especially fledglings.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Wander the woods with Nature Now’s Mary Robson and Gary Bullock for summer bird activities, especially fledglings. (Airdate: June 16, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/06/Nature-Now520-Gary-Bullock.mp3"
+        length="36168616" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now520</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1706</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 519 -->
+	<item>
+      <title>Ecological Benefits of Community Forests</title>
+      <itunes:title>Ecological Benefits of Community Forests</itunes:title>
+	  <itunes:summary>
+	  Erik Kingfisher and Carrie Clendaniel join Nan Evans to talk about the ecological health of forests, and optimizing ecological and human benefits from a community forest.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Erik Kingfisher and Carrie Clendaniel from the Jefferson Land Trust join host Nan Evans at Valley View Forest to talk about the ecological health of forests, optimizing ecological and human benefits from a community forest, and recent activities at Valley View. (Airdate: June 9, 2021) </p><p>Learn more about <a href='https://saveland.org/protected-properties/valley-view-forest/'>Valley View Forest</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/06/Nature-Now519-Valley-View-Community-Forest.mp3"
+        length="33781773" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now519</guid>
+      <pubDate>Mon, 017 Jul 2023</pubDate>
+      <itunes:duration>1721</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 523 -->
+	<item>
+      <title>Nature Obscura (Part 2)</title>
+      <itunes:title>Nature Obscura (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Seattle author, photographer, and urban naturalist, Kelly Brenner, about her book Nature Obscura.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Explore everything from flies to folklore as Nan Evans talks with Seattle author, photographer, and urban naturalist, Kelly Brenner, about her book Nature Obscura. (Airdate: July 7, 2021) </p><p>Learn more about <a href='https://www.metrofieldguide.com/'>Kelly Brenner</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/07/Nature-Now523-Kelly-Brenner-pt2.mp3"
+        length="32578296" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now523</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1670</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 514 -->
+	<item>
+      <title>Nature Obscura (Part 1)</title>
+      <itunes:title>Nature Obscura (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Seattle author, photographer, and urban naturalist, Kelly Brenner, about her book Nature Obscura.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Seattle author, photographer, and urban naturalist, Kelly Brenner, about her book Nature Obscura and the strange and wonderful things one can learn just by observing the world around us. Tardigrades? Slime molds? And who knows what else? (Airdate: May 12, 2021) </p><p>Learn more about <a href='https://www.metrofieldguide.com/'>Kelly Brenner</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/05/Nature-Now514-Kelly-Brenner-pt1.mp3"
+        length="33106738" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now514</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1706</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 513 -->
+	<item>
+      <title>Nesting Season</title>
+      <itunes:title>Nesting Season</itunes:title>
+	  <itunes:summary>
+	  Christie Lassen and Mary Robson celebrate how and where bird nests are created.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Christie Lassen and Mary Robson celebrate how and where bird nests are created. (Airdate: May 5, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/05/Nature-Now513-Christie-Lassen.mp3"
+        length="32741676" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now513</guid>
+      <pubDate>Mon, 17 Jul 2023</pubDate>
+      <itunes:duration>1698</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 512 -->
+	<item>
+      <title>Bird Migration (Part 2)</title>
+      <itunes:title>Bird Migration (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Dr. Geoff Hammerson on the wonders of bird migration.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with Dr. Geoff Hammerson on the wonders of bird migration. (Reprise airdate: April 28, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now512-Encore-of-415-Bird-Migration-pt2.mp3"
+        length="41766942" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now512</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1511</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 508 -->
+	<item>
+      <title>Bird Migration (Part 1)</title>
+      <itunes:title>Bird Migration (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Dr. Geoff Hammerson on different aspects of bird migration.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with Dr. Geoff Hammerson on different aspects of bird migration. (Reprise airdate: March 21, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now508-Encore-NN4112019-05-08-Geoff-Hammerson.mp3"
+        length="39782724" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now508</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1432</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 503 -->
+	<item>
+      <title>Understanding The Tides (Part 2)</title>
+      <itunes:title>Understanding The Tides (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Jonathan White about his quest to better understand tides.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Nan Evans talks with Jonathan White, active marine conservationist, sailor and surfer, and author of the new book Tides: The Science and Spirit of the Ocean, about his quest to better understand tides. (Reprise airdate: February 24, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/02/Nature-Now503-Reprise-of-303-Understanding-The-Tides-Part-2-.mp3"
+        length="37992472" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now503</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1495</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 499 -->
+	<item>
+      <title>Understanding The Tides (Part 1)</title>
+      <itunes:title>Understanding The Tides (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Jonathan White about his quest to better understand tides.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Nan Evans talks with Jonathan White, active marine conservationist, sailor and surfer, and author of the new book Tides: The Science and Spirit of the Ocean, about his quest to better understand tides. (Reprise airdate: January 27, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now499-Reprise-of-299-Understanding-The-Tides-Part-1.mp3"
+        length="36210978" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now499</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1400</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 510 -->
+	<item>
+      <title>Spring Walk Above the Elwa River</title>
+      <itunes:title>Spring Walk Above the Elwa River</itunes:title>
+	  <itunes:summary>
+	  Mary Robson hosts Laurel Anne Moulton in a spring walk identifying flowers and shrubs in forest and ‘bald’ locations.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson hosts Laurel Anne Moulton, Regional Horticultural Specialist for Callam County, in a spring walk identifying flowers and shrubs in forest and ‘bald’ locations. (Airdate: April 14, 2021) </p><p>WA State Dept of Agriculture's information about <a href='https://agr.wa.gov/departments/insects-pests-and-weeds/insects/hornets'>invasive hornets</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now510-Laurel-Moulton.mp3"
+        length="36664421" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now510</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1594</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 509 -->
+	<item>
+      <title>Springtime in the Quimper Corridor</title>
+      <itunes:title>Springtime in the Quimper Corridor</itunes:title>
+	  <itunes:summary>
+	  Celebrate the Quimper Wildlife Corridor with Nan Evans and her guests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Celebrate Port Townsend’s natural treasure, the Quimper Wildlife Corridor, with Nan Evans. Nan and her guests take listeners on a virtual field trip looking for the first signs of spring. Special guests are Sarah Spaeth, Director of Conservation and Strategic Partnerships with the Jefferson Land Trust, and local naturalists Wendy Feltham, Geoff Hammerson, and Chloe Lampert. (Airdate: April 7, 2021) </p><p>Learn more about the <a href='https://saveland.org/protected-properties/quimper-wildlife-corridor/'>Quimper Wildlife Corridor</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now509-Quimper-Corridor.mp3"
+        length="41297597" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now509</guid>
+      <pubDate>Fri, 14 Jul 2023</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 511 -->
+	<item>
+      <title>Coastal Geology of the Quimper Peninsula (Part 2)</title>
+      <itunes:title>Coastal Geology of the Quimper Peninsula (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes (part 2 of a two part program). (Airdate: April 21, 2021) </p><p>Watch video of the <a href='https://www.youtube.com/watch?v=_tOjdiMyWLk'>2013 bluff collapse</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/04/Nature-Now511Varn-Brooks-pt2.mp3"
+        length="45428420" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now511</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1711</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 507 -->
+	<item>
+      <title>Coastal Geology of the Quimper Peninsula (Part 1)</title>
+      <itunes:title>Coastal Geology of the Quimper Peninsula (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso joins geologist Varn Brooks on a field trip along our local coastline to learn more about geological processes (part 1 of a two part program). (Airdate: March 24, 2021) </p><p>Learn more about the Cornell Lab of Ornithology's <a href='https://www.allaboutbirds.org/guide/'>Bird Guide</a> and <a href='https://www.macaulaylibrary.org/'>Macaulay Library media archive</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now507-Varn-Brooks-pt1.mp3"
+        length="46417967" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now507</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 506 -->
+	<item>
+      <title>Water Predictions 2021</title>
+      <itunes:title>Water Predictions 2021</itunes:title>
+	  <itunes:summary>
+	  Hydrologist Ann Soule discusses with Mary Robson this year’s snow accumulation and the resulting potential water resources for this summer.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Hydrologist Ann Soule discusses with Mary Robson this year’s snow accumulation and the resulting potential water resources for this summer. (Airdate: March 17, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now506-Ann-Soule-Water-Shed.mp3"
+        length="35333623" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now506</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1632</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 505 -->
+	<item>
+      <title>Puffins and Climate Change</title>
+      <itunes:title>Puffins and Climate Change</itunes:title>
+	  <itunes:summary>
+	  What can puffins tell us about the impact of climate change on marine ecosystems?	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Climate change in the marine environment, food webs and forage fish, puffins and other seabirds – fitting it all together. Nan Evans, in conversation with Dr. John Piatt of the USGS Alaska Science Center, explores the interconnections and the changing marine ecosystems. (Airdate: March 10, 2021) </p><p>Watch Dr. Piatt's lecture: <a href='https://www.youtube.com/watch?v=tnuUW7hPT3s'>What Can Puffins Tell Us about the Impact of Climate Change on Marine Ecosystems?</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now505-John-Piatt-Puffins.mp3"
+        length="36519542" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now505</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 504 -->
+	<item>
+      <title>Being a Naturalist in the Year of the Pandemic</title>
+      <itunes:title>Being a Naturalist in the Year of the Pandemic</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Wendy Feltham talk about their experiences as naturalists during this strange last year of the pandemic.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Wendy Feltham talk about their experiences as naturalists during this strange last year of the pandemic – adjusting to stay-at-home orders, practicing social distancing, losing opportunities, discovering new ways of learning and sharing, finding new favorite places to explore in our own neighborhoods, and adapting to change. (Airdate: March 3, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/03/Nature-Now504-Wendy-Fellman.mp3"
+        length="37175183" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now504</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1671</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 502 -->
+	<item>
+      <title>Birds and Winter Weather Challenges</title>
+      <itunes:title>Birds and Winter Weather Challenges</itunes:title>
+	  <itunes:summary>
+	  Mary Robson and Gary Bullock discuss problems birds have with extreme weather conditions, freezing and snow, and other seasonal observations.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Mary Robson and Gary Bullock discuss problems birds have with extreme weather conditions, freezing and snow, and other seasonal observations. (Airdate: February 17, 2021) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/02/Nature-Now502-Gary-Bullock.mp3"
+        length="36303508" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now502</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 498 -->
+	<item>
+      <title>The Great Pacific Octopus in Hood Canal</title>
+      <itunes:title>The Great Pacific Octopus in Hood Canal</itunes:title>
+	  <itunes:summary>
+	  Guest host Kate Dwyer talks with Tim Carpenter of the Seattle Aquarium about the great Pacific Octopus.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Guest host Kate Dwyer talks with Tim Carpenter of the Seattle Aquarium about the great Pacific Octopus. (Airdate: January 20, 2021) </p><p>Online resource for wind readings and forecasts: <a href='https://www.windfinder.com/'>windfinder.com</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now498-Kate-Dwyer-and-Tim-Carpenter.mp3"
+        length="42599339" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now498</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1689</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 497 -->
+	<item>
+      <title>Fidalgo Island Reports: Winter</title>
+      <itunes:title>Fidalgo Island Reports: Winter</itunes:title>
+	  <itunes:summary>
+	  Beavers and amphibians respond to winter life, as observed on Fidalgo Island with Bob Jepperson, hosted by Mary Robson.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Beavers and amphibians respond to winter life, as observed on Fidalgo Island with Bob Jepperson, hosted by Mary Robson. (Airdate: January 13, 2021) </p><p>Visit <a href='https://www.bobjepperson.com/'>bobjepperson.com</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now497-Bob-Jesperson.mp3"
+        length="39106968" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now497</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 496 -->
+	<item>
+      <title>Coastal Habitat Restoration</title>
+      <itunes:title>Coastal Habitat Restoration</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Dr. Ron Thom about coastal and estuarine ecosystem restoration and the concept and science of net habitat improvement.
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Dr. Ron Thom, Staff Scientist Emeritus with the Pacific Northwest National Lab in Sequim, about coastal and estuarine ecosystem restoration and the concept and science of net habitat improvement. (Airdate: January 6, 2021) </p><p>Watch Dr. Thom's lecture: <a href='https://www.youtube.com/watch?v=FI60HupPwlQ'>What Eelgrass and Other Marine Vegetation Can Tell Us About the Future of Oceans</a>. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2021/01/Nature-Now496-Ron-Thom-Coastal-Habitat.mp3"
+        length="36658307" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now496</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1710</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 465 -->
+    <item>
+      <title>What is a Naturalist?</title>
+      <itunes:title>What is a Naturalist?</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists.
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with local naturalist Ken Wilson about observing the world around us as a naturalist and Ken’s belief that we as humans, are innately, naturally, neurologically, and genetically wired to be naturalists. We can be fascinated and often excited by observing behaviors, attributes and traits in the natural world – using our sensory experiences in the noticing of patterns and variety in the world around us. (Airdate: June 4, 2020) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2020/06/Nature-Now465-Ken-Wilson.mp3"
+        length="30135658" 
+        type="audio/mpeg" 
+      />
+      <guid>Nature-Now465</guid>
+      <pubDate>Thu, 13 Jul 2023</pubDate>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	-->
+  </channel>
+</rss>
+
+
+
+
+
