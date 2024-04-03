@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 665 -->
+	<item>
+      <title>Snails of the Pacific Northwest</title>
+      <itunes:title>Snails of the Pacific Northwest</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with snail conservationist, farmer, and all-around snail lover, Ric Brewer.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Curious about the role played by snails in shaping human history? Fashion? Diet? Economics? Class and politics? Or even, what makes snails such a huge, diverse and successful group of creatures? Join Nan Evans as she talks with snail conservationist, farmer, and all-around snail lover, Ric Brewer, to explore these, and other, questions. (Airdate: April 3, 2024) </p><p>Learn more about:<br /><a href='https://www.littlegrayfarms.com/'>Little Gray Farms</a><br /><a href='https://escargot-world.com/snail-farm-usa/'>Meet the Snail Farmer – Ric Brewer</a><br /><a href='https://saveland.org/'>Jefferson Land Trust</a><br /><a href='https://olympicnature.org/2022/07/01/native-northwest-snails/'>Native Northwest Snails</a> by Ric Brewer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/04/02091529/Nature-Now665-Snail-Trails-pt-1.mp3"
+        length="38249371" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now665</guid>
+      <pubDate>Wed, 03 Apr 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1545</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 664 -->
 	<item>
       <title>The Nature of Anderson Lake</title>
