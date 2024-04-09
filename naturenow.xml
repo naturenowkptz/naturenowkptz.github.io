@@ -19,15 +19,55 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 374 -->
+	<item>
+      <title>The World of the Unseen Life in the Oceans (Part 2)</title>
+      <itunes:title>The World of the Unseen Life in the Oceans (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans continues the conversation with Dr. Virginia Armbrust about the weird world of microscopic organisms that populate the world’s oceans.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dr. Virginia Armbrust, Director of the University of Washington School of Oceonography, joins host Nan Evans to continue the conversation about the weird world of microscopic organisms that populate the world’s oceans, and why we should know about them and even care (part 2 of a two-part program). (Airdate: August 15, 2018) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/wp-content/uploads/2018/08/19030332/Nature-Now374-81518-The-Unseen-Life-in-the-Oceans.mp3"
+        length="20169560" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now374</guid>
+      <pubDate>Wed, 08 Apr 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1680</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 348 -->
+	<item>
+      <title>The World of the Unseen Life in the Oceans (Part 1)</title>
+      <itunes:title>The World of the Unseen Life in the Oceans (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks to Dr. Virginia Armbrust about the weird world of microscopic organisms that populate the world’s oceans.
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dr. Virginia Armbrust, Director of the University of Washington School of Oceonography, joins host Nan Evans to talk about the weird world of microscopic organisms that populate the world’s oceans, and why we should know about them and even care (part 1 of a two-part program). (Airdate: February 7, 2018) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/wp-content/uploads/2018/02/10205342/Nature-Now348-2718-The-World-of-the-Unseen-Life-in-the-Oceans.mp3"
+        length="19037622" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now348</guid>
+      <pubDate>Wed, 08 Apr 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 665 -->
 	<item>
-      <title>Snails of the Pacific Northwest</title>
-      <itunes:title>Snails of the Pacific Northwest</itunes:title>
+      <title>Snails of the Pacific Northwest (Part 1)</title>
+      <itunes:title>Snails of the Pacific Northwest (Part 1)</itunes:title>
 	  <itunes:summary>
 	  Nan Evans talks with snail conservationist, farmer, and all-around snail lover, Ric Brewer.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Curious about the role played by snails in shaping human history? Fashion? Diet? Economics? Class and politics? Or even, what makes snails such a huge, diverse and successful group of creatures? Join Nan Evans as she talks with snail conservationist, farmer, and all-around snail lover, Ric Brewer, to explore these, and other, questions. (Airdate: April 3, 2024) </p><p>Learn more about:<br /><a href='https://www.littlegrayfarms.com/'>Little Gray Farms</a><br /><a href='https://escargot-world.com/snail-farm-usa/'>Meet the Snail Farmer – Ric Brewer</a><br /><a href='https://saveland.org/'>Jefferson Land Trust</a><br /><a href='https://olympicnature.org/2022/07/01/native-northwest-snails/'>Native Northwest Snails</a> by Ric Brewer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Curious about the role played by snails in shaping human history? Fashion? Diet? Economics? Class and politics? Or even, what makes snails such a huge, diverse and successful group of creatures? Join Nan Evans as she talks with snail conservationist, farmer, and all-around snail lover, Ric Brewer, to explore these, and other, questions (part 1 of a two-part program). (Airdate: April 3, 2024) </p><p>Learn more about:<br /><a href='https://www.littlegrayfarms.com/'>Little Gray Farms</a><br /><a href='https://escargot-world.com/snail-farm-usa/'>Meet the Snail Farmer – Ric Brewer</a><br /><a href='https://saveland.org/'>Jefferson Land Trust</a><br /><a href='https://olympicnature.org/2022/07/01/native-northwest-snails/'>Native Northwest Snails</a> by Ric Brewer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2024/04/02091529/Nature-Now665-Snail-Trails-pt-1.mp3"
