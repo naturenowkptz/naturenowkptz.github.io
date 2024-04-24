@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 668 -->
+	<item>
+      <title>The Cougar Conundrum (Part 2)</title>
+      <itunes:title>The Cougar Conundrum (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and puma specialist Dr. Mark Elbroch continue to explore both mountain lion ecology and how we might learn to share our world with this large successful predator.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join host Debaran Kelso and puma specialist Dr. Mark Elbroch as they continue to explore both mountain lion ecology and how we might learn to share our world with this large successful predator (part 2 of a two-part program). (Airdate: April 24, 2024) </p><p>Learn more about the Jefferson Land Trust's <a href='https://saveland.org/conservation-breakfast-2024-draws-a-crowd-for-fascinating-program-about-cougars/'>2024 Conservation Breakfast</a>. </p><p>Learn more about Panthera's <a href='https://panthera.org/blog-post/introducing-olympic-cougar-project'>Olympic Cougar Project</a>. </p><p>Learn more about the work of <a href='https://markelbroch.com'>Mark Elbroch</a> and his field guides and books, including The Cougar Conundrum. </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/04/22161348/Nature-Now668-Mark-Elbroch-pt2.mp3"
+        length="26029248" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now668</guid>
+      <pubDate>Wed, 24 Apr 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1769</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 666 -->
 	<item>
       <title>Plankton Worlds</title>
