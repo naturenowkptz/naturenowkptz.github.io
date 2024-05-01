@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 669 -->
+	<item>
+      <title>The Nature of Teal Lake</title>
+      <itunes:title>The Nature of Teal Lake</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with John Goldwood about the history and nature of Teal Lake near Port Ludlow, WA.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>During a 2-mile walk, host Jackie Canterbury talks with John Goldwood about the history and nature of Teal Lake near Port Ludlow. As a resident of Port Ludlow, John shares his knowledge about the history and complications of living at the interface between timber country and residential development. He engages us about the Teal Lake trail, the trail system in Port Ludlow, the surrounding forest, the local geology, and the plants and birds of the area. (Airdate: May 1, 2024) </p><p>Learn more:<br /><a href='https://www.ptleader.com/stories/nature-out-of-balance-in-port-ludlow,4378'>Nature out of balance in Port Ludlow</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/04/30092331/Nature-Now669-Nature-of-Teal-Lake.mp3"
+        length="27880348" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now669</guid>
+      <pubDate>Wed, 01 Apr 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1717</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 668 -->
 	<item>
       <title>The Cougar Conundrum (Part 2)</title>
@@ -47,7 +67,7 @@
 	  Nan Evans talks with Dr. Gretchen Rollwagen-Bollens about planktonic ecosystems and their significance to global ecology and human well being.  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Ancient bacteria, single cells and long strands of strange little plants, plus minute single-celled animals and weird fantastical animal larvae – these are the members of the Earth's massive and hugely important planktonic ecosystems. Come with Nan Evans as she talks with Dr. Gretchen Rollwagen-Bollens about this strange world and its significance to global ecology and human well being. Consider eutrophication, the world's biggest threat to water quality, or cyanobacteria, one of the causes of toxic algal blooms such as the ones in our local Anderson Lake. (Airdate: April 10, 2024) </p><p>Learn more:<br /><a href='https://labs.wsu.edu/aquatic-ecology/'>Aquatic Ecology Lab</a> at WSU Vancouver<br /><a href='https://www.nature.com/scitable/knowledge/library/eutrophication-causes-consequences-and-controls-in-aquatic-102364466/'>Eutrophication: Causes, Consequences, and Controls in Aquatic Ecosystems</a><br /><a href='https://www.youtube.com/watch?v=xFQ_fO2D7f0'>The Secret Life of Plankton</a> from TED-Ed<br /><a href='https://www.youtube.com/watch?v=UjnYJVKysfo'>Why Are Plankton the Most Vital Organisms on Earth?</a> from BBC Earth </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Ancient bacteria, single cells and long strands of strange little plants, plus minute single-celled animals and weird fantastical animal larvae – these are the members of the Earth's massive and hugely important planktonic ecosystems. Come with Nan Evans as she talks with Dr. Gretchen Rollwagen-Bollens about this strange world and its significance to global ecology and human well being. Consider eutrophication, the world's biggest threat to water quality, or cyanobacteria, one of the causes of toxic algal blooms such as the ones in our local Anderson Lake. (Airdate: April 10, 2024) </p><p>Watch Dr. Stephen Bollens' and Dr. Gretchen Rollwagen-Bollens' lecture: <a href='https://www.youtube.com/watch?v=NnkVmrhAqcQ'>The Mysterious World of Plankton: Cascading Migrations in a Fertile Fjord</a>. </p><p>Learn more:<br /><a href='https://labs.wsu.edu/aquatic-ecology/'>Aquatic Ecology Lab</a> at WSU Vancouver<br /><a href='https://www.nature.com/scitable/knowledge/library/eutrophication-causes-consequences-and-controls-in-aquatic-102364466/'>Eutrophication: Causes, Consequences, and Controls in Aquatic Ecosystems</a><br /><a href='https://www.youtube.com/watch?v=xFQ_fO2D7f0'>The Secret Life of Plankton</a> from TED-Ed<br /><a href='https://www.youtube.com/watch?v=UjnYJVKysfo'>Why Are Plankton the Most Vital Organisms on Earth?</a> from BBC Earth </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2024/04/09093018/Nature-Now-666-Plankton-Worlds.mp3"
