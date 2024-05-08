@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 670 -->
+	<item>
+      <title>Snails of the Pacific Northwest (Part 2)</title>
+      <itunes:title>Snails of the Pacific Northwest (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans welcomes back Ric Brewer to continue their conversation about the native snails and slugs of the Pacific Northwest.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans welcomes back Ric Brewer to continue their "snail tales" conversation with a discussion of the native snails and slugs of the Pacific Northwest. Our moist temperate climate is just right for these gastropods (that means "stomach-footed"). And, for a final conversational treat, consider eating snails (i.e., escargots) on your pizza or pasta (part 2 of a two-part program). (Airdate: May 8, 2024) </p><p>Join Ric on a <a href='https://s3.us-west-2.amazonaws.com/cdn.jltnatural.org/wp-content/uploads/2024/05/01195729/Land-Trust-Natural-History-Society-newsletter-for-May-1.pdf'>Gastropod Gallop</a>, a guided walk exploring the inhabitants that dwell at ground level: snails and slugs. </p><p>Learn more about:<br /><a href='https://www.littlegrayfarms.com/'>Little Gray Farms</a><br /><a href='https://escargot-world.com/snail-farm-usa/'>Meet the Snail Farmer – Ric Brewer</a><br /><a href='https://saveland.org/'>Jefferson Land Trust</a><br /><a href='https://olympicnature.org/2022/07/01/native-northwest-snails/'>Native Northwest Snails</a> by Ric Brewer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/05/06131322/NatureNow670-Snail-Tales-pt-2.mp3"
+        length="27199992" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now670</guid>
+      <pubDate>Wed, 08 May 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1702</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 669 -->
 	<item>
       <title>The Nature of Teal Lake</title>
