@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 676 -->
+	<item>
+      <title>Rare Pacific Rhododendron Forest</title>
+      <itunes:title>Rare Pacific Rhododendron Forest</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Peter Bahls and Heidi Eisenhour about their collaborative efforts to protect our globally rare remaining Pacific Rhododendron forest.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>We're all familiar with Washington's state flower, the native Pacific Rhododendron. Did you know there is a classification for that ecosystem – it's called the Rhododendron forest. Remnants of the Rhododendron forest are on the Toandos Peninsula in Puget Sound and are technically part of a "globally imperiled plant association". This forest type has been confirmed by botanists with the Department of Natural Resources' Natural Heritage Program. Over the past decade biologists have mapped this globally rare type of forest which represents the largest occurrence of its type left in the world. Although this native forest type was once common west of the Cascades in Washington state, it has largely been eliminated by conversion to tree plantations and development. Join Jackie Canterbury as she talks with Peter Bahls, Director and Biologist for the Northwest Watershed Institute, and Heidi Eisenhour, Jefferson County Commissioner, about their collaborative efforts to protect this globally rare remaining Pacific Rhododendron forest. (Airdate: June 19, 2024) </p><p>Learn more:<br /><a href='http://www.nwwatershed.org/'>Northwest Watershed Institute</a><br /><a href='https://www.dnr.wa.gov/news/department-natural-resources-seeks-public-comment-expansion-dabob-bay-natural-area'>WA DNR Seeks Public Comment on Expansion of Dabob Bay Natural Area</a> until June 28<br /><a href='https://s3.us-west-2.amazonaws.com/cdn.jltnatural.org/wp-content/uploads/2024/06/02083831/Land-Trust-Natural-History-Society-newsletter-for-June.pdf'>Rare Rhododendron Forests</a> by Peter Bahls in the Natural History Society Newsletter<br /><a href='https://www.dnr.wa.gov/natural-heritage-program'> WA DNR Natural Heritage Program</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/06/18154833/NatureNow676-Rhododendron-Forest-Peter-and-Heidi-.mp3"
+        length="34336088" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now676</guid>
+      <pubDate>Wed, 19 Jun 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1666</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 673 -->
 	<item>
       <title>Plankton Worlds (Part 2)</title>
