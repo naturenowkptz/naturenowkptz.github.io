@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 677 -->
+	<item>
+      <title>The Naturalist at Home</title>
+      <itunes:title>The Naturalist at Home</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Kelly Brenner, Seattle author, artist and urban naturalist, about projects and experiments you can do around your home to explore the hidden worlds of life that share our spaces.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nourish your curiosity about the natural world around us. Join Nan Evans as she talks with Kelly Brenner, Seattle author, artist and urban naturalist, about projects and experiments you can do around your home to explore the hidden worlds of life that share our spaces. (Airdate: June 26, 2024) </p><p>Learn more:<br /><a href='https://www.metrofieldguide.com/'>Kelly Brenner</a><br />Kelly's suggestions for a <a href='https://www.metrofieldguide.com/naturalist-toolkit-field-bag/'>naturalist's field kit</a><br /><a href='https://www.mountaineers.org/books/books/the-naturalist-at-home-projects-for-discovering-the-hidden-world-around-us'>The Naturalist at Home: Projects for Discovering the Hidden World Around Us</a><br /><a href='https://www.youtube.com/watch?v=gpt9cJrEZ_Y'>Slime molds are gorgeous (you just never knew it!)</a> from Oregon Public Broadcasting<br /><a href='https://xerces.org/publications/identification-monitoring-guides/macroinvertebrates-of-pacific-northwest'>Macroinvertebrates Of The Pacific Northwest: A Field Guide</a><br /><a href='https://lonepinebooks.com/product/plants-of-the-pacific-northwest-coast-6/'>Plants of the Pacific Northwest Coast</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/06/27185328/Nature-Now677-The-Naturalist-at-Home.mp3"
+        length="47445258" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now677</guid>
+      <pubDate>Wed, 26 Jun 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1711</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 676 -->
 	<item>
       <title>Rare Pacific Rhododendron Forest</title>
