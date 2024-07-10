@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 679 -->
+	<item>
+      <title>Wild Edible and Medicinal Plants (Part 1)</title>
+      <itunes:title>Wild Edible and Medicinal Plants (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso meets with herbalist Nancy Slick to speak about some of her favorite medicinal plants.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso is invited to the wild gardens of herbalist Nancy Slick to speak about some of her favorite medicinal plants (part 1 of a two-part program). (Airdate: July 10, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/07/09080549/Nature-Now679-Wild-Medicinal-Plants-pt1.mp3"
+        length="43850164" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now679</guid>
+      <pubDate>Wed, 10 Jul 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 677 -->
 	<item>
       <title>The Naturalist at Home</title>
