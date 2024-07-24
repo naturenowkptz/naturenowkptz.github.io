@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 681 -->
+	<item>
+      <title>Wild Edible and Medicinal Plants (Part 2)</title>
+      <itunes:title>Wild Edible and Medicinal Plants (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso continues her visit with herbalist Nancy Slick to speak about some of her favorite medicinal plants.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join us as we continue on our field trip to explore the world of wild edible and medicinal plants! Debaran Kelso is invited to the wild gardens of herbalist Nancy Slick to speak about some of her favorite medicinal plants (part 2 of a two-part program). (Airdate:  July 24, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/07/22152750/Nature-Now681-Wild-Edible-and-Med-Plants-pt-2.mp3"
+        length="44685505" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now681</guid>
+      <pubDate>Wed, 24 Jul 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1762</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 679 -->
 	<item>
       <title>Wild Edible and Medicinal Plants (Part 1)</title>
