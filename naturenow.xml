@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 687 -->
+	<item>
+      <title>Baby Dungeness Crabs and Light Traps</title>
+      <itunes:title>Baby Dungeness Crabs and Light Traps</itunes:title>
+	  <itunes:summary>
+	  Nan Evans explores new efforts to better understand the dynamic Dungeness crab populations in the Pacific Northwest.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dungeness crabs are hugely important in the Pacific Northwest – commercially, recreationally, ecologically, and traditionally. Yet scientists and resource managers don't know how big the population is, how and why it varies over time, or how significant natural and human caused factors impact these populations. Join Nan Evans to explore how new and cooperative efforts (and some very simple techniques) are trying to better understand the dynamic Dungeness crab populations. (Airdate: September 4, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/09/02154129/NatureNow687-Baby-Dungenness-Crabs.mp3"
+        length="50665584" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now687</guid>
+      <pubDate>Wed, 11 Sep 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 681 -->
 	<item>
       <title>Wild Edible and Medicinal Plants (Part 2)</title>
