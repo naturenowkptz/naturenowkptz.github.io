@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 689 -->
+	<item>
+      <title>Wildlife Tracking and Conservation (Part 1)</title>
+      <itunes:title>Wildlife Tracking and Conservation (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Scott Brinton, co-founder and executive director of the CedarRoot School, about tracking and its importance to wildlife conservation.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with Scott Brinton, co-founder and executive director of the CedarRoot School, about tracking and its importance to wildlife conservation (part 1 of a two-part program). (Airdate: September 18, 2024) </p><p>Learn more: <a href='https://cedarrootschool.org/'>CedarRoot School</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/09/16113229/Nature-Now689-Wildlife-Tracking-and-Conservation-pt1.mp3"
+        length="51240552" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now689</guid>
+      <pubDate>Wed, 18 Sep 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 687 -->
 	<item>
       <title>Baby Dungeness Crabs and Light Traps</title>
@@ -27,7 +47,7 @@
 	  Nan Evans explores new efforts to better understand the dynamic Dungeness crab populations in the Pacific Northwest.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Dungeness crabs are hugely important in the Pacific Northwest – commercially, recreationally, ecologically, and traditionally. Yet scientists and resource managers don't know how big the population is, how and why it varies over time, or how significant natural and human caused factors impact these populations. Join Nan Evans to explore how new and cooperative efforts (and some very simple techniques) are trying to better understand the dynamic Dungeness crab populations. (Airdate: September 4, 2024) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Dungeness crabs are hugely important in the Pacific Northwest – commercially, recreationally, ecologically, and traditionally. Yet scientists and resource managers don't know how big the population is, how and why it varies over time, or how significant natural and human caused factors impact these populations. Join Nan Evans to explore how new and cooperative efforts (and some very simple techniques) are trying to better understand the dynamic Dungeness crab populations. (Airdate: September 4, 2024) </p><p>Learn more:<br /><a href='https://restorationfund.org/'>Puget Sound Restoration Fund</a><br /><a href='https://www.pnwcrab.com/'>Pacific Northwest Crab Research Group</a><br /><a href='https://www.pnwcrab.com/dungeness-crab-101'>About Dungeness Crab</a><br />WA DFW Guide to <a href='https://wdfw.wa.gov/sites/default/files/2023-02/sport-crab-pamphlet.pdf'>Crabbing in Puget Sound</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2024/09/02154129/NatureNow687-Baby-Dungenness-Crabs.mp3"
