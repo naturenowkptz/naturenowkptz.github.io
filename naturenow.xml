@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 690 -->
+	<item>
+      <title>Learning Bird Songs by Ear</title>
+      <itunes:title>Learning Bird Songs by Ear</itunes:title>
+	  <itunes:summary>
+	   Nan Evans heads into a local forest with Jackie Canterbury to learn to better identify birds by ear.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Nan Evans as she heads into a local forest with another Nature Now host, Jackie Canterbury. Jackie will help Nan and listeners learn to better identify birds by ear and understand some of their special behavior. (Airdate: September 25, 2024) </p><p>Learn more:<br /><a href='https://www.allaboutbirds.org/guide/Red_Crossbill/id'>Red Crossbill</a><br /><a href='https://www.allaboutbirds.org/guide/Winter_Wren/id'>Winter Wren</a><br /><a href='https://saveland.org/protected-properties/valley-view-forest/'>Valley View Forest</a><br /><a href='https://birdlanguage.com/products/what-the-robin-knows/'>What The Robin Knows</a><br /><a href='https://amytan.net/backyard-bird-chronicles'>Backyard Bird Chronicles</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/09/23124233/Nature-Now690-Learning-Bird-Songs-pt1.mp3"
+        length="44345795" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now690</guid>
+      <pubDate>Wed, 25 Sep 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1672</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 689 -->
 	<item>
       <title>Wildlife Tracking and Conservation (Part 1)</title>
@@ -27,7 +47,7 @@
 	  Debaran Kelso speaks with Scott Brinton, co-founder and executive director of the CedarRoot School, about tracking and its importance to wildlife conservation.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Host Debaran Kelso speaks with Scott Brinton, co-founder and executive director of the CedarRoot School, about tracking and its importance to wildlife conservation (part 1 of a two-part program). (Airdate: September 18, 2024) </p><p>Learn more: <a href='https://cedarrootschool.org/'>CedarRoot School</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Host Debaran Kelso speaks with Scott Brinton, co-founder and executive director of the CedarRoot School, about tracking and its importance to wildlife conservation (part 1 of a two-part program). (Airdate: September 18, 2024) </p><p>Learn more: <br /><a href='https://cedarrootschool.org/'>CedarRoot School</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2024/09/16113229/Nature-Now689-Wildlife-Tracking-and-Conservation-pt1.mp3"
