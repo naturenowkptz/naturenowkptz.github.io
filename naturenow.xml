@@ -419,7 +419,7 @@
       <itunes:duration>1530</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 657 -->
+	<!-- EPISODE 657 UNPUBLISHED
 	<item>
       <title>Sense of Wonder</title>
       <itunes:title>Sense of Wonder</itunes:title>
@@ -439,6 +439,7 @@
       <itunes:duration>1602</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+	-->
 	<!-- EPISODE 654 -->
 	<item>
       <title>Humpback Whales, Fermi's Paradox and Curious Aliens (Part 1)</title>
@@ -1639,7 +1640,7 @@
       <itunes:duration>1462</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 575 -->
+	<!-- EPISODE 575 UNPUBLISHED
 	<item>
       <title>Dune Restoration (Part 2)</title>
       <itunes:title>Dune Restoration (Part 2)</itunes:title>
@@ -1659,7 +1660,8 @@
       <itunes:duration>1719</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 571 -->
+	-->
+	<!-- EPISODE 571 UNPUBLISHED
 	<item>
       <title>Dune Restoration (Part 1)</title>
       <itunes:title>Dune Restoration (Part 1)</itunes:title>
@@ -1679,6 +1681,7 @@
       <itunes:duration>1718</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+	-->
 	<!-- EPISODE 570 -->
 	<item>
       <title>Tree Thieves</title>
@@ -2139,7 +2142,7 @@
       <itunes:duration>1734</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 538 -->
+	<!-- EPISODE 538 UNPUBLISHED
 	<item>
       <title>Winter Birds</title>
       <itunes:title>Winter Birds</itunes:title>
@@ -2159,6 +2162,7 @@
       <itunes:duration>1716</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+	-->
 	<!-- EPISODE 537 -->
 	<item>
       <title>Orcas: Shared Waters, Shared Home</title>
@@ -2299,7 +2303,7 @@
       <itunes:duration>1731</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 524 -->
+	<!-- EPISODE 524 UNPUBLISHED
 	<item>
       <title>Spiders</title>
       <itunes:title>Spiders</itunes:title>
@@ -2319,6 +2323,7 @@
       <itunes:duration>1539</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+	-->
 	<!-- EPISODE 521 -->
 	<item>
       <title>Marine Mammal Stranding (Part 2)</title>
@@ -2439,7 +2444,7 @@
       <itunes:duration>1706</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 513 -->
+	<!-- EPISODE 513 UNPUBLISHED
 	<item>
       <title>Nesting Season</title>
       <itunes:title>Nesting Season</itunes:title>
@@ -2459,6 +2464,7 @@
       <itunes:duration>1698</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+	-->
 	<!-- EPISODE 512 -->
 	<item>
       <title>Bird Migration (Part 2)</title>
