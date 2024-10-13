@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 692 -->
+	<item>
+      <title>Chimacum Ridge Community Forest (Part 1)</title>
+      <itunes:title>Chimacum Ridge Community Forest (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans meets with Jefferson Land Trust staff and advisors on Chimacum Ridge to explore what is happening there with community forestry now that the Land Trust owns the property.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Community forestry? What is that? Find out as Nan Evans meets up with Jefferson Land Trust staff and advisors on Chimacum Ridge to explore what is happening there now that the Land Trust owns the property. (part 1 of a two-part program). (Airdate: October 9, 2024) </p><p>Learn more:<br /><a href='https://saveland.org/save-land/chimacum-ridge/'>Chimacum Ridge Forest</a><br /><a href='https://www.tpl.org/community-forest-economic-case-studies'>Community Forests: A path to prosperity and connection</a><br /><a href='https://www.nwcommunityforests.org/forests-in-our-region'>Community forests in the Pacific Northwest</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/10/07132712/Nature-Now692-Chimacum-Ridge-Forest-pt1.mp3"
+        length="50319234" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now692</guid>
+      <pubDate>Wed, 09 Oct 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1748</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 690 -->
 	<item>
       <title>Learning Bird Songs by Ear (Part 1)</title>
