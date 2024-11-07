@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 696 -->
+	<item>
+      <title>Chickadee Forestry</title>
+      <itunes:title>Chickadee Forestry</itunes:title>
+	  <itunes:summary>
+	   Jackie Canterbury talks with Malloree Weinheimer, founder of Chickadee Forestry, about forest health, climate change, and the resources and strategies available to small forest landowners who want to conserve their forest lands.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Malloree Weinheimer, founder of Chickadee Forestry, a female owned and operated small business she started in 2018. Malloree works to find solutions in forest management to support the land and its people in a new and different way. Join Jackie as she talks with Malloree about Chickadee Forestry which serves Jefferson County and the greater Pacific Northwest. Malloree answers questions about forest health, climate change, and the resources and strategies available to small forest landowners who want to conserve their forest lands. (Airdate: November 6, 2024) </p><p>Learn more:<br /><a href='https://chickadeeforestry.com/'>Chickadee Forestry</a><br /><a href='https://e360.yale.edu/features/why-keeping-mature-forests-intact-is-key-to-the-climate-fight'>Why Keeping Mature Forests Intact Is Key to the Climate Fight</a><br />Bird song recordings: Jackie Canterbury; Thomas Magarian, XC464517, accessible at <a href='www.xeno-canto.org/464517'>www.xeno-canto.org/464517</a>. License <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/11/04122922/Nature-Now-696-Chickadee-Forestry.mp3"
+        length="26579929" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now696</guid>
+      <pubDate>Wed, 06 Nov 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1710</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 694 -->
 	<item>
       <title>Chimacum Ridge Community Forest (Part 2)</title>
