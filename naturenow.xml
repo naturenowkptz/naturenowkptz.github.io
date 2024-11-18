@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 697 -->
+	<item>
+      <title>The Parrot and The Igloo</title>
+      <itunes:title>The Parrot and The Igloo</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with David Lipsky about his latest book, The Parrot and the Igloo: Climate and the Science of Denial.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join us as we explore new perspectives on the critical topic of climate change! Host Debaran Kelso speaks with celebrated author David Lipsky on the subject of his latest book, The Parrot and the Igloo: Climate and the Science of Denial. (Airdate: November 13, 2024) </p><p>Learn more:<br /><a href='https://wwnorton.com/books/9780393866704'>The Parrot and The Igloo</a> by David Lipsy<br />Bird sound recording: Robert Dobbs, <a href='https://macaulaylibrary.org/asset/200282711'>ML200282711</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/11/18091235/Nature-Now697-The-Parrot-and-the-Igloo-The-Science-of-Denial1.mp3"
+        length="25801837" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now697</guid>
+      <pubDate>Wed, 13 Nov 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1608</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 696 -->
 	<item>
       <title>Chickadee Forestry</title>
