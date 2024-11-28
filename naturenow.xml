@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 699 -->
+	<item>
+      <title>Christmas Bird Count</title>
+      <itunes:title>Christmas Bird Count</itunes:title>
+	  <itunes:summary>
+	   Jackie Canterbury talks with Dr. Steve Hampton, from the Rainshadow Bird Alliance, about the oldest citizen science program of its kind, the Audubon Christmas Bird Count.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Dr. Steve Hampton from the local Rainshadow Bird Alliance, formerly Admiralty Audubon, about the oldest citizen science program of its kind, the Audubon Christmas Bird Count or CBC. The CBC began on Christmas Day 1900 as a way to count birds rather than shoot them as people began to become visibly concerned about declining bird populations. The Port Townsend CBC occurs on December 14, relying on volunteer birders and encompassing much of the Quimper Peninsula. The Rainshadow Alliance administers our local CBC and submits data to National Audubon where Audubon and other organizations use the data to guide conservation efforts for birds, including the greatest challenge of all, climate change. "There is nothing else like the CBC in terms of geographic coverage and time," says Geoff LaBaron of National Audubon. And none of it would happen without dedicated volunteers. (Airdate: November 27, 2024) </p><p>Learn more:<br /><a href='https://www.admiraltyaudubon.org/'>Rainshadow Bird Alliance</a><br />Rainshadow Bird Alliance's <a href='https://www.admiraltyaudubon.org/christmas-bird-count-cbc'>2024 Port Townsend Christmas Bird Count</a><br /><a href='https://www.audubon.org/community-science/christmas-bird-count'>Audubon Christmas Bird Count</a><br />Christmas Bird Count <a href='https://www.audubon.org/community-science/christmas-bird-count/christmas-bird-count-bibliography'>bibliography of studies</a><br /><a href='https://birdsconnectsea.org/get-involved/community-science/cbc/'>2024 Seattle Christmas Bird Count</a><br />Bird sound recording: Thomas Magarian, XC524805, accessible at <a href='https://xeno-canto.org/524805'>www.xeno-canto.org/524805</a>. License <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/11/27092945/Nature-Now699-Steve-Hampton-CBC.mp3"
+        length="30093445" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now699</guid>
+      <pubDate>Wed, 27 Nov 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1742</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 698 -->
 	<item>
       <title>Backyard Wildlife Certifications</title>
