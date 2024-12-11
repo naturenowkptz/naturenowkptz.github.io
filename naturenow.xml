@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 701 -->
+	<item>
+      <title>Wildlife Conservation Essays</title>
+      <itunes:title>Wildlife Conservation Essays</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with author Betsy Howell about her recently published book of essays, Wild Forest Home: Stories of Conservation in the Pacific Northwest. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Host Debaran Kelso speaks with author Betsy Howell about her recently published book of essays, Wild Forest Home: Stories of Conservation in the Pacific Northwest. Betsy is a wildlife biologist with the U.S. Forest Service and has been on our program several times over the years speaking about her work on the Olympic National Forest, but this interview focuses on her personal experiences as a writer working in the forests she's come to love. (Airdate: December 11, 2024) </p><p>Learn more:<br /><a href='https://uofupress.com/books/wild-forest-home/'>Wild Forest Home: Stories of Conservation in the Pacific Northwest</a> by Betsy L. Howell<br />Bird sound recording: Gregory Budney, <a href='https://macaulaylibrary.org/asset/74563211'>ML74563211</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library</p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2024/12/10123238/Nature-Now-701-Wildlife-Conservation-Essays.mp3"
+        length="41003952" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now701</guid>
+      <pubDate>Wed, 11 Dec 2024 12:30:00 PST</pubDate>
+      <itunes:duration>1554</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 699 -->
 	<item>
       <title>Christmas Bird Count</title>
