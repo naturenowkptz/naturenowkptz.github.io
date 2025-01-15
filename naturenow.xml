@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 706 -->
+	<item>
+      <title>Wildlife Research on the Olympic Peninsula</title>
+      <itunes:title>Wildlife Research on the Olympic Peninsula</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and wildlife biologist Betsy Howell of the US Forest Service review recent wildlife research projects being conducted in the Olympic National Forest.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Debaran Kelso and guest wildlife biologist Betsy Howell of the US Forest Service, as they review recent wildlife research projects being conducted in the Olympic National Forest. (Airdate: January 15, 2025) </p><p>Learn more:<br /><a href='https://betsylhowell.com/'>Betsy Howell</a><br /><a href='https://uofupress.com/books/wild-forest-home/'>Wild Forest Home: Stories of Conservation in the Pacific Northwest</a> by Betsy L. Howell<br />Bird sound recordings: Geoffrey A. Keller courtesy of Cornell Lab of Ornithology | Macaulay Library</p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/01/14111131/Nature-Now706-Recent-WildlifeResearch-on-Oly-NF.mp3"
+        length="38808615" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now706</guid>
+      <pubDate>Wed, 15 Jan 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1489</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 701 -->
 	<item>
       <title>Wildlife Conservation Essays</title>
