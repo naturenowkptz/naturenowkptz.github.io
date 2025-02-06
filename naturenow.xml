@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 709 -->
+	<item>
+      <title>Learning about Nature in the Democratic Classroom</title>
+      <itunes:title>Learning about Nature in the Democratic Classroom</itunes:title>
+	  <itunes:summary>
+	   Jackie Canterbury talks with Brittaney Drake about her work at The Pearl Remote Democratic High School in Seattle where she teaches about nature using a visual arts curriculum.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p> Jackie Canterbury talks with Brittaney Drake about her work at The Pearl Remote Democratic High School in Seattle, Washington where she teaches about nature using a visual arts curriculum. Her teaching style follows the fundamentals of Dr. Art Pearl who developed the Democratic classroom in Eugene, Oregon. He inspired the words Democracy and Education. "His message was about the primacy of democracy, the fragility of it, the assaults against it, how far we are from a nation that truly cherishes it and practices it — and the essential role of public education in any chance for a healthy democracy in the future." The founder and director of the Seattle Democratic school is Dr. Robin Harwick who has served as a mentor to Brittaney. In this program we talk about the importance of using the democratic process as a backdrop to teaching about art and nature. Globally and as a nation, we are now realizing the fragility of democracy. In this program Brittaney discusses how she uses a visual arts curriculum, particularly bird illustration, as a way to teach about nature and science. (Airdate: February 5, 2025) </p><p>Learn more:<br /><a href='https://thepearlhighschool.org/'>The Pearl Remote Democratic High School</a><br /><a href='https://www.instagram.com/birds_of_bean/'>Brittaney Drake's artwork on instagram</a><br /><a href='https://openlibrary.org/books/OL388005M/The_democratic_classroom'>The Democratic Classroom: Theory to Inform Practice (Understanding Education and Policy)</a><br /><a href='https://eugeneweekly.com/2018/07/26/art-pearl-democracy-and-education/'>Art Pearl, Democracy and Education: Remembering a Legend</a><br />Bird sound recordings: Donald R. Gunn, <a href='https://macaulaylibrary.org/asset/57586'>ML57586</a>, and John Patterson, <a href='https://macaulaylibrary.org/asset/93401111'>ML93401111</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/02/05125543/Nature-Now-709.-Brittaney-Drake-Democratic-Classroom-Part1.mp3"
+        length="38019989" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now709</guid>
+      <pubDate>Wed, 05 Feb 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1624</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 706 -->
 	<item>
       <title>Wildlife Research on the Olympic Peninsula</title>
