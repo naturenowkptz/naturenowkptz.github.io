@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 715 -->
+	<item>
+      <title>Birds and Their Feathers (Part 1)</title>
+      <itunes:title>Birds and Their Feathers (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans is joined by Christie Lassen to explore feather forms and structures, colors and patterns, and the incredible usefulness and functions of feathers.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Envision a bird – any bird. What do you first notice? The feathers, of course. But, what do you really know about those beautiful and amazingly variable structures? Join Nan Evans and Christie Lassen to explore feather forms and structures, colors and patterns, and the incredible usefulness and functions of feathers (part 1 of a two-part program). (Airdate: March 19, 2025) </p><p>Learn more:<br /><a href='https://gardiner.wbu.com/'>Wild Birds Unlimited</a> in Gardiner, WA<br /><a href='https://thorhanson.net/feathers'>Feathers: The Evolution of a Natural Miracle</a> by Thor Hanson<br /><a href='https://www.sibleyguides.com/product/what-its-like-to-be-a-bird/'>What It’s Like to Be a Bird</a> by by David Allen Sibley<br />Bird sound recording: Andrew Spencer, <a href='https://macaulaylibrary.org/asset/32411761'>ML32411761</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library</p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and want to support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/03/20092214/Nature-Now715-Birds-and-their-Feathers.mp3"
+        length="23628375" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now715</guid>
+      <pubDate>Wed, 19 Mar 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1531</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 712 -->
 	<item>
       <title>Learning about Nature in the Democratic Classroom (Part 2)</title>
