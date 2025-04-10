@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 718 -->
+	<item>
+      <title>Birds and Their Feathers (Part 2)</title>
+      <itunes:title>Birds and Their Feathers (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans is joined again by Christie Lassen to explore more topics about feathers and their structure and functions.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and Christie Lassen are at it again in part two of "Birds and Their Feathers" as they explore such topics as: What is the impact of diet on feathers? How do feathers keep birds warm? And cool? How do feathers help birds fly? (part 2 of a two-part program). (Airdate: April 9, 2025) </p><p>Learn more:<br /><a href='https://gardiner.wbu.com/'>Wild Birds Unlimited</a> in Gardiner, WA<br /><a href='https://thorhanson.net/feathers'>Feathers: The Evolution of a Natural Miracle</a> by Thor Hanson<br /><a href='https://www.sibleyguides.com/product/what-its-like-to-be-a-bird/'>What It’s Like to Be a Bird</a> by David Allen Sibley<br />Bird sound recording: Gerrit Vyn, <a href='https://macaulaylibrary.org/asset/128932'>ML128932</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library</p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/04/09093847/Nature-Now718-Chtistie-Lassen-pt2.mp3"
+        length="46160486" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now718</guid>
+      <pubDate>Wed, 09 Apr 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1811</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 716 -->
 	<item>
       <title>Seabird Conservation (Part 1)</title>
