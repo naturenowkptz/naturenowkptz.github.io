@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 719 -->
+	<item>
+      <title>Whale Tales from Alaska</title>
+      <itunes:title>Whale Tales from Alaska</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury speaks with Dave Rugh, a wildlife biologist who studied the abundance of whales around Alaska.
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Whales of Alaska have been studied by NOAA scientists for many years. For a third of a century, Dave Rugh flew in small aircraft, stood on sea cliffs, rode various ships, and spent a lot of time on sea ice documenting the abundance of whales around Alaska. This included the enigmatic bowhead whale, belugas (which are white whales) in Cook Inlet near Anchorage, and gray whales which migrate from the Arctic to Mexico's warm lagoons. (KPTZ airdate: April 16, 2025) </p><p>Learn more:<br /><a href='https://www.youtube.com/watch?v=t04SptVlGkQ'>NOAA in Alaska</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/04/16123201/Nature-Now719-Whale-Tales-of-Alaska.mp3"
+        length="25490243" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now719</guid>
+      <pubDate>Wed, 16 Apr 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1774</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 718 -->
 	<item>
       <title>Birds and Their Feathers (Part 2)</title>
