@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 720 -->
+	<item>
+      <title>Seabird Conservation (Part 2)</title>
+      <itunes:title>Seabird Conservation (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso welcomes Peter Harrison, a seabird expert, artist, and conservationist, and his wife Shirley Metz, also a conservationist, to speak about their joint conservation efforts.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso welcomes back guest Peter Harrison, this time joined by his wife Shirley Metz. Peter is a world-renowned seabird expert, artist, and conservationist, and Shirley is an avid adventurer and conservationist in her own right. This show highlights their remarkable joint conservation efforts (part 2 of a two-part program). (KPTZ airdate: April 23, 2025) </p><p>Learn more:<br /><a href='https://mousefreemarion.org/'>The Mouse-Free Marion Project</a><br /><a href='https://www.peterharrisonseabirds.com/store/p/ndsik0tuyqwj3uzdqhjjeapk3kdgws'>SEABIRDS: The New Identification Guide</a> autographed by Peter Harrison<br /><a href='https://www.peterharrisonseabirds.com/'>Peter Harrison</a><br />Bird sound recording by Penguins International </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/04/22113305/Nature-Now720-Harrison-and-Metz-pt2.mp3"
+        length="44609687" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now720</guid>
+      <pubDate>Wed, 23 Apr 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1746</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 719 -->
 	<item>
       <title>Whale Tales from Alaska</title>
