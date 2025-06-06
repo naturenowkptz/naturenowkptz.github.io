@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 726 -->
+	<item>
+      <title>The Wonders of Diversity</title>
+      <itunes:title>The Wonders of Diversity</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with biologist and author Thor Hanson to explore the wonders of biodiversity. 
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Thor Hanson, biologist and author, to explore the wonders of biodiversity. Biodiversity is the variety of life on earth from genes and species to ecosystems. Biodiversity encompasses the interactions between all living things, animals (including humans), plants, fungi, microorganisms and the environments they inhabit and communities they create. Biodiversity has been attributed with holding the world together. (KPTZ airdate: June 4, 2025) </p><p>Learn more:<br /><a href='https://thorhanson.net/'>Thor Hanson</a><br />Organizations providing information on biodiversity:<br /><a href='https://www.epa.gov/enviroatlas/enviroatlas-benefit-category-biodiversity-conservation'>EPA EnviroAtlas</a><br /><a href='https://www.worldwildlife.org/pages/what-is-biodiversity'>World Wildlife Fund: What is biodiversity?</a><br /><a href='https://eowilsonfoundation.org/'>E.O. Wilson Biodiversity Foundation</a><br /><a href='https://www.un.org/en/climatechange/science/climate-issues/biodiversity'>United Nations</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/06/05092001/Nature-Now726-Thor-Hansen.mp3"
+        length="27130811" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now726</guid>
+      <pubDate>Wed, 04 Jun 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1733</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 722 -->
 	<item>
       <title>Connecting With Birds Through Photographs</title>
