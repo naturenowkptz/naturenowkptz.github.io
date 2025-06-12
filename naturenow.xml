@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 727 -->
+	<item>
+      <title>Kul Kah Han Native Plant Garden</title>
+      <itunes:title>Kul Kah Han Native Plant Garden</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with founder Linda Landkammer and naturalist Dr. Fred Sharpe about the Kul Kah Han Native Plant Garden in Chimacum, WA.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso speaks with founder Linda Landkammer and naturalist Dr. Fred Sharpe out in the garden, celebrating the lovely Kul Kah Han Native Plant Garden in Chimacum, WA, on a gorgeous summer afternoon! (KPTZ airdate: Jun 11, 2025) </p><p>Learn more:<br /><a href='https://www.nativeplantgarden.org/'>Kul Kah Han Native Plant Garden</a><br />Bird sound recording courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/06/10122749/Nature-Now727-Kul-Kah-Han-Garden.mp3"
+        length="38929163" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now727</guid>
+      <pubDate>Wed, 11 Jun 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1574</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 726 -->
 	<item>
       <title>The Wonders of Diversity</title>
