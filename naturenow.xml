@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 728 -->
+	<item>
+      <title>Marine Mammals of the Salish Sea</title>
+      <itunes:title>Marine Mammals of the Salish Sea</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury speaks with wildlife biologist Dave Rugh about marine mammal species that live in the Salish Sea, and how they are doing.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Marine mammals, especially the cetaceans, are a popular focus for wildlife viewing throughout the world. So, which species live here in the Salish Sea, and how are they doing? Jackie Canterbury speaks with wildlife biologist Dave Rugh. Local cetaceans include harbor porpoises, Dall's porpoises, Pacific white-sided dolphins, minke whales, gray whales, humpbacks, and killer whales. Other local marine mammals include Steller sea lions, California sea lions, northern elephant seals, harbor seals, and sea otters. (KPTZ airdate: June 18, 2025) </p><p>Learn more:<br /><a href='https://www.eopugetsound.org/articles/decline-dalls-porpoise-puget-sound'>The Decline of Dall’s porpoise in the Salish Sea</a><br /><a href='https://www.orcabehaviorinstitute.org/meet-the-matrilines/t49as'>Meet the Matriline: T49As</a><br />Mystery sound <a href='https://www.youtube.com/watch?v=kpi6EAwpV00'>recording</a> courtesy of Orca Behavior Institute<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/06/19081704/Nature-Now728-Marine-Mammals-of-the-Salish-Sea.mp3"
+        length="25020488" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now728</guid>
+      <pubDate>Wed, 18 Jun 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1746</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 727 -->
 	<item>
       <title>Kul Kah Han Native Plant Garden</title>
@@ -27,7 +47,7 @@
 	  Debaran Kelso speaks with founder Linda Landkammer and naturalist Dr. Fred Sharpe about the Kul Kah Han Native Plant Garden in Chimacum, WA.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Debaran Kelso speaks with founder Linda Landkammer and naturalist Dr. Fred Sharpe out in the garden, celebrating the lovely Kul Kah Han Native Plant Garden in Chimacum, WA, on a gorgeous summer afternoon! (KPTZ airdate: Jun 11, 2025) </p><p>Learn more:<br /><a href='https://www.nativeplantgarden.org/'>Kul Kah Han Native Plant Garden</a><br />Bird sound recording courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Debaran Kelso speaks with founder Linda Landkammer and naturalist Dr. Fred Sharpe out in the garden, celebrating the lovely Kul Kah Han Native Plant Garden in Chimacum, WA, on a gorgeous summer afternoon! (KPTZ airdate: June 11, 2025) </p><p>Learn more:<br /><a href='https://www.nativeplantgarden.org/'>Kul Kah Han Native Plant Garden</a><br />Bird sound recording courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2025/06/10122749/Nature-Now727-Kul-Kah-Han-Garden.mp3"
