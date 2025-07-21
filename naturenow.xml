@@ -19,27 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
-	<!-- EPISODE 732 
+	<!-- EPISODE 732 -->
 	<item>
       <title>The Owls of Bainbridge Island (Part 1)</title>
       <itunes:title>The Owls of Bainbridge Island (Part 1)</itunes:title>
 	  <itunes:summary>
-	  Debaran Kelso and field recorder Meg Amos meet with biologist Jamie Acker to learn about the owls of Bainbridge Island, WA.	  
+	  Debaran Kelso and field recorder Meg Amos meet with guest Jamie Acker to learn about the owls of Bainbridge Island, WA.	  
 	  </itunes:summary>
 	  <description>
 	  <![CDATA[<p>Debaran Kelso and field recorder Meg Amos meet with guest Jamie Acker in his own backyard wildlife sanctuary, to speak about his work studying owls near his home on Bainbridge Island, WA, for the past 25 years (part 1 of a two-part program). (KPTZ airdate: July 16, 2025) </p><p>Bird sound recording: Bob McGuire, <a href='https://macaulaylibrary.org/asset/187078'>ML187078</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
-        url="https://cdn.kptz.org/2025/07/16203713/Nature-Now732-Barred-Owls-pt1.mp3"
-        length="36849149" 
+        url="https://cdn.kptz.org/2025/07/20113412/Nature-Now732-Bainbridge-Islands-Owls-pt1.mp3"
+        length="39598468" 
         type="audio/mpeg" 
       />
-      <guid isPermaLink="false">Nature-Now732</guid>
+      <guid isPermaLink="false">Nature-Now732a</guid>
       <pubDate>Wed, 16 Jul 2025 12:30:00 PST</pubDate>
-      <itunes:duration>1493</itunes:duration>
+      <itunes:duration>1602</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	-->
 	<!-- EPISODE 728 -->
 	<item>
       <title>Marine Mammals of the Salish Sea</title>
