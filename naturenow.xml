@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 735 -->
+	<item>
+      <title>The Owls of Bainbridge Island (Part 2)</title>
+      <itunes:title>The Owls of Bainbridge Island (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and field recorder Meg Amos meet with guest Jamie Acker to learn about the owls of Bainbridge Island, WA.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso and field recorder Meg Amos continue the conversation with owl expert Jamie Acker in his backyard wildlife sanctuary, about his work studying owls near his home on Bainbridge Island, WA, for the past 25 years (part 2 of a two-part program). (KPTZ airdate: August 6, 2025) </p><p>Bird sound recording courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/07/30080236/Nature-Now735-BI-Owls-pt2.mp3"
+        length="41121635" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now735</guid>
+      <pubDate>Wed, 06 Aug 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1613</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 732 -->
 	<item>
       <title>The Owls of Bainbridge Island (Part 1)</title>
