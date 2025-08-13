@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 736 -->
+	<item>
+      <title>Pigeon Guillemots at the Hood Canal Bridge</title>
+      <itunes:title>Pigeon Guillemots at the Hood Canal Bridge</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Karin Ertl about the Salish Sea Guillemot Network and the Pigeon Guillemots that uniquely nest beneath the Hood Canal bridge.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Karin Ertl about the Salish Sea Guillemot Network and the Pigeon Guillemots that uniquely nest beneath the Hood Canal bridge. Pigeon Guillemot surveys began in 2004 on Whidbey Island, WA. As of 2024, surveys are taking place in 8 different regions with about 250 volunteers. (KPTZ airdate: August 13, 2025) </p><p>Learn more:<br /><a href='http://www.pigeonguillemot.org/'>Salish Sea Guillemot Network</a><br /><a href='https://soundwaterstewards.org/pigeon-guillemot-surveys-validate-community-science/'>Pigeon Guillemot Surveys Validate Community Science</a><br />Bird sound recordings: Karin Ertl; Thomas G. Graves, XC663793, accessible at <a href='https://xeno-canto.org/663793'>www.xeno-canto.org/663793</a>. License <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/08/13100818/Nature-Now736.-Pigeon-Guillemot.mp3"
+        length="25371947" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now736</guid>
+      <pubDate>Wed, 13 Aug 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1716</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 735 -->
 	<item>
       <title>The Owls of Bainbridge Island (Part 2)</title>
