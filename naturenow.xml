@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 739 -->
+	<item>
+      <title>The Trees Are Speaking (Part 1)</title>
+      <itunes:title>The Trees Are Speaking (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with journalist Lynda Mapes about how culture, economics, and science have fundamentally changed how we perceive our relationship with forests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Lynda Mapes, longtime environmental reporter for The Seattle Times, about how culture, economics, and science have fundamentally changed how we use timber resources and perceive our relationship with forests. Much of the conversation is driven by Mapes’ most recent book, The Trees are Speaking: Dispaches from the Salmon Forest (part 1 of a two-part program). (KPTZ airdate: September 3, 2025) </p><p>Learn more:<br /><a href='https://www.lyndavmapes.com/'>Lynda Mapes</a><br /><a href='https://uwapress.uw.edu/book/9780295753676/the-trees-are-speaking/'>The Trees are Speaking: Dispaches from the Salmon Forest</a><br /><a href='https://www.fsl.orst.edu/rna/sites/Cedar_Flats.html'>Cedar Flats Research Natural Area</a><br /><a href='https://saveland.org/chimacum-ridge-community-forest-strategic-vision-framework/'>Chimacum Ridge Community Forest</a><br /><a href='https://saveland.org/youre-invited-to-the-chimacum-ridge-community-forest-grand-opening-celebration/'>Chimacum Ridge Community Forest Grand Opening Celebration</a> </p><p>Books mentioned:<br />Orca: Shared Waters, Shared Home by Lynda Mapes<br />The Olympic Rainforest: A Ecological Web by Ruth Kirk and Jerry Franklin<br />Ecological Forest Management by Jerry Franklin, Norman Johnson, and Debora Johnson<br />The Hidden Life of Trees by Peter Wohlleben<br />Finding the Mother Tree by Suzanne Simard </p><p>Bird sound recording: Thomas G. Sander, <a href='https://macaulaylibrary.org/asset/125369'>ML125369</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/09/06145809/Nature-Now739-Lynda-Mapes-The-Trees-are-Speaking-pt1.mp3"
+        length="38197787" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now739</guid>
+      <pubDate>Wed, 03 Aug 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1660</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 736 -->
 	<item>
       <title>Pigeon Guillemots at the Hood Canal Bridge</title>
