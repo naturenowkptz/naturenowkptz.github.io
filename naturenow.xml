@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 740 -->
+	<item>
+      <title>The Trees Are Speaking (Part 2)</title>
+      <itunes:title>The Trees Are Speaking (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with journalist Lynda Mapes about how culture, economics, and science have fundamentally changed how we perceive our relationship with forests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Lynda Mapes, longtime environmental reporter for The Seattle Times, about how culture, economics, and science have fundamentally changed how we use timber resources and perceive our relationship with forests. Much of the conversation is driven by Mapes’ most recent book, The Trees are Speaking: Dispaches from the Salmon Forest (part 2 of a two-part program). (KPTZ airdate: September 10, 2025) </p><p>Learn more:<br /><a href='https://www.lyndavmapes.com/'>Lynda Mapes</a><br /><a href='https://uwapress.uw.edu/book/9780295753676/the-trees-are-speaking/'>The Trees are Speaking: Dispaches from the Salmon Forest</a><br /><a href='https://www.arithmeticofcompassion.org/blog/2024/11/7/northern-spotted-owl-vs-barred-owl-the-ethical-conundrum-of-compassionate-conservation'>Northern Spotted Owl vs. Barred Owl: The Ethical Conundrum of Compassionate Conservation</a><br /><a href='https://e360.yale.edu/features/barred-owls-spotted-owls-hunting'>Grim Dilemma: Should We Kill One Owl Species to Save Another?</a><br /><a href='https://saveland.org/chimacum-ridge-community-forest-strategic-vision-framework/'>Chimacum Ridge Community Forest</a><br /><a href='https://saveland.org/youre-invited-to-the-chimacum-ridge-community-forest-grand-opening-celebration/'>Chimacum Ridge Community Forest Grand Opening Celebration</a> </p><p>Bird sound recording: Thomas G. Sander, <a href='https://macaulaylibrary.org/asset/125364'>ML125364</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/09/09111206/Nature-Now740-The-Trees-are-Speakingpt2.mp3"
+        length="25901747" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now740</guid>
+      <pubDate>Wed, 10 Sep 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1744</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 739 -->
 	<item>
       <title>The Trees Are Speaking (Part 1)</title>
