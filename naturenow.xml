@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 741 -->
+	<item>
+      <title>Myths and Wonders of Mushrooms</title>
+      <itunes:title>Myths and Wonders of Mushrooms</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with mushroom enthusiasts Helen Kolff and Jessica Latourelle about attitudes, myths, truths, and edibility of mushrooms.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Port Townsend mushroom enthusiasts, Helen Kolff and Jessica Latourelle. They explore attitudes, myths, truths, and edibility of mushrooms. Did you know what we see are only the fruiting bodies of extensive mycelial networks? Or, that they are not plants and they perform critical ecosystem functions. And, why are some people fascinated with fungi? (KPTZ airdate: September 17, 2025) </p><p>Mushroom resources:<br />Fruits of the Forest: A Field Guide to Pacific Northwest Edible Mushrooms by Daniel Winkler<br />Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest by Noah Siegel and Christian Schwarz<br />Chanterelle Dreams, Amanita Nightmares: The Love, Lore, and Mystique of Mushooms by Greg Marley<br />All That the Rain Promises and More by David Arora<br />Mushrooms Demystified by David Arora<br />Outside/In Podcast: <a href='https://podcasts.apple.com/us/podcast/taxonomys-200-year-mistake/id1061222770?i=1000721778198'>Taxonomy’s 200-Year Mistake</a> </p><p>Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/09/17081154/Nature-Now741-Fall-Mushrooms.mp3"
+        length="21916475" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now741</guid>
+      <pubDate>Wed, 17 Sep 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1397</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 740 -->
 	<item>
       <title>The Trees Are Speaking (Part 2)</title>
