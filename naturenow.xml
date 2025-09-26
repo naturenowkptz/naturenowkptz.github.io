@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 742 -->
+	<item>
+      <title>Honey Bees (Part 1)</title>
+      <itunes:title>Honey Bees (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Colleen Ebken, a beekeeper on Marrowstone Island (WA), about her bee colonies and the wonderful world of bees in general.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>We are all familiar with bees. Did you know that honey bee colonies are highly organized, complex, with a rigid caste system, and whose individuals depend on their societal organization to survive? Join Jackie Canterbury as she talks with Colleen Ebken, a beekeeper on Marrowstone Island (WA), about her bee colonies and the wonderful world of bees in general (part 1 of a two-part program). (KPTZ airdate: September 24, 2025) </p><p>Learn more:<br /><a href='https://www.ejbees.com/'>East Jefferson Bee Club</a><br /><a href='https://ccecayuga.org/gardening/pollinator-support'>Cornell Cooperative Extension Pollinator Support</a><br /><a href='https://www.unep.org/news-and-stories/story/why-bees-are-essential-people-and-planet'>Why bees are essential to people and planet</a><br /><a href='https://agr.wa.gov/nativebees'>Meet Our Native Bees</a><br /><a href='https://agr.wa.gov/departments/insects-pests-and-weeds/insects/apiary-pollinators/pollinator-health/bee-atlas'>Washington Bee Atlas</a><br /><a href='https://www.wanativebeesociety.org/'>Washington Native Bee Society</a><br /><a href='https://www.inaturalist.org/projects/washington-native-bee-society'>Washington Native Bee Society Journal</a><br />Mystery sound recording: <a href='https://www.youtube.com/watch?v=w2ze1b0fGXs'>Frederick Dunn</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/09/24200504/Nature-Now742-Bees.mp3"
+        length="25639307" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now742</guid>
+      <pubDate>Wed, 24 Sep 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 741 -->
 	<item>
       <title>Myths and Wonders of Mushrooms</title>
