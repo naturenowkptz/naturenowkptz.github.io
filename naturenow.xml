@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 743 -->
+	<item>
+      <title>From Bam! to Burp! The Role of Carbon in Our World</title>
+      <itunes:title>From Bam! to Burp! The Role of Carbon in Our World</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with author Melissa Stewart about her book From Bam! to Burp! A Carbon Atom's Never-Ending Journey Through Space and Time and YOU.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nature Now explores the world of science books for kids! Debaran Kelso speaks with celebrated author Melissa Stewart about her book From Bam! to Burp! A Carbon Atom's Never-Ending Journey Through Space and Time and YOU. (KPTZ airdate: October 1, 2025) </p><p>Learn more:<br /><a href='https://melissa-stewart.com/'>Melissa Stewart</a><br /><a href='https://www.penguinrandomhouse.com/books/779669/from-bam-to-burp-by-melissa-stewart-author-marta-alvarez-miguens-illustrator/'>From BAM! to BURP! A Carbon Atom's Never-Ending Journey through Space and Time and YOU</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/10/01090949/Nature-Now743-From-Bam-to-Burp.mp3"
+        length="24292475" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now743</guid>
+      <pubDate>Wed, 01 Oct 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1562</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 742 -->
 	<item>
       <title>Honey Bees (Part 1)</title>
