@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 745 -->
+	<item>
+      <title>Harbor Porpoises of the Salish Sea</title>
+      <itunes:title>Harbor Porpoises of the Salish Sea</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Dr. Cindy Elliser of Pacific Mammal Research	about Harbor Porpoises, the smallest cetacean found in the Salish Sea.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>What was that "pffit, pffit" sound? That small, triangular fin? A dolphin? But it doesn’t want to play in our boat's bow wake. Ah, it is a Harbor Porpoise, the smallest cetacean found in the Salish Sea. What do we know about them? Not very much it seems. Scientists are just learning more through direct, non-invasive observations of individuals. Join Nan Evans as she talks with Dr. Cindy Elliser of Pacific Mammal Research (PacMam) and explore what they have been recently discovering and just how much more there is to learn about these secretive mammals. (KPTZ airdate: October 15, 2025) </p><p>Learn more:<br /><a href='https://www.pacmam.org/'>Pacific Mammal Research</a><br /><a href='https://www.eopugetsound.org/hot-topics/harbor-porpoise'>Harbor porpoise in the Salish Sea</a><br />Mystery sound recording courtesy of National Oceanic and Atmospheric Administration (NOAA) Fisheries<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/10/18092819/Nature-Now745-Cindy-Elliser-Harbor-Porpoises-of-the-Salish-Sea.mp3"
+        length="24867731" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now745</guid>
+      <pubDate>Wed, 15 Oct 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1641</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 743 -->
 	<item>
       <title>From Bam! to Burp! The Role of Carbon in Our World</title>
