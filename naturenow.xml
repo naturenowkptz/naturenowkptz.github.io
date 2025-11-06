@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 748 -->
+	<item>
+      <title>Birds in Winter</title>
+      <itunes:title>Birds in Winter</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Christie Lassen about the behavioral, physical, and physiological strategies used by our regional birds during winter.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>It's getting cold and rainy outside. We've gotten out our winter clothes and rain boots, checked that our home's furnace is working well, stocked up on comfort foods, and perhaps, planned a winter vacation to a warmer and sunnier place. As the seasons change, some birds migrate to warmer places. But, how do the birds that stay the winter survive? Listen as Nan Evans talks with Christie Lassen of Wild Birds Unlimited in Gardiner, WA, about the behavioral, physical, and physiological strategies used by our regional birds. (KPTZ airdate: November 5, 2025) </p><p>Learn more:<br /><a href='https://gardiner.wbu.com/'>Wild Birds Unlimited</a> in Gardiner, WA<br /><a href='https://www.allaboutbirds.org/news/how-do-birds-survive-the-winter/'>How Do Birds Survive the Winter?</a><br /><a href='https://www.sibleyguides.com/product/what-its-like-to-be-a-bird/'>What It's Like to Be a Bird</a> by David Allen Sibley<br />Mystery sound recording: Barry Langdon-Lassagne, <a href='https://macaulaylibrary.org/asset/190078591'>ML190078591</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/11/04162416/Nature-Now748-Christie-Lassen-Winter-Birds.mp3"
+        length="26075435" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now748</guid>
+      <pubDate>Wed, 05 Nov 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1612</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 745 -->
 	<item>
       <title>Harbor Porpoises of the Salish Sea</title>
