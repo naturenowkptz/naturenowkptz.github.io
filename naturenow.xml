@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 749 -->
+	<item>
+      <title>Humpback Whale Aerial Acoustics</title>
+      <itunes:title>Humpback Whale Aerial Acoustics</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with humpback whale expert Dr. Fred Sharpe about his recent research focused on aerial whale signals.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso takes a deep dive into the world of whale sound with humpback whale expert Dr. Fred Sharpe, whose recent research has focused on aerial whale signals - the "blows", "wheezes", and "thrums" of everyday life. (KPTZ airdate: November 12, 2025) </p><p>Mystery sound recording: Fred Sharpe<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/11/12201717/Nature-Now749-Humpback-Whales.mp3"
+        length="34472075" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now749</guid>
+      <pubDate>Wed, 12 Nov 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 748 -->
 	<item>
       <title>Birds in Winter</title>
