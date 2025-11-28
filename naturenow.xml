@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 751 -->
+	<item>
+      <title>Nurse Logs</title>
+      <itunes:title>Nurse Logs</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks to Preserve Manager Carrie Clendaniel about nurse logs and what the Jefferson Land Trust is doing to give a hand to these significant ecological systems. 
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nurse logs, a common site in the forests of the Pacific Northwest, blur the distinction between life and death as they support not only the next generation of trees, but also a host of other plant and animal species. Learn more about nurse logs and what the Jefferson Land Trust is doing to give a hand to these incredibly significant ecological systems. Nan Evans talks to Carrie Clendaniel, Preserve Manager for the Land Trust, about nurse logs and facilitating the facilitators. (KPTZ airdate:  November 26, 2025) </p><p>Learn more:<br /><a href='https://www.americanforests.org/article/nurse-logs-healers-of-the-forest/'>Nurse Logs: Healers of the Forest</a><br /><a href='https://www.wnps.org/blog/nurse-logs'>Nurse Logs</a><br /><a href='https://www.nnrg.org/habitat-piles/'>Keeping Dead Wood and Creating Wildlife Habitat Piles: Some Guidance for Forest Owners</a><br /><a href='https://www.birds.cornell.edu/landtrust/listen-up-collaborative-2025/'>Listen Up Collaborative</a><br /><a href='https://saveland.org/listen-up-collaborative-and-jefferson-land-trust-featured-in-the-new-york-times/'>Listen Up Collaborative and Jefferson Land Trust Featured in the New York Times</a><br /><a href='https://uwapress.uw.edu/book/9780295753676/the-trees-are-speaking/'>The Trees are Speaking: Dispatches from the Salmon Forests</a> by Lynda Mapes<br /><a href='https://www.hachettebookgroup.com/titles/daniel-mathews/cascadia-revealed/9781643261010/'>Cascadia Revealed: A Guide to the Plants, Animals, and Geology of the Pacific Northwest Mountains</a> by Daniel Mathews<br />Mystery sound recording: <a href='https://www.allaboutbirds.org/guide/Varied_Thrush/sounds'>Andrew Spencer</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/11/25091124/Nature-Now751-Nurse-Logs.mp3"
+        length="33683435" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now751</guid>
+      <pubDate>Wed, 27 Nov 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1593</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 749 -->
 	<item>
       <title>Humpback Whale Aerial Acoustics</title>
@@ -27,7 +47,7 @@
 	  Debaran Kelso speaks with humpback whale expert Dr. Fred Sharpe about his recent research focused on aerial whale signals.  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Debaran Kelso takes a deep dive into the world of whale sound with humpback whale expert Dr. Fred Sharpe, whose recent research has focused on aerial whale signals - the "blows", "wheezes", and "thrums" of everyday life. (KPTZ airdate: November 12, 2025) </p><p>Mystery sound recording: Fred Sharpe<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Debaran Kelso takes a deep dive into the world of whale sound with humpback whale expert Dr. Fred Sharpe, whose recent research has focused on aerial whale signals - the "blows", "wheezes", and "thrums" of everyday life. (KPTZ airdate: November 12, 2025) </p><p>Learn more:<br /><a href='https://happywhale.com/'>Happywhale</a><br />Mystery sound recording: Fred Sharpe<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2025/11/12201717/Nature-Now749-Humpback-Whales.mp3"
