@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 752 -->
+	<item>
+      <title>Climbing Washington's Mountains</title>
+      <itunes:title>Climbing Washington's Mountains</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Dave Rugh about his experiences mountain climbing in Washington State.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>The stunning mountains of Western Washington draw many people who dream of reaching their summits. The views from these peaks can be breathtaking, but climbing them comes with significant challenges. Few know this better than Dave Rugh, who has spent decades climbing mountains. Join Jackie Canterbury as she talks with Dave about his experiences climbing in Washington State. (KPTZ airdate: December 3, 2025) </p><p>Learn more:<br /><a href='https://cascadecrusades.org/SkiMountaineering/whitehorse/whitehorseglcier2008/wh2008.htm'>A story of climbing Whitehorse Mountain</a><br /><a href='https://artwolfe.com/showcase/cadaver-gap-mount-rainier-national-park-washington-usa/'>A photo of Cadaver Gap in Mount Rainier National Park</a><br /><a href='https://cascadeclimbers.com/forum/topic/94908-tr-the-brothers-traverse-south-to-north-fsa-612014/'>A trip report from climbing The Brothers</a><br /><a href='https://www.mountaineers.org/'>The Mountaineers Community</a><br /><a href='https://www.alpineinstitute.com/destination/washington/'>American Alpine Institute</a> in Washington<br /><a href='https://www.nps.gov/olym/planyourvisit/wilderness-climbing.htm'>Climbing in the Olympic Wilderness</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/12/02182446/Nature-Now752-PNW-mountains.mp3"
+        length="24931019" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now752</guid>
+      <pubDate>Wed, 03 Dec 2025 12:30:00 PST</pubDate>
+      <itunes:duration>1689</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 751 -->
 	<item>
       <title>Nurse Logs</title>
