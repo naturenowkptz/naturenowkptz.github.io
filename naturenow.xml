@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 756 -->
+	<item>
+      <title>Favorite Books of 2025</title>
+      <itunes:title>Favorite Books of 2025</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury, Nan Evans, and Debaran Kelso start the year by sharing their favorite books about natural history.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>The hosts of Nature Now - Jackie Canterbury, Nan Evans, and Debaran Kelso - start the year by sharing their favorite books about natural history. The conversation roams from bees to wolves, research to poetry, and beautiful photographs to whimsical illustrations. Laugh with them, listen to the awe and amazement they share, and find a new favorite book to read. Happy New Year, listeners! (KPTZ airdate: January 7, 2026) </p><p>Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/01/Nature-Now756-Annual-Favorite-Books.mp3"
+        length="26867073" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now756</guid>
+      <pubDate>Wed, 07 Jan 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1677</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 755 -->
 	<item>
       <title>The Christmas Bird Count and Changes in Bird Distribution</title>
