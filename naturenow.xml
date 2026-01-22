@@ -19,7 +19,27 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
-	<!-- EPISODE 756 -->
+	<!-- EPISODE 759 -->
+	<item>
+      <title>James Swan, Pioneer Extraordinaire</title>
+      <itunes:title>James Swan, Pioneer Extraordinaire</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso and scholar Steve Ricketts review the remarkable life of pioneer/explorer James Swan, who lived and worked and recorded extensively in our area from 1859 to 1900.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>This week we review the remarkable life of pioneer/explorer James Swan, who lived and worked and recorded extensively in our area from 1859 to 1900. Debaran Kelso speaks with James Swan scholar Steve Ricketts at Swan's burial site in the Laurel Grove Cemetery in Port Townsend, WA (KPTZ airdate: January 21, 2026) </p><p>Learn more:<br /><a href='https://www.harpercollins.com/products/winter-brothers-ivan-doig?variant=39939825696802'>Winter Brothers: A Season at the Edge of America</a> by Ivan Doig<br /><a href='https://historylink.org/File/5029'>Swan, James G. (1818-1900)</a><br /><a href='https://uwapress.uw.edu/book/9780295951904/the-northwest-coast/'>The Northwest Coast: Or, Three Years' Residence in Washington Territory</a> by James G. Swan</p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/01/Nature-Now757-James-Swan-Pioneer.mp3"
+        length="39607767" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now759</guid>
+      <pubDate>Wed, 21 Jan 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1554</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 757 -->
 	<item>
       <title>Favorite Books of 2025</title>
       <itunes:title>Favorite Books of 2025</itunes:title>
