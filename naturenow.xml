@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 760 -->
+	<item>
+      <title>Acting Locally to Protect Special Places</title>
+      <itunes:title>Acting Locally to Protect Special Places</itunes:title>
+	  <itunes:summary>
+	  Nan Evans explores efforts in Jefferson County to protect special forest habitats while providing for sustainable forest harvests.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>How can we act locally to protect special forest habitats while providing for sustainable forest harvests and supporting our local communities and economies? A tough prospect. Nan Evans explores specific efforts here in Jefferson County, WA, to do just this. Guests are County Commissioner Heidi Eisenhour, and Malloree Weinheimer, owner of Chickadee Forestry. (KPTZ airdate: January 28, 2026) </p><p>Learn more:<br /><a href='https://dnr.wa.gov/forest-resilience-division/forest-health-strategic-plans/western-washington-forest-health-strategic-plan'>Western Washington Forest Health Strategic Plan</a><br /><a href='https://dnr.wa.gov/land-transactions/trust-land-transfer'>Trust Land Transfer Program</a><br /><a href='https://leg.wa.gov/legislators'>Contact your Washington State legislators</a><br /><a href='https://chickadeeforestry.com/'>Chickadee Forestry</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/01/Nature-Now758-Acting-Locally-to-Protect-Special-Places-1.mp3"
+        length="37157097" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now760</guid>
+      <pubDate>Wed, 28 Jan 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1696</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 759 -->
 	<item>
       <title>James Swan, Pioneer Extraordinaire</title>
