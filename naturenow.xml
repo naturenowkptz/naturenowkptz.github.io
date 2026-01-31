@@ -19,6 +19,46 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 438 -->
+	<item>
+      <title>Protecting Quimper Lost Wilderness</title>
+      <itunes:title>Protecting Quimper Lost Wilderness</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with local naturalist Steve Grace about recent efforts to protect a very special old forest on the Quimper Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with local naturalist Steve Grace about recent efforts to protect a very special old forest on the Quimper Peninsula. (KPTZ airdate: November 27, 2019) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2019/11/NN439.mp3"
+        length="39888861" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now438</guid>
+      <pubDate>Thu, 29 Jan 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1519</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 401 -->
+	<item>
+      <title>Quimper Lost Wilderness</title>
+      <itunes:title>Quimper Lost Wilderness</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Steve Grace, a local author and marine science educator, about a "Lost Wilderness" he found on the Quimper Peninsula.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Steve Grace, a local author and marine science educator, about a "Lost Wilderness" he found on the Quimper Peninsula and efforts to protect this treasure. (KPTZ airdate: February 27, 2019) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2019/02/Natur-Now401-Steve-Grace-Lost-Wilderness.mp3"
+        length="22279878" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now401</guid>
+      <pubDate>Thu, 29 Jan 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1515</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 760 -->
 	<item>
       <title>Acting Locally to Protect Special Places</title>
