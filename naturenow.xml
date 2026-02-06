@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 761 -->
+	<item>
+      <title>The Bluffs of North Beach</title>
+      <itunes:title>The Bluffs of North Beach</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with geologist Tim Lawson about the geological stories revealed in the bluffs of Fort Worden and North Beach.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>The bluffs of Fort Worden loom over any walks along North Beach. Lift your eyes away from the sea and up to the bluffs or across the waters. The geological stories of our area are laid out in front of you and on the horizon. Can you read or imagine those stories of deep past times and more recent glacial periods? Join Nan Evans as she talks with Tim Lawson, Port Townsend geologist, to explore clues and knit the patterns together. (KPTZ airdate: February 4, 2026) </p><p>Learn more:<br />Jefferson Land Trust Natural History Society <a href='https://es8gwhk84q9.exactdn.com/wp-content/uploads/2026/01/31083258/Natural-History-Society-newsletter-for-February.pdf'>outing to explore the bluffs of North Beach</a> on Saturday, Feb 21, 2026<br /><a href='https://quimpergeology.org/wp-content/uploads/2021/09/NB-reconstruct-post-edit-review-b-u.pdf'>Detailed Report on the Geology of the North Beach Bluffs</a> (Quimper Geology Society)<br /><a href='https://www.nps.gov/olym/learn/nature/geology.htm'>Geology of the Olympics</a><br /><a href='https://www.trollart.com/product/cruisin-the-fossil-coastline-book/'>Cruisin' the Fossil Coastline</a> by Ray Troll and Kirk Johnson<br />Mystery sound recording: <a href='https://www.youtube.com/watch?v=_tOjdiMyWLk'>The Port Townsend Leader</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/02/Nature-Now759-Bluffs-of-North-Beach.mp3"
+        length="34193529" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now761</guid>
+      <pubDate>Wed, 04 Feb 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 438 -->
 	<item>
       <title>Protecting Quimper Lost Wilderness</title>
