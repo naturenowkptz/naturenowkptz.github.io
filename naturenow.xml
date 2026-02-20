@@ -21,6 +21,26 @@
 	<!-- START EPISODES most recent at top -->
 	<!-- EPISODE 761 -->
 	<item>
+      <title>The Relationship Between Salmon and Forests</title>
+      <itunes:title>The Relationship Between Salmon and Forests</itunes:title>
+	  <itunes:summary>
+	   Jackie Canterbury talks with environmental journalist Paul Koberstein about the relationship between salmon and our coastal temperate rainforest.
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Paul Koberstein, award-winning environmental journalist and the co-author of the book "Canopy of Titans: The Life and Times of the Great North American Temperate Rainforest", to weave together the relationship between salmon and our coastal temperate rainforest. The Pacific Northwest was built on the relationship between salmon and forests. The big takeaway: salmon don't just swim through our forest streams, salmon feed the forests, year after year, century after century. (KPTZ airdate: February 18, 2026) </p><p>Learn more:<br /><a href='https://www.orbooks.com/catalog/canopy-of-titans/'>Canopy of Titans: The Life and Times of the Great North American Temperate Rainforest</a> by Paul Koberstein and Jessica Applegate<br /><a href='https://www.youtube.com/watch?v=tuQSzPpmGyE'>Audiobook preview</a> of Canopy of Titans<br /><a href='https://times.org/wp-content/uploads/2022/09/VOL22_opt.pdf'>The Forest That Fish Built</a><br /><a href='https://www.youtube.com/watch?v=ZEjWoPZBjHM'>BioScience Talks: Canopy of Titans, with Paul Koberstein</a><br /><a href='https://www.youtube.com/watch?v=Xf9GU1xe21Q'>Greenwashing and the North American Temperate Rainforest with Paul Koberstein</a><br />Mystery sound recording: AUDEVARD Aurélien, XC1046353, accessible at <a href='https://xeno-canto.org/1046353'>www.xeno-canto.org/1046353</a>. License <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/02/Nature-Now761-Canopy-of-Titans-pt2-Paul-Koberstein.mp3"
+        length="26573997" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now761J</guid>
+      <pubDate>Wed, 18 Feb 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1643</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 759 -->
+	<item>
       <title>The Bluffs of North Beach</title>
       <itunes:title>The Bluffs of North Beach</itunes:title>
 	  <itunes:summary>
@@ -79,7 +99,7 @@
       <itunes:duration>1515</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 760 -->
+	<!-- EPISODE 758 -->
 	<item>
       <title>Acting Locally to Protect Special Places</title>
       <itunes:title>Acting Locally to Protect Special Places</itunes:title>
@@ -99,7 +119,7 @@
       <itunes:duration>1696</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 759 -->
+	<!-- EPISODE 757 -->
 	<item>
       <title>James Swan, Pioneer Extraordinaire</title>
       <itunes:title>James Swan, Pioneer Extraordinaire</itunes:title>
@@ -119,7 +139,7 @@
       <itunes:duration>1554</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 757 -->
+	<!-- EPISODE 756 -->
 	<item>
       <title>Favorite Books of 2025</title>
       <itunes:title>Favorite Books of 2025</itunes:title>
