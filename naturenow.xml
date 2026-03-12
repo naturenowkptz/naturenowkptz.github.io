@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 764 -->
+	<item>
+      <title>Birds and Bees: Brains and Behavior</title>
+      <itunes:title>Birds and Bees: Brains and Behavior</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury speaks with beekeeper Colleen Ebken about the tiny yet complex worlds of bees and birds.	
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>We're taking a fascinating dive into the tiny yet complex worlds of bees and birds. On the surface, these creatures couldn't be more different — one flits through the air with delicate wings, the other buzzes industriously from flower to flower. But when it comes to brains and behavior, both are masters of their environments in surprising ways. Jackie Canterbury and beekeeper Colleen Ebken uncover what makes these creatures' brains tick and their behavior so remarkable. (KPTZ airdate: March 11, 2026) </p><p>Learn more:<br /><a href='https://www.youtube.com/watch?v=YRrWRTAQRqk'>The Mind of a Bee: An Exploration of the Intelligence of Bees</a> with Lars Chittka<br /><a href='https://www.unep.org/news-and-stories/story/why-bees-are-essential-people-and-planet'>Why bees are essential to people and planet</a><br /><a href='https://agr.wa.gov/departments/insects-pests-and-weeds/insects/apiary-pollinators/pollinator-health/bee-atlas/volunteers'>Washington Bee Atlas Volunteers</a><br /><a href='https://www.ejbees.com/beekeeping-class/'>Beginning Beekeeping Course</a><br />Closing sound: <a href='https://www.youtube.com/watch?v=w2ze1b0fGXs'>Frederick Dunn</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/03/Nature-Now764-Birds-and-Bees.mp3"
+        length="24930681" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now764</guid>
+      <pubDate>Wed, 11 Mar 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1696</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 760 -->
 	<item>
       <title>Butterflies of Washington (Part 1)</title>
