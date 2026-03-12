@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 760 -->
+	<item>
+      <title>Butterflies of Washington (Part 1)</title>
+      <itunes:title>Butterflies of Washington (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with Washington Butterfly Association members Regina Johnson and Dan Dunphy about our native butterflies.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso speaks with Washington Butterfly Association members Regina Johnson and Dan Dunphy about our native butterflies (part 1 of a two-part program). (KPTZ airdate: February 11, 2026) </p><p>Learn more:<br /><a href='https://wabutterflyassoc.org/'>Washington Butterfly Association</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/03/Nature-Now760-Monarchs-in-Flight.mp3"
+        length="25469409" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now760D</guid>
+      <pubDate>Wed, 11 Feb 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1706</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 761 -->
 	<item>
       <title>The Relationship Between Salmon and Forests</title>
