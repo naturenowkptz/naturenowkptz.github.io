@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 765 -->
+	<item>
+      <title>Building Knowledge About Dungeness Crabs</title>
+      <itunes:title>Building Knowledge About Dungeness Crabs</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Emily Buckner about research goals and challenges involved in studying Dungeness crab populations in the Salish Sea.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Emily Buckner from the Pacific Northwest Crab Research Group about research goals and challenges involved in studying Dungeness crab populations in the Salish Sea. (KPTZ airdate: March 18, 2026) </p><p>Learn more:<br /><a href='https://www.pnwcrab.com/'>Pacific Northwest Crab Research Group</a><br /><a href='https://www.pnwcrab.com/dungeness-crab-101'>Dungeness Crab 101</a><br /><a href='https://restorationfund.org/'>Puget Sound Restoration Fund</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/03/Nature-Now765-Emily-Buckner-Crab-Science-and-Communities.mp3"
+        length="24130785" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now765</guid>
+      <pubDate>Wed, 18 Mar 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1477</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 764 -->
 	<item>
       <title>Birds and Bees: Brains and Behavior</title>
