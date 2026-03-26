@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 766 -->
+	<item>
+      <title>Wetland Delineation (Part 1)</title>
+      <itunes:title>Wetland Delineation (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks about the importance of wetlands with wetland biologist Donna Frostholm.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso speaks about the importance of wetlands with wetland biologist Donna Frostholm while they wander through the Winona Wetland just west of Port Townsend on a beautiful Spring afternoon (part 1 of a two-part program). (KPTZ airdate: March 25, 2026) </p><p>Learn more:<br /><a href='https://saveland.org/protected-properties/quimper-wildlife-corridor/'>Quimper Wildlife Corridor</a><br /><a href='https://www.wetlands-initiative.org/what-is-a-wetland'>What Is A Wetland?</a><br /><a href='https://www.wnps.org/'>Washington Native Plant Society</a><br />Mystery sound recording: Dave Herr, <a href='https://macaulaylibrary.org/asset/130725'>ML130725</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library <br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/03/Nature-Now766DonnaFrostholm-Wetland-Delieation-pt-1.mp3"
+        length="25460745" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now766</guid>
+      <pubDate>Wed, 25 Mar 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1644</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 765 -->
 	<item>
       <title>Building Knowledge About Dungeness Crabs</title>
@@ -27,7 +47,7 @@
 	  Nan Evans talks with Emily Buckner about research goals and challenges involved in studying Dungeness crab populations in the Salish Sea.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Nan Evans talks with Emily Buckner from the Pacific Northwest Crab Research Group about research goals and challenges involved in studying Dungeness crab populations in the Salish Sea. (KPTZ airdate: March 18, 2026) </p><p>Learn more:<br /><a href='https://www.pnwcrab.com/'>Pacific Northwest Crab Research Group</a><br /><a href='https://www.pnwcrab.com/dungeness-crab-101'>Dungeness Crab 101</a><br /><a href='https://restorationfund.org/'>Puget Sound Restoration Fund</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Nan Evans talks with Emily Buckner from the Pacific Northwest Crab Research Group about research goals, collaboration, and challenges involved in studying Dungeness crab populations in the Salish Sea. (KPTZ airdate: March 18, 2026) </p><p>Learn more:<br /><a href='https://www.pnwcrab.com/'>Pacific Northwest Crab Research Group</a><br /><a href='https://www.pnwcrab.com/dungeness-crab-101'>Dungeness Crab 101</a><br /><a href='https://restorationfund.org/'>Puget Sound Restoration Fund</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2026/03/Nature-Now765-Emily-Buckner-Crab-Science-and-Communities.mp3"
