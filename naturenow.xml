@@ -249,9 +249,16 @@
 	  <description>
 	  <![CDATA[<p>Jackie Canterbury talks with Dr. Steve Hampton with the Rainshadow Bird Alliance, formerly Admiralty Audubon, about the oldest citizen science program of its kind, the Audubon Christmas Bird Count or CBC. The CBC began on Christmas Day 1900 as a way to count birds rather than shoot them as people began to become visibly concerned about declining bird populations. This year is the 126th year of the annual bird census. The Port Townsend CBC was recently held on December 20. The data is used to guide conservation efforts for birds, including the greatest challenges of all: habitat loss and climate change. (KPTZ airdate: December 24, 2025) </p><p>Learn more:<br /><a href='https://www.admiraltyaudubon.org/'>Rainshadow Bird Alliance</a><br /><a href='https://www.audubon.org/community-science/christmas-bird-count'>Audubon Christmas Bird Count</a><br /><a href='https://www.audubon.org/community-science/christmas-bird-count/christmas-bird-count-bibliography'>Christmas Bird Count Bibliography</a><br />Mystery sound recording: J. Canterbury<br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
+	  <!--
 	  <enclosure 
-        url="https://cdn.kptz.org/2025/12/22100258/Nature-Now755-2025-Christmas-Bird-Count.mp3"
-        length="31735089" 
+        url="https://cdn.kptz.org/2025/12/22100258/Nature-Now755-2025-Christmas-Bird-Count.mp3"    
+		length="31735089" 
+        type="audio/mpeg" 
+      />
+	  -->
+	  <enclosure 
+        url="https://cdn.kptz.org/2025/12/Nature-Now755-2025-Christmas-Bird-Count.mp3"    
+		length="31735089" 
         type="audio/mpeg" 
       />
       <guid isPermaLink="false">Nature-Now755</guid>
