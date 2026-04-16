@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 767 -->
+	<item>
+      <title>Nighttime Tide Pooling</title>
+      <itunes:title>Nighttime Tide Pooling</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and Carolyn Woods, from the Port Townsend Marine Science Center, go on a winter tide pooling trip at night.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Come with Nan Evans and Carolyn Woods, from the Port Townsend Marine Science Center, on an audio winter tide pooling trip at NIGHT. In the winter why are the really low tides at night and during the daytime in summer? Why can we see different animals at different tide levels? What might we see during a winter nighttime low tide that we wouldn't see during a summer low tide? Would an ultraviolet or black light be a cool thing to have? Get excited about tide pooling! (KPTZ airdate: April 1, 2026) </p><p>Learn more:<br /><a href='https://www.ourwildpugetsound.com/journal/puget-sound-tide-pooling-guide-preview'>Puget Sound Tide Pooling Guide</a><br /><a href='https://wdfw.wa.gov/species-habitats/ecosystems/marine-shorelines#species'>Marine Shoreline Ecosystem</a><br /><a href='https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9444900'>NOAA Tide Chart for Port Townsend</a><br /><a href='https://harbourpublishing.com/collections/field-guide-brochures-1'>Field Guide Brochures</a> to take with you<br /><a href='https://uwapress.uw.edu/book/9780295749969/between-the-tides-in-washington-and-oregon/'>Between the Tides in Washington and Oregon: Exploring Beaches and Tidepools</a> by Ryan P. Kelly, Terrie Klinger, and John J. Meyer<br /><a href='https://harbourpublishing.com/collections/j-duane-sept/products/9781990776731'>The New Beachcomber’s Guide to the Pacific Northwest</a> by J. Duane Sept</p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/03/Nature-Now767-Caroline-Woods-Night-time-Tide-pooling.mp3"
+        length="25216401" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now767</guid>
+      <pubDate>Wed, 01 Apr 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 766 -->
 	<item>
       <title>Wetland Delineation (Part 1)</title>
@@ -27,7 +47,7 @@
 	  Debaran Kelso speaks about the importance of wetlands with wetland biologist Donna Frostholm.	  
 	  </itunes:summary>
 	  <description>
-	  <![CDATA[<p>Debaran Kelso speaks about the importance of wetlands with wetland biologist Donna Frostholm while they wander through the Winona Wetland just west of Port Townsend on a beautiful Spring afternoon (part 1 of a two-part program). (KPTZ airdate: March 25, 2026) </p><p>Learn more:<br /><a href='https://saveland.org/protected-properties/quimper-wildlife-corridor/'>Quimper Wildlife Corridor</a><br /><a href='https://www.wetlands-initiative.org/what-is-a-wetland'>What Is A Wetland?</a><br /><a href='https://www.wnps.org/'>Washington Native Plant Society</a><br />Mystery sound recording: Dave Herr, <a href='https://macaulaylibrary.org/asset/130725'>ML130725</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library <br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+	  <![CDATA[<p>Debaran Kelso speaks about the importance of wetlands with wetland biologist Donna Frostholm while they wander through the Winona Wetland just west of Port Townsend on a beautiful Spring afternoon (part 1 of a two-part program). (KPTZ airdate: March 25, 2026) </p><p>We dedicate this program to our dear friend Dixie Llewellin, a tireless advocate for wetlands, and prairies, and all things of beauty.  She died suddenly, and much too soon, in November 2025. </p><p>Learn more:<br /><a href='https://saveland.org/protected-properties/quimper-wildlife-corridor/'>Quimper Wildlife Corridor</a><br /><a href='https://www.wetlands-initiative.org/what-is-a-wetland'>What Is A Wetland?</a><br /><a href='https://www.wnps.org/'>Washington Native Plant Society</a><br />Mystery sound recording: Dave Herr, <a href='https://macaulaylibrary.org/asset/130725'>ML130725</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library <br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
       </description>
 	  <enclosure 
         url="https://cdn.kptz.org/2026/03/Nature-Now766DonnaFrostholm-Wetland-Delieation-pt-1.mp3"
