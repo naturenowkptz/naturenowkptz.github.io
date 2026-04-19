@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 769 -->
+	<item>
+      <title>What The Wild Still Has To Teach Us</title>
+      <itunes:title>What The Wild Still Has To Teach Us</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Kurt Hoelting about his new book, Apprentice to the Wild, and what might the wild still have to teach us.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Kurt Hoelting about his new book, Apprentice to the Wild. Kurt's work asks a timely question: what might the wild still have to teach us? Today we reflect on his life from early encounters with wildness to his embrace of Zen practice. At a moment when many of us feel increasingly disconnected from nature, from country, even from ourselves, wildness is a poignant topic. (KPTZ airdate: April 15, 2026) </p><p>Learn more:<br /><a href='https://www.emptybowl.org/store/p/apprentice-to-the-wild'>Apprentice to the Wild</a> by Kurt Hoelting<br /><a href='https://www.insidepassages.com/'>Kurt Hoelting</a><br /><a href='https://www.youtube.com/watch?v=vhmeQC6jKHU'>Virtual Conversation: Apprenticing to the Wild with Kurt Hoelting and Stephen Posner</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/04/Nature-Now769-Kurt-Hoelting-Apprentice-to-the-Wild.mp3"
+        length="26267553" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now769</guid>
+      <pubDate>Wed, 15 Apr 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1695</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 767 -->
 	<item>
       <title>Nighttime Tide Pooling</title>
