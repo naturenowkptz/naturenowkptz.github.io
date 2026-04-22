@@ -19,6 +19,46 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 770 -->
+	<item>
+      <title>Mysteries of the Deep Ocean (Part 1)</title>
+      <itunes:title>Mysteries of the Deep Ocean (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and her guest, oceanographer Chris Kelley, discuss life in the very deep ocean.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Imagine life in the very deep sea – eternal darkness, no plant photosynthesis to form the base of the food webs, water temperatures hovering around freezing, pressures 1000 times greater than at the surface. Yet complex and diverse ecosystems exist; weird and sometimes very large creatures float and swim; and around 80% of this world remains unexplored. Join Nan Evans and her guest, oceanographer Chris Kelley, as they consider life in deep ocean (part 1 of a three-part program). (KPTZ airdate: April 22, 2026) </p><p>Learn more:<br /><a href='https://deepseacoraldata.noaa.gov/'>NOAA Deep Sea Coral Research and Technology Program</a><br /><a href='https://oceanexplorer.noaa.gov/data/animal-guide/'>NOAA Office of Ocean Exploration Benthic Deepwater Animal Identification Guide</a><br /><a href='https://nautiluslive.org/'>Ocean Exploration Trust</a><br /><a href='https://www.soest.hawaii.edu/HURL/HURLarchive/'>University of Hawaii Undersea Research Laboratory Archive</a><br /><a href='https://www.mbari.org/'>Monterrey Bay Aquarium Research Institute</a><br /><a href='https://schmidtocean.org/'>Schmidt Ocean Institute</a><br /><a href='https://nautiluslive.org/people/christopher-kelley'>Chris Kelley</a> at Ocean Exploration Trust<br /><a href='https://schmidtocean.org/person/christopher-kelley/'>Chris Kelley</a> at Schmidt Ocean Institute<br />Chris Kelley's lecture: <a href='https://www.youtube.com/watch?v=bTcT9yfk6Xg'>In Deeper Waters: Exploring Earth’s Largest, Yet Least Understood, Biome</a><br /><a href='https://www.shapeoflife.org/blog/mysterious-deep-sea'>The Mysterious Deep Sea</a><br /><a href='https://www.mbari.org/education/animals-of-the-deep/'>Animals of the Deep</a><br /><a href='https://sanctuaries.noaa.gov/magazine/5/mysteries-of-the-deep/'>Mysteries of the Deep</a><br />BBC Earth: <a href='https://www.youtube.com/watch?v=oaJIkGhAf7U'>The Strangest Creatures of the Ocean</a><br />Mystery sound recording: <a href='https://www.youtube.com/watch?v=HxOHV65DpSs'>SciNews</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/04/Nature-Now770-Mysteries-of-the-Deep-Ocean-pt1.mp3"
+        length="26917857" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now770</guid>
+      <pubDate>Wed, 22 Apr 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1709</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 487 -->
+	<item>
+      <title>Wonders of the Deep Abyss</title>
+      <itunes:title>Wonders of the Deep Abyss</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and her guest, oceanographer and deep sea ecologist Dr. Christopher Kelley, discuss exploring the deep ocean.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Imagine the deep ocean with Nan Evans and her guest, oceanographer and deep sea ecologist Dr. Christopher Kelley. What is life like in the deep ocean and how do scientists even explore those vast regions? (KPTZ airdate: November 4, 2020) </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2020/11/Nature-Now487Chris-Kelley-pt1.mp3"
+        length="40719488" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now487</guid>
+      <pubDate>Wed, 22 Apr 2026 12:20:00 PST</pubDate>
+      <itunes:duration>1690</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 769 -->
 	<item>
       <title>What The Wild Still Has To Teach Us</title>
