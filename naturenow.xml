@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 771 -->
+	<item>
+      <title>Wetland Delineation (Part 2)</title>
+      <itunes:title>Wetland Delineation (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso continues her field exploration of a local wetland with wetland biologist Donna Frostholm.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso continues her field exploration of our local Winona Wetland with wetland biologist Donna Frostholm, learning about digging soil pits and determining soil type, as well as learning about the other key features that define a wetland habitat type (part 2 of a two-part program). (KPTZ airdate: April 29, 2026) </p><p>Learn more:<br /><a href='https://saveland.org/protected-properties/quimper-wildlife-corridor/'>Quimper Wildlife Corridor</a><br /><a href='https://www.wetlands-initiative.org/what-is-a-wetland'>What Is A Wetland?</a><br /><a href='https://www.wnps.org/'>Washington Native Plant Society</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/04/Nature-Now771-Wetland-Deliniation-pt2-1.mp3"
+        length="41933308" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now771</guid>
+      <pubDate>Wed, 29 Apr 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1658</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>  
 	<!-- EPISODE 770 -->
 	<item>
       <title>Mysteries of the Deep Ocean (Part 1)</title>
