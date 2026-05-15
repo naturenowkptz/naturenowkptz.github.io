@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 773 -->
+	<item>
+      <title>A Naturalist's Eye: Seeing the Hidden Lives of Native Bees</title>
+      <itunes:title>A Naturalist's Eye: Seeing the Hidden Lives of Native Bees</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury explores the fascinating world of Washington's native bees with photographer and bee advocate Kris Ethington. 	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury recently explored honey bees and became familiar with their remarkable social behavior and complex colonies. Today, she turns to Washington's native bees with photographer and bee advocate Kris Ethington. Kris will share insights into the diversity of native bees and the intricate relationships that sustain them. Join us as we explore the fascinating world of Washington's native bees and the important roles they play in our ecosystems. (KPTZ airdate: May 13, 2026) </p><p>Learn more:<br /><a href='https://www.inaturalist.org/people/kriseth7'>Kris Ethington on iNaturalist</a><br /><a href='https://www.wanativebeesociety.org/members-area/fb9c65eb-afcf-48ca-9bd8-bac56b946d34/profile'>Kris Ethington's blogs</a> for the Washington Native Bee Society<br /><a href='https://www.wanativebeesociety.org/'>Washington Native Bee Society</a><br /><a href='https://www.gnbee.org/'>Project Ground-Nesting Bee</a><br /><a href='https://agr.wa.gov/beeatlas'>Washington Bee Atlas</a><br /><a href='https://agr.wa.gov/departments/insects-pests-and-weeds/insects/apiary-pollinators/pollinator-health/bee-atlas/native-bees'>Meet Our Native Bees</a><br /><a href='https://xerces.org/'>The Xerces Society for Invertebrate Conservation</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/05/Nature-Now773-Native-Bees.mp3"
+        length="26813116" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now773</guid>
+      <pubDate>Wed, 13 Apr 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1709</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 771 -->
 	<item>
       <title>Wetland Delineation (Part 2)</title>
