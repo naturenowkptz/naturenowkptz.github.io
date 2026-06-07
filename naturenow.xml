@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 775 -->
+	<item>
+      <title>Fort Worden BioBlitz</title>
+      <itunes:title>Fort Worden BioBlitz</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talk with Kelsey Lang, Fort Worden State Park's Interpretive Specialist and Naturalist, about the BioBlitz event.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>A BioBlitz? What is that? Nan Evans talks with Kelsey Lang, Fort Worden State Park's Interpretive Specialist and Naturalist. Think about the importance of biodiversity in our own local park. And, see how communities and scientists have joined efforts across the world to learn more about ecosystems near and far. The 2026 BioBlitz at Fort Worden State Park is June 6 and 7. Come learn and have fun with like minded folks exploring our natural world. (KPTZ airdate: May 27, 2026) </p><p>Learn more:<br /><a href='https://www.inaturalist.org/projects/fort-worden-spring-bioblitz-2026'>Fort Worden Spring BioBlitz 2026 on iNaturalist</a><br /><a href='https://www.inaturalist.org/projects/tracking-fort-worden-s-biodiversity'>Tracking Fort Worden's Biodiversity</a><br /><a href='https://parks.wa.gov/FortWordenBioBlitz'>Fort Worden BioBlitz</a><br />Music by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/06/Nature-Now775-Fort-Worden-Bio-Blitz.mp3"
+        length="27021189" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now775</guid>
+      <pubDate>Wed, 27 May 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1661</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 774 -->
 	<item>
       <title>Mysteries of the Deep Ocean (Part 2)</title>
