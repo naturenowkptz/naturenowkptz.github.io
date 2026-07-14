@@ -19,7 +19,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
-	<!-- EPISODE 781 fix error -->
+	<!-- EPISODE 781 fix error in audio -->
 	<item>
       <title>Getting Rid of Noxious Weeds (Part 1)</title>
       <itunes:title>Getting Rid of Noxious Weeds (Part 1)</itunes:title>
@@ -39,27 +39,6 @@
       <itunes:duration>1596</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-	<!-- EPISODE 781 error in audio
-	<item>
-      <title>Getting Rid of Noxious Weeds (Part 1)</title>
-      <itunes:title>Getting Rid of Noxious Weeds (Part 1)</itunes:title>
-	  <itunes:summary>
-	  Debaran Kelso talkes with Sophie DeGroot, Noxious Weed Coordinator for Jefferson County, about the problem of invasive plants and the role of the Noxious Weed Board in our county.	  
-	  </itunes:summary>
-	  <description>
-	  <![CDATA[<p>Tired of those pesky weeds?!? Debaran Kelso talks with Sophie DeGroot, Noxious Weed Coordinator for Jefferson County, about the problem of invasive plants and the role of the Noxious Weed Board in our county (part 1 of a two-part program). (KPTZ airdate: July 8, 2026) </p><p>Learn more:<br /><a href='https://jeffersoncountypublichealth.org/195/Noxious-Weed-Control-Board'>Jefferson County Noxious Weed Control Board</a><br /><a href='https://www.nwcb.wa.gov/'>Washington State Noxious Weed Control Board</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
-      </description>
-	  <enclosure 
-        url="https://cdn.kptz.org/2026/07/Nature-Now781-Noxious-Weeds.mp3"
-        length="40883279" 
-        type="audio/mpeg" 
-      />
-      <guid isPermaLink="false">Nature-Now781</guid>
-      <pubDate>Wed, 08 Jul 2026 12:30:00 PST</pubDate>
-      <itunes:duration>1572</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-	-->
 	<!-- EPISODE 779 -->
 	<item>
       <title>Medical Care for Marine Mammals of the Salish Sea</title>
