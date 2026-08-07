@@ -19,6 +19,46 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 784 -->
+	<item>
+      <title>Our Seabirds As Sentinels</title>
+      <itunes:title>Our Seabirds As Sentinels</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury speaks with Dr. Eric Wagner about his book, Seabirds as Sentinels.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury speaks with Dr. Eric Wagner about his book, Seabirds as Sentinels. The Pacific coast — often called the "Blue Serengeti" — is a major center for seabird research. The central idea is that seabirds function as sentinels, or early-warning indicators, of changes in marine ecosystems. Because they depend on fish and other marine life for food, shifts in seabird behavior, breeding success, migration patterns, or population numbers can reveal broader environmental changes occurring in the ocean before the changes are obvious to us. (KPTZ airdate: July 29, 2026) </p><p>Learn more:<br /><a href='https://uwapress.uw.edu/book/9780295754611/seabirds-as-sentinels/'>Seabirds as Sentinels</a> by Eric Wagner<br /><a href='https://ecosystemsentinels.org/eric-wagner/'>Dr. Eric Wagner</a><br /><a href='https://uwpressblog.com/2026/04/22/seabirds-as-sentinels-a-conversation-with-science-writer-eric-wagner/'>Seabirds as Sentinels: A Conversation with Science Writer Eric Wagner</a><br />Sound recording: Matthew L. Brady, XC842483, accessible at <a href='https://xeno-canto.org/842483'>www.xeno-canto.org/842483</a>. License <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/07/Nature-Now784-Dr.-Eric-Wagner-Seabirds-as-Sentinals.mp3"
+        length="24433120" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now784</guid>
+      <pubDate>Wed, 29 Jul 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 782 -->
+	<item>
+      <title>Getting Rid of Noxious Weeds (Part 2)</title>
+      <itunes:title>Getting Rid of Noxious Weeds (Part 2)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso talkes with Sophie DeGroot, Noxious Weed Coordinator for Jefferson County, about the problem of invasive plants and how to remove them.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso talks with Sophie DeGroot, Noxious Weed Coordinator for Jefferson County, for the second part of our program on invasive weeds. We get down and dirty out in the field, focusing on how to remove a couple of our arch enemies, English ivy and holly, along with discussing removal strategies for other invasive species in our area (part 2 of a two-part program). (KPTZ airdate: July 15, 2026) </p><p>Learn more:<br /><a href='https://jeffersoncountypublichealth.org/195/Noxious-Weed-Control-Board'>Jefferson County Noxious Weed Control Board</a><br /><a href='https://www.nwcb.wa.gov/'>Washington State Noxious Weed Control Board</a><br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/07/Nature-Now782-Noxious-Weeds-pt2.mp3"
+        length="47586508" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now782</guid>
+      <pubDate>Wed, 15 Jul 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>  
 	<!-- EPISODE 781 fix error in audio -->
 	<item>
       <title>Getting Rid of Noxious Weeds (Part 1)</title>
