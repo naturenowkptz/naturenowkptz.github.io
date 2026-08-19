@@ -19,6 +19,46 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 787 -->
+	<item>
+      <title>Our Changing Coasts – Sea Level Change and Dam Removal</title>
+      <itunes:title>Our Changing Coasts – Sea Level Change and Dam Removal</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with Washington Sea Grant’s Dr. Ian Miller about the intersections of coastal science, hazard and risk assessments, and planning for changes in our coastal ecosystems.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans talks with Washington Sea Grant's Coastal Hazard Specialist, Dr. Ian Miller, about the intersections of coastal science, hazard and risk assessments, and planning for changes in our coastal ecosystems. Specific examples include visualizations for rising and falling sea levels in coastal Washington and the impacts that the removal of the Elwha dams had on the shoreline. (KPTZ airdate: August 19, 2026) </p><p>Learn more:<br /><a href='https://waseagrant.uw.edu/about-us/people/ian-miller/'>Ian Miller @ Washington Sea Grant</a><br />Ian Miller's blog, <a href='https://coastnerd.blogspot.com/'>The Coast Nerd Gazette</a><br /><a href='https://waseagrant.uw.edu/education-training/lifelong-learning/river-and-ocean-film-festival/'>The River & Ocean Film Festival</a><br /><a href='https://cig.uw.edu/'>The University of Washington Climate Impacts Group</a><br /><a href='https://cig.uw.edu/projects/interactive-sea-level-rise-data-visualizations/'>Sea Level Rise Data Visualizations</a><br /><a href='https://wacoastalnetwork.com/'>Washington Coastal Hazards Resilience Network</a><br /><a href='https://cityofpt.us/sites/default/files/fileattachments/engage_pt/page/20561/porttownsend_sea_level_rise_report_final_12132022.pdf'>Port Townsend Sea Level Rise Risk Assessment</a><br />Mystery sound recording: <a href='https://en.wikipedia.org/wiki/User:Parande'>Parande</a> at <a href='https://en.wikipedia.org/wiki/File:Tamiasciurus_douglasii.ogg'>English Wikipedia</a><br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/08/Nature-Now787-Ian-Miller-Inspiring-Conservation.mp3"
+        length="29276428" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now787</guid>
+      <pubDate>Wed, 19 Aug 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1669</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+	<!-- EPISODE 785 -->
+	<item>
+      <title>It's Learning, It's Fun, It's Solid Science... It's iNaturalist</title>
+      <itunes:title>It's Learning, It's Fun, It's Solid Science... It's iNaturalist</itunes:title>
+	  <itunes:summary>
+	  Nan Evans and her guest Wendy Feltham explore iNaturalist, the community forum for sharing nature observation experiences.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Nan Evans and her guest Wendy Feltham explore fun and enriching ways to expand and enrich your nature observation experiences. iNaturalist is a free, non-profit, and community-powered forum where every observation tells a story. And every observation has the potential to advance research and scientific understanding of the natural world. (KPTZ airdate: August 5, 2026) </p><p>Learn more:<br /><a href='https://www.inaturalist.org/'>iNaturalist</a><br /><a href='https://www.inaturalist.org/pages/newsletter'>iNaturalist newsletter</a><br /><a href='https://www.inaturalist.org/people/wendy5'>Wendy's activities on iNaturalist</a><br /><a href='https://www.inaturalist.org/projects/crabs-of-the-world'>Wendy's Crabs of the World project</a><br /><a href='https://www.inaturalist.org/projects/quimper-wildlife-corridor-preserve-area'>Jefferson Land Trust’s Quimper Wildlife Corridor project</a><br />Two of Wendy’s articles from the Rainshadow Journal: <a href='https://rainshadownorthwest.com/2022/04/19/songbirds-of-port-townsend/'>Songbirds of Port Townsend</a> and <a href='https://rainshadownorthwest.com/2022/05/07/becoming-a-citizen-scientist/'>Becoming a Citizen Scientist</a><br /><a href='https://45450221.hs-sites.com/saving-bison-as-bombs-fall'>Wendy's "Making A Difference" profile in bioGraphic (scroll way down past RhymeTime)</a><br />Mystery sound recording: Kim Nelson, <a href='https://macaulaylibrary.org/asset/84225'>ML84225</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/08/Nature-Now785-Wendy-Feldman-Its-iNaturalist.mp3"
+        length="27473500" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now785</guid>
+      <pubDate>Wed, 05 Aug 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1736</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 784 -->
 	<item>
       <title>Our Seabirds As Sentinels</title>
