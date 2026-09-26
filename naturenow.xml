@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 792 -->
+	<item>
+      <title>Survival of Kelp Forests in Our Changing World</title>
+      <itunes:title>Survival of Kelp Forests in Our Changing World</itunes:title>
+	  <itunes:summary>
+	  Nan Evans talks with oceanographer Dr. Ed Parnell	about why kelp forests are critical to the health of marine ecosystems and vulnerable to atmospheric and ocean warming.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Dive into the iconic kelp forests of our coastal oceans with host Nan Evans and oceanographer Dr. Ed Parnell. Ponder what makes them so critical to the health of marine ecosystems and so vulnerable to changes due to atmospheric and ocean warming. Did you know that kelp are among the fastest growing organisms on our planet - two feet per day, to heights of over 100 feet above the ocean floor. Yet, shockingly, kelp forests are vanishing world-wide. Off the Oregon coast: about 70% of the kelp canopy vanished between 2010 and 2022; nearly 90% of the bull kelp beds vanished in parts of the South Puget Sound and the San Juan Islands in recent decades. (KPTZ airdate: September 23, 2026) </p><p>Learn more:<br />Ed's upcoming lecture <a href='https://ptmsc.org/event/lecture-marine-heat-waves-ca-kelp-forests/'>"Marine Heat Waves and the Ecology of Southern California Kelp Forests"</a><br /><a href='https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.4319/lo.2010.55.6.2686'>The response of giant kelp (Macrocystis pyrifera) in southern California to low-frequency climate forcing</a><br /><a href='https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70181'>Demography and dynamics of giant kelp cohorts across four decades: Lessons for conservation and resilience planning</a><br /><a href='https://www.youtube.com/watch?v=XwD6SeKhQ_Q'>Video of dive from Mia's Reef to Quast Rock in north La Jolla</a><br /><a href='https://scripps.ucsd.edu/news/researchers-create-family-history-san-diego-kelp-over-more-four-decades'>Researchers Create A Family History of San Diego Kelp Over More Than Four Decades</a><br /><a href='https://phys.org/news/2026-06-years-reveals-true-extent-climate.html'>50 years of data reveals true extent of climate change impacts on kelp forests</a><br /><a href='https://www.montereybayaquarium.org/animals-the-ocean/ecosystems/kelp-forest'>Monterey Bay Aquarium: Kelp Forest Ecosystem</a><br /><a href='https://sanctuaries.noaa.gov/visit/ecosystems/kelpdesc.html'>NOAA: Kelp Forest Ecosystem</a><br /><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC5159872/'>Extreme warming challenges sentinel status of kelp forests as indicators of climate change</a><br />Mystery sound recording: <a href='https://www.youtube.com/watch?v=H92LG6gxQ7E'>California Sea Grant</a><br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/09/Nature-Now792-Ed-Parnell-Survival-of-Kelp-Forests.mp3"
+        length="26817796" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now792</guid>
+      <pubDate>Wed, 23 Sep 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1739</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 787 -->
 	<item>
       <title>Our Changing Coasts – Sea Level Change and Dam Removal</title>
