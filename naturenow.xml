@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 793 -->
+	<item>
+      <title>From Bunkers to Bird Watching – Fort Flagler State Park</title>
+      <itunes:title>From Bunkers to Bird Watching – Fort Flagler State Park</itunes:title>
+	  <itunes:summary>
+	  Jackie Canterbury talks with Deisy Bach about Fort Flagler State Park and the important work of the Friends of Fort Flagler. 
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Jackie Canterbury talks with Deisy Bach, the new president of the Friends of Fort Flagler. Fort Flagler State Park encompasses 1,451 acres on Marrowstone Island. It is a remarkable place with a rich military history, diverse habitats, forests, shoreline, and opportunities for recreation and wildlife observation. We’ll learn more about Fort Flagler, the mission of the park, and the important work of the Friends of Fort Flagler. (KPTZ airdate: September 30, 2026) </p><p>Learn more:<br /><a href='https://friendsoffortflagler.org/'>Friends of Fort Flagler</a><br /><a href='https://parks.wa.gov/find-parks/state-parks/fort-flagler-historical-state-park'>Fort Flagler Historical State Park</a><br />Mystery sound recording: Gerrit Vyn, <a href='https://macaulaylibrary.org/asset/132149'>ML132149</a>, courtesy of Cornell Lab of Ornithology | Macaulay Library<br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/09/Nature-Now793-From-Bunkers-to-Bird-WatchingFort-Flagler-State-Park.mp3"
+        length="27058732" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now793</guid>
+      <pubDate>Wed, 30 Sep 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1708</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 792 -->
 	<item>
       <title>Survival of Kelp Forests in Our Changing World</title>
