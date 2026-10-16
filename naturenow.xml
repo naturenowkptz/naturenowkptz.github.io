@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 795 -->
+	<item>
+      <title>Meet the Small Mammals (Part 1)</title>
+      <itunes:title>Meet the Small Mammals (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with small mammal expert Nick Moore about our abundant and diverse small mammal community.	  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Debaran Kelso is joined by small mammal expert Nick Moore, of the WA Department of Fish and Wildlife, as we wander about the Chimacum Ridge Community Forest talking about our abundant and diverse small mammal community (part 1 of a two-part program). (KPTZ airdate: October 14, 2026) </p><p>Learn more:<br /><a href='https://saveland.org/save-land/chimacum-ridge/'>Chimacum Ridge Community Forest</a><br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/10/Nature-Now795-Nick-Moore-Small-Mammals.mp3"
+        length="50447796" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now795</guid>
+      <pubDate>Wed, 14 Oct 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1731</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>  
 	<!-- EPISODE 794 -->
 	<item>
       <title>Stewardship of the Salish Sea through the Beauty of Film and the Actions of Communities</title>
