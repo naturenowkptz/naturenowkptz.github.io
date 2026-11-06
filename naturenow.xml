@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 798 -->
+	<item>
+      <title>Cascades: The Range of Fire and Ice (Part 1)</title>
+      <itunes:title>Cascades: The Range of Fire and Ice (Part 1)</itunes:title>
+	  <itunes:summary>
+	  Nan Evans speaks with author, naturalist, and geologist David B. Williams	about his new book, In the Range of Fire and Ice: A Human and Natural History of Washington's Cascades.  
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>When we open our eyes and ears, pay attention, and remain ever curious, we experience an awe of the world and of the many intricate webs that link us to the natural world. Nan Evans is in conversation with David B. Williams, Seattle author, naturalist, geologist, and observer extraordinaire. Their starting place is David's brand-new book, In the Range of Fire and Ice: A Human and Natural History of Washington's Cascades. They roam through the deep history of geological time, the dynamic nature of changes to the landscape of mountains and ecosystems, and the relationships between the natural world and human cultures (part 1 of a two-part program). (KPTZ airdate: November 4, 2026) </p><p>Learn more:<br /><a href='https://geologywriter.com/'>David B. Williams</a><br /><a href='https://streetsmartnaturalist.substack.com/'>David's newsletter</a><br /><a href='https://ptpubliclibrary.org/library/page/author-talk-david-b-williams-conversation-conner-bouchard-roberts'>Author Talk with David B. Williams</a> at the Port Townsend Library<br /><a href='https://quimpergeology.org/2026/2026-11-21-david-b-williams-a-natural-history-of-the-cascades/'>David B. Williams Lecture: A Natural History of the Cascades</a> presented by the Quimper Geological Society<br />Mystery sound recording: <a href='https://www.nps.gov/subjects/sound/sounds-elk.htm'>National Park Service</a> </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/11/Nature-Now798-David-Williams-part-1.mp3"
+        length="40299712" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now798</guid>
+      <pubDate>Wed, 04 Nov 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1692</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 795 -->
 	<item>
       <title>Meet the Small Mammals (Part 1)</title>
