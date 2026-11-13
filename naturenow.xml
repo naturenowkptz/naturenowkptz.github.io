@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 	<!-- START EPISODES most recent at top -->
+	<!-- EPISODE 799 -->
+	<item>
+      <title>Return of the Giants of the Salish Sea</title>
+      <itunes:title>Return of the Giants of the Salish Sea</itunes:title>
+	  <itunes:summary>
+	  Debaran Kelso speaks with	John Calambokidis, of the Cascadia Research Collective, about the gray and humpback whales of the Salish Sea. 
+	  </itunes:summary>
+	  <description>
+	  <![CDATA[<p>Join Nature Now as we learn more about our giants of the Salish Sea, the gray and humpback whales! Debaran Kelso speaks with guest John Calambokidis of the Cascadia Research Collective out of Olympia, WA, reviewing his 50 years of research on these remarkable mammals and their current status in the Salish Sea and beyond. (KPTZ airdate: November 11, 2026) </p><p>Learn more:<br /><a href='https://cascadiaresearch.org/'>Cascadia Research Collective</a><br />Mystery sound recording: <a href='https://www.instagram.com/reel/C8ZyBuLOeYp/'>Marine Education and Research Society</a><br />Original music for Nature Now by Rick Bauer </p><p>Nature Now is created by a dedicated team of volunteers. If you enjoy this episode and can support the work that goes into making Nature Now, we invite you to go to <a href='https://kptz.org/donate'>kptz.org/donate</a> to make a contribution. Thank you for your support!</p>]]>
+      </description>
+	  <enclosure 
+        url="https://cdn.kptz.org/2026/11/Nature-Now799-John-Calambokodis.mp3"
+        length="26880412" 
+        type="audio/mpeg" 
+      />
+      <guid isPermaLink="false">Nature-Now799</guid>
+      <pubDate>Wed, 11 Nov 2026 12:30:00 PST</pubDate>
+      <itunes:duration>1685</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 	<!-- EPISODE 798 -->
 	<item>
       <title>Cascades: The Range of Fire and Ice (Part 1)</title>
